@@ -124,7 +124,7 @@ The visual and cultural style of the late 1990s and early 2000s, characterized b
 
 1. Berti, Paolo. "Megadungeon: A Model for Media Complexity." Magazén, no. 2 (December 19, 2023). JournalArticle_15421. [Link](https://doi.org/10.30687/mag/2724-3923/2023/02/003).
 
-2. Plastiboo. Vermis I. Hollow Press, 2023. [Link](https://hollow-press.net/collections/plastiboo/products/vermis-i)
+2. Plastiboo. Vermis I. Hollow Press, 2023. [Link](https://hollow-press.net/collections/plastiboo/products/vermis-i).
 
 ---
 
@@ -136,7 +136,7 @@ The visual and cultural style of the late 1990s and early 2000s, characterized b
 
 #### Analogue horror
 
-4. Long, Rowan. "Analysis of Analog Horror." Sosland Journal, n.d. [Link](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://info.umkc.edu/sosland_journal/wp-content/uploads/2023/08/Long_AnalysisOfAnalogHorror.pdf)
+4. Long, Rowan. "Analysis of Analog Horror." Sosland Journal, n.d. [Link](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://info.umkc.edu/sosland_journal/wp-content/uploads/2023/08/Long_AnalysisOfAnalogHorror.pdf).
 
 ---
 
