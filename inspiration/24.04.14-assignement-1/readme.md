@@ -8,7 +8,7 @@
 
 1. Sounding plants & analogue modular synths (cables as roots)
 2. Synth designs
-3. Y2K : the comeback of high-energy visuals and music
+3. Y2K: the comeback of high-energy visuals and music
 4. Y2K and the culture of DnB/Techno
 
 #### 1: Ghost hunting
@@ -27,7 +27,7 @@
 5. The horror of out-of-bound video game experiences
 6. 90's PSX visual nostalgia
 
-#### 3: my inner love for roleplaying
+#### 3: My inner love for roleplaying
 
 1. Dungeon crawling
 2. DnD & Roleplaying
@@ -47,6 +47,10 @@
 2. Creating stories through 90's technologies and game aesthetics (PSX, Liminal, VHS, Bad graphics, etc.)
 3. SCP & Backrooms
 
+#### 6: Insects & frogs
+
+1. IDK i just love them !
+
 ### Potential research questions
 
 - From Gaslighting to EMF detector, how have technologies accompanied our beliefs in spiritualism?
@@ -61,6 +65,8 @@
 - A traveling journal through digital dungeons. (from Wizardry to Plastiboo fictive video games)
 
 ### Glossary
+
+#### Some videogames references
 
 ---
 
