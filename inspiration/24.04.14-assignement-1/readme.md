@@ -18,7 +18,7 @@
 3. Ghost hunting technologies
 4. Video game folklore & Urban legends
 
-#### 2: Lowpoly comeback 👾
+#### 2: Low-poly comeback 👾
 
 1. PS1: the era of survival horror
 2. PSX horror comeback
@@ -27,12 +27,12 @@
 5. The horror of out-of-bound video game experiences
 6. 90's PSX visual nostalgia
 
-#### 3: My inner love for roleplaying 🎲
+#### 3: My inner love for role-playing 🎲
 
 1. Dungeon crawling
-2. DnD & Roleplaying
+2. DnD & Role-playing
 3. The rise of digital cartographers
-4. The "souls" series (soulslike games)
+4. The "souls" series (souls-like games)
 5. The fall of DnD and the homebrew comeback
 
 #### 4: Liminal spaces & ambient 🚪
