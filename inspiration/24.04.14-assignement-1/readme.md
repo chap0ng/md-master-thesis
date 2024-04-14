@@ -29,13 +29,24 @@
 
 12. DnD & Roleplaying
 
+13. The horror of the out of bound videogames experiences
+
+14. Analogue horror analysis
+
+15. Sounding plants & analogue modular synths ( cables as roots )
+
+16. Synth designs
+
+17. 90' s PSX visual nostalgia
+
+
 ### Potential research questions
 
--
+- Reapropriation & hacking of technologic object for enhanced ghost-hunting.
 
--
+- Liminal spaces & the desire to disappear into nostalgia.
 
--
+- Scaring with nostalgia ( PSX, Liminal, VHS, Bad graphics etc..)
 
 ### Glossary
 
@@ -43,6 +54,26 @@
 
 ---
 # (2) Academic resources
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+9. 
+
+10. 
 
 
 ---
