@@ -9,7 +9,7 @@
 1. Sounding plants & analogue modular synths (cables as roots)
 2. Synth designs
 3. Y2K: the comeback of high-energy visuals and music
-4. Y2K and the culture of DnB/Techno
+4. Y2K and the culture of Drum and Bass / Techno
 
 #### 1: Ghost hunting 👻
 
@@ -57,10 +57,12 @@
 ### Potential research questions
 
 - From Gaslighting to EMF detector, how have technologies accompanied our beliefs in spiritualism?
+
 - Liminal spaces & the desire to disappear into nostalgia.
+
 - How Y2K brought back the PlayStation 1 graphics and breakcore music scene?
 
-#### Some more...
+#### Some more ...
 
 - Is my PS1 haunted?
 - A traveling journal through digital dungeons. (from Wizardry to Plastiboo fictive video games)
@@ -119,6 +121,7 @@ The visual and cultural style of the late 1990s and early 2000s, characterized b
 ---
 
 ## (2) Academic resources
+
 
 #### Dungeons
 
