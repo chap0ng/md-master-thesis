@@ -37,7 +37,7 @@
 
 16. Synth designs
 
-17. 90' s PSX visual nostalgia
+17. 90's PSX visual nostalgia
 
 
 ### Potential research questions
@@ -46,7 +46,7 @@
 
 - Liminal spaces & the desire to disappear into nostalgia.
 
-- Scaring with nostalgia ( PSX, Liminal, VHS, Bad graphics etc..)
+- Creating stories through 90's thechnologies ( PSX, Liminal, VHS, Bad graphics etc..)
 
 ### Glossary
 
@@ -79,3 +79,15 @@
 ---
 # (3) Current image moodboard
 
+---
+# (4) Videos link // Websites
+
+-
+
+-
+
+-
+
+-
+
+-
