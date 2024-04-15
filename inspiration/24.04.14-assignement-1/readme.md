@@ -56,7 +56,8 @@
 
 ### Potential research questions
 
-- From Gaslighting to EMF detector, how have technologies accompanied our beliefs in spiritualism ?
+- From Gaslighting to EMF detector, how have technologies accompanied our beliefs in spiritualism/paranormal ?
+- (contemporary object for paranormal) (detournement des objets electronique pour les quêtes paranormales)
 
 - Liminal spaces & the desire to disappear into nostalgia.
 
@@ -64,9 +65,14 @@
 
 #### Some more ...
 
-- Is my PS1 haunted ? (how does videogame consols can be haunted)
-- A traveling journal through digital dungeons. (from Wizardry to Plastiboo fictive video games)
+- Is my PS1 haunted ? (how does videogame consols can be haunted).
 
+- A traveling journal through digital dungeons. (from Wizardry to Plastiboo fictive video games).
+
+#### Choosing ...
+
+- EMF and ghost detection or cartography
+motivations, tools, who ?, interviews, 
 ---
 
 ### Glossary
