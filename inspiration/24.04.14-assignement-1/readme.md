@@ -142,7 +142,7 @@ The visual and cultural style of the late 1990s and early 2000s, characterized b
 
 #### Analogue horror
 
-5. Long, Rowan. "Analysis of Analog Horror." Sosland Journal, n.d. [Link](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://info.umkc.edu/sosland_journal/wp-content/uploads/2023/08/Long_AnalysisOfAnalogHorror.pdf).
+5. Long, Rowan. "Analysis of Analog Horror." Sosland Journal, n.d. [Link](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://info.umkc.edu/sosland_journal/wp-content/uploads/2023/08/Long_AnalysisOfAnalogHorror.pdf). 
 
 ---
 
@@ -158,13 +158,13 @@ The visual and cultural style of the late 1990s and early 2000s, characterized b
 
 8. Blank, Trevor J. Folklore and the Internet: Vernacular Expression in a Digital World. University Press of Colorado, 2009. [Amazon](https://www.amazon.fr/Folklore-Internet-Vernacular-Expression-Digital/dp/0874217504/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1GT515A7WEGZQ&dib=eyJ2IjoiMSJ9.rV3kImjjNl24qtufAgAi1Q.wOqOkn9uDon4WdZlUFl78MfH-REP4vhKdcqQfph16Y8&dib_tag=se&keywords=Blank%2C+Trevor+J.+Folklore+and+the+Internet%3A+Vernacular+Expression+in+a+Digital+World&qid=1713112103&sprefix=blank%2C+trevor+j.+folklore+and+the+internet+vernacular+expression+in+a+digital+world%2Caps%2C106&sr=8-1).
 
-9. Blank, Trevor J., and Lynne S. McNeill. Slender Man Is Coming: Creepypasta and Contemporary Legends on the Internet. University Press of Colorado, 2018.
+9. Blank, Trevor J., and Lynne S. McNeill. Slender Man Is Coming: Creepypasta and Contemporary Legends on the Internet. University Press of Colorado, 2018.[Amazon](https://www.amazon.fr/Slender-Man-Coming-Creepypasta-Contemporary/dp/1607327805/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=27O40ZF848ODA&dib=eyJ2IjoiMSJ9.6qZeTCAB9SaN-_JzN8QD0DvgLQFrh-U2TT2Lc3l_UzoqAUFHxdUdBR0zhkPTrKB_.6NeiDD_hcK66OhttcawEjA1HO5fCyAVCx7tPMZCTe7M&dib_tag=se&keywords=slender+man+is+coming&qid=1713170050&sprefix=slender+man+is+coming%2Caps%2C110&sr=8-1)
 
 ---
 
 #### Synths
 
-10. Chowdhury, Anindita Roy, and Anshu Gupta. "Effect of Music on Plants – An Overview."
+10. Roy Chowdhury, Anindita, et Anshu Gupta. « Effect of Music on Plants – An Overview » 4 (28 décembre 2015): 30‑34.[Link](https://www.researchgate.net/publication/291086163_Effect_of_Music_on_Plants_-_An_Overview)
 
 11. Ferrigno, Emily. « Breakcore: Identity and Interaction on Peer-to-Peer (Whelan) ». _Dancecult_ 1, no 1 (2009): 152‑54.[Link](https://www.cambridgescholars.com/product/9781847186577)
 
