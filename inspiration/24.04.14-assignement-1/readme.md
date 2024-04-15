@@ -102,7 +102,7 @@ Stands for "Secure, Contain, Protect." It refers to a collaborative writing proj
  A subgenre of action role-playing games inspired by the gameplay mechanics and difficulty of the Souls series, typically featuring challenging combat, intricate level design, and a dark, atmospheric world filled with interconnected environments and lore.
 
 - #### Ugly 3D: 
-A term referring to intentionally low-quality or primitive 3D graphics, often used for stylistic or nostalgic purposes, evoking a sense of charm or authenticity reminiscent of early video game visuals.
+A term referring to intentionally low-quality or primitive 3D graphics, often used for stylistic or nostalgic purposes, evoking a sense of charm or authenticity reminiscent of early video game visuals. (As a reference artist : Nikita Daikur )
 
 - #### Y2K aesthetic:
 The visual and cultural style of the late 1990s and early 2000s, characterized by a blend of futuristic and retro elements, vibrant colors, and digital-inspired designs, reflecting the anticipation and uncertainty surrounding the turn of the millennium.
@@ -174,6 +174,9 @@ The visual and cultural style of the late 1990s and early 2000s, characterized b
 
 12. Houran, James. From Shaman to Scientist: Essays on Humanity’s Search for Spirits. Scarecrow Press, 2004. [Link](https://books.google.ch/books/about/From_Shaman_to_Scientist.html?id=wxqJDCwS0QUC&redir_esc=y).
 
+#### Ugly 3D
+
+13. « Nikita Diakur’s Chaotic Animations Are a Gross Study in Dynamic Computer Simulation ». Consulté le 15 avril 2024. [link](https://www.itsnicethat.com/articles/nikita-diakurs-ugly-animation-010518).
 
 ---
 
