@@ -56,15 +56,15 @@
 
 ### Potential research questions
 
-- From Gaslighting to EMF detector, how have technologies accompanied our beliefs in spiritualism?
+- From Gaslighting to EMF detector, how have technologies accompanied our beliefs in spiritualism ?
 
 - Liminal spaces & the desire to disappear into nostalgia.
 
-- How Y2K brought back the PlayStation 1 graphics and breakcore music scene?
+- How Y2K brought back the PlayStation 1 graphics and breakcore music scene ?
 
 #### Some more ...
 
-- Is my PS1 haunted?
+- Is my PS1 haunted ? (how does videogame consols can be haunted)
 - A traveling journal through digital dungeons. (from Wizardry to Plastiboo fictive video games)
 
 ---
@@ -117,6 +117,7 @@ The visual and cultural style of the late 1990s and early 2000s, characterized b
 - [Wizardry (Wiki)](https://wizardry.fandom.com/wiki/Main_Page)
 - [Haunted PS1](https://hauntedps1.itch.io/)
 - [From Software](https://www.fromsoftware.jp/ww/)
+- [Osamu Sato](https://www.osamusato.net/)
 
 ---
 
@@ -163,11 +164,13 @@ The visual and cultural style of the late 1990s and early 2000s, characterized b
 
 9. Chowdhury, Anindita Roy, and Anshu Gupta. "Effect of Music on Plants – An Overview."
 
+10. Ferrigno, Emily. « Breakcore: Identity and Interaction on Peer-to-Peer (Whelan) ». _Dancecult_ 1, no 1 (2009): 152‑54.[Link](https://www.cambridgescholars.com/product/9781847186577)
+
 ---
 
 #### Ghosts
 
-10. Houran, James. From Shaman to Scientist: Essays on Humanity’s Search for Spirits. Scarecrow Press, 2004. [Link](https://books.google.ch/books/about/From_Shaman_to_Scientist.html?id=wxqJDCwS0QUC&redir_esc=y).
+11. Houran, James. From Shaman to Scientist: Essays on Humanity’s Search for Spirits. Scarecrow Press, 2004. [Link](https://books.google.ch/books/about/From_Shaman_to_Scientist.html?id=wxqJDCwS0QUC&redir_esc=y).
 
 
 ---
