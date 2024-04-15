@@ -136,41 +136,43 @@ The visual and cultural style of the late 1990s and early 2000s, characterized b
 
 3. Perron, Bernard. Horror Video Games: Essays on the Fusion of Fear and Play. McFarland, 2014. [Link](https://books.google.ch/books?id=pNaQLQC9XhEC).
 
+4. Osamu Sato et 佐藤理. _The Art Of Computer Designing: A Black and White Approach_, 1993. [Link](http://archive.org/details/satoArtOfComputerDesigning).
+
 ---
 
 #### Analogue horror
 
-4. Long, Rowan. "Analysis of Analog Horror." Sosland Journal, n.d. [Link](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://info.umkc.edu/sosland_journal/wp-content/uploads/2023/08/Long_AnalysisOfAnalogHorror.pdf).
+5. Long, Rowan. "Analysis of Analog Horror." Sosland Journal, n.d. [Link](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://info.umkc.edu/sosland_journal/wp-content/uploads/2023/08/Long_AnalysisOfAnalogHorror.pdf).
 
 ---
 
 #### Liminal spaces
 
-5. Stephen, Samantha J. "‘The Backrooms’: Exploring the Unconscious Together through Collective Meaning Making." Journal of Psychosocial Studies 15, no. 3 (November 1, 2022): 201–8. [Link](https://doi.org/10.1332/147867322X16652365213235).
+6. Stephen, Samantha J. "‘The Backrooms’: Exploring the Unconscious Together through Collective Meaning Making." Journal of Psychosocial Studies 15, no. 3 (November 1, 2022): 201–8. [Link](https://doi.org/10.1332/147867322X16652365213235).
 
-6. ALT236, and Quentin Boëton. Liminal: les nouveaux espaces de l’angoisse. Gallimard, 2023. [Amazon](https://www.amazon.fr/Liminal-nouveaux-espaces-langoisse-Alt236/dp/2073033830).
+7. ALT236, and Quentin Boëton. Liminal: les nouveaux espaces de l’angoisse. Gallimard, 2023. [Amazon](https://www.amazon.fr/Liminal-nouveaux-espaces-langoisse-Alt236/dp/2073033830).
 
 ---
 
 #### Digital folklore
 
-7. Blank, Trevor J. Folklore and the Internet: Vernacular Expression in a Digital World. University Press of Colorado, 2009. [Amazon](https://www.amazon.fr/Folklore-Internet-Vernacular-Expression-Digital/dp/0874217504/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1GT515A7WEGZQ&dib=eyJ2IjoiMSJ9.rV3kImjjNl24qtufAgAi1Q.wOqOkn9uDon4WdZlUFl78MfH-REP4vhKdcqQfph16Y8&dib_tag=se&keywords=Blank%2C+Trevor+J.+Folklore+and+the+Internet%3A+Vernacular+Expression+in+a+Digital+World&qid=1713112103&sprefix=blank%2C+trevor+j.+folklore+and+the+internet+vernacular+expression+in+a+digital+world%2Caps%2C106&sr=8-1).
+8. Blank, Trevor J. Folklore and the Internet: Vernacular Expression in a Digital World. University Press of Colorado, 2009. [Amazon](https://www.amazon.fr/Folklore-Internet-Vernacular-Expression-Digital/dp/0874217504/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1GT515A7WEGZQ&dib=eyJ2IjoiMSJ9.rV3kImjjNl24qtufAgAi1Q.wOqOkn9uDon4WdZlUFl78MfH-REP4vhKdcqQfph16Y8&dib_tag=se&keywords=Blank%2C+Trevor+J.+Folklore+and+the+Internet%3A+Vernacular+Expression+in+a+Digital+World&qid=1713112103&sprefix=blank%2C+trevor+j.+folklore+and+the+internet+vernacular+expression+in+a+digital+world%2Caps%2C106&sr=8-1).
 
-8. Blank, Trevor J., and Lynne S. McNeill. Slender Man Is Coming: Creepypasta and Contemporary Legends on the Internet. University Press of Colorado, 2018.
+9. Blank, Trevor J., and Lynne S. McNeill. Slender Man Is Coming: Creepypasta and Contemporary Legends on the Internet. University Press of Colorado, 2018.
 
 ---
 
 #### Synths
 
-9. Chowdhury, Anindita Roy, and Anshu Gupta. "Effect of Music on Plants – An Overview."
+10. Chowdhury, Anindita Roy, and Anshu Gupta. "Effect of Music on Plants – An Overview."
 
-10. Ferrigno, Emily. « Breakcore: Identity and Interaction on Peer-to-Peer (Whelan) ». _Dancecult_ 1, no 1 (2009): 152‑54.[Link](https://www.cambridgescholars.com/product/9781847186577)
+11. Ferrigno, Emily. « Breakcore: Identity and Interaction on Peer-to-Peer (Whelan) ». _Dancecult_ 1, no 1 (2009): 152‑54.[Link](https://www.cambridgescholars.com/product/9781847186577)
 
 ---
 
 #### Ghosts
 
-11. Houran, James. From Shaman to Scientist: Essays on Humanity’s Search for Spirits. Scarecrow Press, 2004. [Link](https://books.google.ch/books/about/From_Shaman_to_Scientist.html?id=wxqJDCwS0QUC&redir_esc=y).
+12. Houran, James. From Shaman to Scientist: Essays on Humanity’s Search for Spirits. Scarecrow Press, 2004. [Link](https://books.google.ch/books/about/From_Shaman_to_Scientist.html?id=wxqJDCwS0QUC&redir_esc=y).
 
 
 ---
