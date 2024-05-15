@@ -1,4 +1,4 @@
-## 📎 This is an inventory of my collection 📎
+## ---📎 This is an inventory of my collection 📎---
 
 ###### I ll be using it to know what games has already been cartographed or not.
 
@@ -56,6 +56,70 @@
 ---
 ### PS1
 
+A
+- Akuji ___ (X)
+- Alone in the Dark ___ (X)
+
+B
+- Breath of Fire IV ___ (X)
+
+C
+- Chrono Cross ___ (X)
+
+D
+- D ___ (X)
+- Dino Crisis 1 ___ (X)
+- Dino Crisis 1.2 ___ (X)
+- Dino Crisis 2 ___ (X)
+- Dracula (ressurection) ___ (X)
+
+F
+- Final Fantasy Chronicles ___ (X)
+- Final Fantasy VII ___ (X)
+- Final Fantasy VIII ___ (X)
+
+G
+- Grandia ___ (X)
+- Grandstream Saga ___ (X)
+
+L
+- Legacy of Kain: Blood Omen ___ (X)
+
+M
+- Medal of Honor: Underground ___ (X)
+- Metal Gear Solid ___ (X)
+
+P
+- Parasite Eve II ___ (X)
+
+R
+- Resident Evil ___ (X)
+- Resident Evil 3 ___ (X)
+
+S
+- Saga Frontier ___ (X)
+- Saga Frontier 2 ___ (X)
+- Silent Hill ___ (X)
+- Soul Reaver: Legacy of Kain ___ (X)
+- Star Ocean ___ (X)
+- SwagMan ___ (X)
+
+T
+- Tomb Raider ___ (X)
+- Tomb Raider III ___ (X)
+- Tomb Raider: la Revelation Finale___ (X)
+
+V
+- Valkyrie Profile ___ (X)
+
+W
+- Wild Arms ___ (X)
+- Wild Arms 2 ___ (X)
+
+X
+- X Files ___ (X)
+
+
 ---
 ### PS2
 
@@ -84,7 +148,7 @@ B
 - Block'hood ___ (O)
 - Borderlands: The Pre-Sequel ___ (https://mapgenie.io/borderlands-tps/maps/world) ___ (★)
 - Brawlhalla ___ (O)
-- Bulb Boy ___ (O) (△) (Walktrough but no maps)
+- Bulb Boy ___ (O)
 
 C
 - Castle Crasher   (X)
