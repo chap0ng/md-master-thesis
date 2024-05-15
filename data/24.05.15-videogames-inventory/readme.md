@@ -22,7 +22,7 @@
 - (▲) ___ DuckTales ___ (https://www.vgmaps.com/Atlas/GB-GBC/index.htm#D)
 - (▲) ___ JungleBook ___ (https://gamefaqs.gamespot.com/gameboy/585767-disneys-the-jungle-book/faqs)
 - (▲) ___ Kirby Dreamland ___ (https://www.vgmaps.com/Atlas/GB-GBC/index.htm#K)
-- (O) ___ Mortal Kombat 4 ___ (O)
+- (O) ___ Mortal Kombat 4
 - (▲) ___ Pokémon Silver ___ (https://www.vgmaps.com/Atlas/GB-GBC/index.htm#P)
 - (▲) ___ Pokémon Pika Yellow ___ (https://www.vgmaps.com/Atlas/GB-GBC/index.htm#P)
 - (O) ___ Tetris
@@ -34,13 +34,12 @@
 ---
 ### Gameboy Color
 
-- Buzz l'éclair ___ (△)
-- F-1 World Grand Prix   (O)
-- Gift ___ (△)
-- Halloween Racer ___ (△)
-- Pokémon Crystal ___ (https://www.reddit.com/r/pokemon/comments/m1waq3/i_made_a_pok%C3%A9mon_goldsilvercrystal_interactive/) ___ (★)
-- Robin Hood ___ (△)
-
+- (△) ___ Buzz l'éclair
+- (O) ___ F-1 World Grand Prix
+- (△) ___ Gift
+- (△) ___ Halloween Racer
+- (★) ___ Pokémon Crystal ___ (https://www.reddit.com/r/pokemon/comments/m1waq3/i_made_a_pok%C3%A9mon_goldsilvercrystal_interactive/)
+- (△) ___ Robin Hood
 ---
 ### Gameboy Advance
 
@@ -57,67 +56,82 @@
 ### PS1
 
 A
-- Akuji ___ (X)
-- Alone in the Dark ___ (X)
+
+- (X) ___ Akuji
+- (X) ___ Alone in the Dark
 
 B
-- Breath of Fire IV ___ (X)
+
+- (X) ___ Breath of Fire IV
 
 C
-- Chrono Cross ___ (X)
+
+- (X) ___ Chrono Cross
 
 D
-- D ___ (X)
-- Dino Crisis 1 ___ (X)
-- Dino Crisis 1.2 ___ (X)
-- Dino Crisis 2 ___ (X)
-- Dracula (ressurection) ___ (X)
+
+- (X) ___ D
+- (X) ___ Dino Crisis 1
+- (X) ___ Dino Crisis 1.2
+- (X) ___ Dino Crisis 2
+- (X) ___ Dracula (ressurection)
 
 F
-- Final Fantasy Chronicles ___ (X)
-- Final Fantasy VII ___ (X)
-- Final Fantasy VIII ___ (X)
+
+- (X) ___ Final Fantasy Chronicles
+- (X) ___ Final Fantasy VII
+- (X) ___ Final Fantasy VIII
 
 G
-- Grandia ___ (X)
-- Grandstream Saga ___ (X)
+
+- (X) ___ Grandia
+- (X) ___ Grandstream Saga
 
 L
-- Legacy of Kain: Blood Omen ___ (X)
+
+- (X) ___ Legacy of Kain: Blood Omen
 
 M
-- Medal of Honor: Underground ___ (X)
-- Metal Gear Solid ___ (X)
+
+- (X) ___ Medal of Honor: Underground
+- (X) ___ Metal Gear Solid
 
 P
-- Parasite Eve II ___ (X)
+
+- (X) ___ Parasite Eve II
 
 R
-- Resident Evil ___ (X)
-- Resident Evil 3 ___ (X)
+
+- (X) ___ Resident Evil
+- (X) ___ Resident Evil 3
 
 S
-- Saga Frontier ___ (X)
-- Saga Frontier 2 ___ (X)
-- Silent Hill ___ (X)
-- Soul Reaver: Legacy of Kain ___ (X)
-- Star Ocean ___ (X)
-- SwagMan ___ (X)
+
+- (X) ___ Saga Frontier
+- (X) ___ Saga Frontier 2
+- (X) ___ Silent Hill
+- (X) ___ Soul Reaver: Legacy of Kain
+- (X) ___ Star Ocean
+- (X) ___ SwagMan
 
 T
-- Tomb Raider ___ (X)
-- Tomb Raider III ___ (X)
-- Tomb Raider: la Revelation Finale___ (X)
+
+- (X) ___ Tomb Raider
+- (X) ___ Tomb Raider III
+- (X) ___ Tomb Raider: la Revelation Finale
 
 V
-- Valkyrie Profile ___ (X)
+
+- (X) ___ Valkyrie Profile
 
 W
-- Wild Arms ___ (X)
-- Wild Arms 2 ___ (X)
+
+- (X) ___ Wild Arms
+- (X) ___ Wild Arms 2
 
 X
-- X Files ___ (X)
+
+- (X) ___ X Files
 
 
 ---
@@ -139,180 +153,195 @@ X
 ### PC
 
 A
-- Adventure Time : The Secret Of The Nameless Kingdom ___ (https://steamcommunity.com/sharedfiles/filedetails/?id=364720332) ___ (▲)
+
+- (▲) ___ Adventure Time : The Secret Of The Nameless Kingdom ___ (https://steamcommunity.com/sharedfiles/filedetails/?id=364720332) 
 
 B
-- BattleBlock Theater ___ (O) (△)
-- Black Book ___ (O)
-- Blair Witch ___ (△) (Walktrough but no maps)
-- Block'hood ___ (O)
-- Borderlands: The Pre-Sequel ___ (https://mapgenie.io/borderlands-tps/maps/world) ___ (★)
-- Brawlhalla ___ (O)
-- Bulb Boy ___ (O)
+
+- (△) ___ BattleBlock Theater
+- (O) ___ Black Book
+- (△) ___ Blair Witch (Walkthrough but no maps)
+- (O) ___ Block'hood
+- (★) ___ Borderlands: The Pre-Sequel ___ ([https://mapgenie.io/borderlands-tps/maps/world](https://mapgenie.io/borderlands-tps/maps/world))
+- (O) ___ Brawlhalla
+- (O) ___ Bulb Boy
 
 C
-- Castle Crasher   (X)
-- Century: Age of Ashes   (O)
-- Close Your Eyes   (X)
-- The Closing Shift    (X)
-- The Complex: Found Footage    (X) (interesting backroom experience)
-- The Convenience Store   (X)
-- Counter-Strike 2   (X)
-- Counter-Strike: Source   (X)
-- Cry of Fear   (X)
-- Cuphead   (O)
+
+- (X) ___ Castle Crasher
+- (O) ___ Century: Age of Ashes
+- (X) ___ Close Your Eyes
+- (X) ___ The Closing Shift
+- (X) ___ The Complex: Found Footage (interesting backroom experience)
+- (X) ___ The Convenience Store
+- (X) ___ Counter-Strike 2
+- (X) ___ Counter-Strike: Source
+- (X) ___ Cry of Fear
+- (O) ___ Cuphead
 
 D
-- Dagon   (X)
-- Darkest Dungeon   (X)
-- Darksider   (X)
-- DARQ   (X)
-- DeathComing   (X)
-- Deep Sky Derelicts   (O)
-- Disco Elysium   (X)
-- DISTRAINT: Deluxe Edition   (X)
-- Divinity: Original Sin 2   (X)
-- Doki Doki Literature Club   (O)
-- Don't Starve   (O)
-- Dota Underlords   (O)
-- Dread Delusion   (X)
-- Dreaming Sarah   (X)
+
+- (X) ___ Dagon
+- (X) ___ Darkest Dungeon
+- (X) ___ Darksider
+- (X) ___ DARQ
+- (X) ___ DeathComing
+- (O) ___ Deep Sky Derelicts
+- (X) ___ Disco Elysium
+- (X) ___ DISTRAINT: Deluxe Edition
+- (X) ___ Divinity: Original Sin 2
+- (O) ___ Doki Doki Literature Club
+- (O) ___ Don't Starve
+- (O) ___ Dota Underlords
+- (X) ___ Dread Delusion
+- (X) ___ Dreaming Sarah
 
 E
-- The Elder Scrolls V: Skyrim Special Edition   (X)
-- EMPORIUM   (X)
-- ENDLESS Legend   (O)
-- Escape the Backrooms   (X)
-- Everything   (X)
-- The Evil Within   (X)
+
+- (X) ___ The Elder Scrolls V: Skyrim Special Edition
+- (X) ___ EMPORIUM
+- (O) ___ ENDLESS Legend
+- (X) ___ Escape the Backrooms
+- (X) ___ Everything
+- (X) ___ The Evil Within
 
 F
-- Fear & Hunger   (O)
-- FEZ   (X)
-- Firewatch   (X)
-- For The King   (O)
-- The Forest   (O)
-- Fran Bow   (X)
-- Frog Detective 2   (X)
-- FTL: Faster Than Light   (O)
+
+- (O) ___ Fear & Hunger
+- (X) ___ FEZ
+- (X) ___ Firewatch
+- (O) ___ For The King
+- (O) ___ The Forest
+- (X) ___ Fran Bow
+- (X) ___ Frog Detective 2
+- (O) ___ FTL: Faster Than Light
 
 G
-- Garry's Mod   (O)
-- The Ghost Train   (X)
-- Ghostwire: Tokyo   (X)
-- Gloom   (X)
-- Grimm's Hollow   (X)
-- Guacamelee!   (X)
+
+- (O) ___ Garry's Mod
+- (X) ___ The Ghost Train
+- (X) ___ Ghostwire: Tokyo
+- (X) ___ Gloom
+- (X) ___ Grimm's Hollow
+- (X) ___ Guacamelee!
 
 H
-- Hacknet   (O)
-- Halo Infinite: Online   (O)
-- Hanako    (X)
-- Happy Game    (X)
-- Hellblade: Suena's Sacrifice   (X)
-- Hidden Folks   (X)
-- HIVESWAP: ACT 1   (O)
-- Hollow Knight   (X)
-- Hotline Miami 2: Wrong Number   (X)
-- Hylics   (X)
-- Hyper Light Drifter   (X)
+
+- (O) ___ Hacknet
+- (O) ___ Halo Infinite: Online
+- (X) ___ Hanako
+- (X) ___ Happy Game
+- (X) ___ Hellblade: Senua's Sacrifice
+- (X) ___ Hidden Folks
+- (O) ___ HIVESWAP: ACT 1
+- (X) ___ Hollow Knight
+- (X) ___ Hotline Miami 2: Wrong Number
+- (X) ___ Hylics
+- (X) ___ Hyper Light Drifter
 
 I
-- Inscryption   (O)
-- INSIDE   (X)
-- Inunaki Tunnel   (X)
-- Iris and the giant   (O)
+
+- (O) ___ Inscryption
+- (X) ___ INSIDE
+- (X) ___ Inunaki Tunnel
+- (O) ___ Iris and the Giant
 
 J
-- Jet Set Radio   (X)
-- Jisatsu   (X)
+
+- (X) ___ Jet Set Radio
+- (X) ___ Jisatsu
 
 K
-- Killer is Dead   (X)
-- Kind Words   (O)
-- Kingdom: Classic   (X)
-- Kio's Adventure   (X)
+
+- (X) ___ Killer is Dead
+- (O) ___ Kind Words
+- (X) ___ Kingdom: Classic
+- (X) ___ Kio's Adventure
 
 L
-- The Last Door   (X)
-- The Last Door: Season 2   (X)
-- Layers of Fear (2016)   (X)
-- LiEat   (X)
-- LISA   (X)
-- LISA: The First   (X)
-- Lofi Ping Pong   (O)
-- The Long Dark   (https://steamcommunity.com/sharedfiles/filedetails/?id=1901570789) (▲)
-- Loop Hero   (O)
-- Lovely Planet   (X)
-- Lovely Planet 2: April Skies   (X)
-- Lovely Planet Arcade   (X)
-- Lunacid   (X)
-- Lydia   (X)
+
+- (X) ___ The Last Door
+- (X) ___ The Last Door: Season 2
+- (X) ___ Layers of Fear (2016)
+- (X) ___ LiEat
+- (X) ___ LISA
+- (X) ___ LISA: The First
+- (O) ___ Lofi Ping Pong
+- (▲) ___ The Long Dark ___ ([https://steamcommunity.com/sharedfiles/filedetails/?id=1901570789](https://steamcommunity.com/sharedfiles/filedetails/?id=1901570789))
+- (O) ___ Loop Hero
+- (X) ___ Lovely Planet
+- (X) ___ Lovely Planet 2: April Skies
+- (X) ___ Lovely Planet Arcade
+- (X) ___ Lunacid
+- (X) ___ Lydia
 
 M
-- Magic: The Gathering Arena   (O)
-- McPixel   (X)
-- Milk inside a bag of milk inside a bag of milk   (O)
-- Minion Masters   (O)
-- The Miskatonic   (O)
-- Momodora III   (X)
-- The Mooseman   (X)
-- Mothlight   (X)
-- Montain   (O)
-- Murder House   (X)
+
+- (O) ___ Magic: The Gathering Arena
+- (X) ___ McPixel
+- (O) ___ Milk inside a bag of milk inside a bag of milk
+- (O) ___ Minion Masters
+- (O) ___ The Miskatonic
+- (X) ___ Momodora III
+- (X) ___ The Mooseman
+- (X) ___ Mothlight
+- (O) ___ Mountain
+- (X) ___ Murder House
 
 N
-- NaissanceE   (X) (interesting infinite map)
-- NARUTO SHIPPUDEN: Ultimate Ninja STORM 4   (X)
-- Neon White   (X)
-- Nidhogg   (O)
-- Night Security   (X)
-- Night in the Woods   (X)
-- A Normal Lost Phone   (X)
-- Northern Journey   (X)
+
+- (X) ___ NaissanceE (interesting infinite map)
+- (X) ___ NARUTO SHIPPUDEN: Ultimate Ninja STORM 4
+- (X) ___ Neon White
+- (O) ___ Nidhogg
+- (X) ___ Night Security
+- (X) ___ Night in the Woods
+- (X) ___ A Normal Lost Phone
+- (X) ___ Northern Journey
 
 O
-- Old Man's Journey   (X)
-- OMORI   (X)
-- Only if   (X)
-- Ord.   (X) (Textual cartography)
-- Ori and the Blind Forest   (X)
-- Oxenfree   (X)
+
+- (X) ___ Old Man's Journey
+- (X) ___ OMORI
+- (X) ___ Only if
+- (X) ___ Ord. (Textual cartography)
+- (X) ___ Ori and the Blind Forest
+- (X) ___ Oxenfree
 
 P
-- Phasmophobia   (X)
-- Pilgrims   (X)
-- Pit People   (X)
-- The Plan   (X)
-- Plug & Play   (O)
-- PONCHO   (X)
-- Pony Island   (X)
-- Power Hover   (X)
+
+- (X) ___ Phasmophobia
+- (X) ___ Pilgrims
+- (X) ___ Pit People
+- (X) ___ The Plan
+- (O) ___ Plug & Play
+- (X) ___ PONCHO
+- (X) ___ Pony Island
+- (X) ___ Power Hover
 
 R
-- The Radio Station   (X)
-- Rain World   (X)
-- Rakuen   (X)
-- Red Dead Redemption 2   (X)
-- Rental   (X)
-- RE 7 Biohazard   (X)
-- Reveal The Deep   (X)
-- Rocksmith 2014   (O)
-- Rogue Legacy   (O)
+
+- (X) ___ The Radio Station
+- (X) ___ Rain World
+- (X) ___ Rakuen
+- (X) ___ Red Dead Redemption 2
+- (X) ___ Rental
+- (X) ___ RE 7 Biohazard
+- (X) ___ Reveal The Deep
+- (O) ___ Rocksmith 2014
+- (O) ___ Rogue Legacy
 
 S
-- Samorost 2   (X)
-- Samorost 3   (X)
-- Scorn   (X)
-- SCP: Secret Laboratory   (O)
-- Shattered - Tale of the Forgotten King   (X)
-- A Short Hike   (X)
-- Shrine II   (X)
-- The Silent Age   (X)
-- The Sims 4   (O)
 
-T
-- 
+- (X) ___ Samorost 2
+- (X) ___ Samorost 3
+- (X) ___ Scorn
+- (O) ___ SCP: Secret Laboratory
+- (X) ___ Shattered - Tale of the Forgotten King
+- (X) ___ A Short Hike
+- (X) ___ Shrine II
+- (X) ___ The Silent Age
+- (O) ___ The Sims 4
 
 
 ---
