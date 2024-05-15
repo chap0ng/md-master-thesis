@@ -1,14 +1,15 @@
-### This is an inventory of my collection
+## 📎 This is an inventory of my collection 📎
 
-##### I ll be using it to know what games has already been cartographed or not.
+###### I ll be using it to know what games has already been cartographed or not.
 
-##### I'll also include some old games and incoming games i would be interested in.
+###### I'll also include some old games and incoming games i would be interested in.
 
+---
 #### △ = No cartography found online
 
 #### ▲ = Cartography found online
 
-#### O = cannot be cartographed
+#### O = cannot be cartographed or not interesting to map
 
 #### X = Need to make research
 
@@ -16,9 +17,29 @@
 
 ### Gameboy
 
+- Asteroids   (O)
+- DuckTales   (X)
+- JungleBook   (X)
+- Kirby Dreamland   (X)
+- Mortal Kombat 4   (O)
+- Pokémon Silver   (X)
+- Pokémon Yellow   (X)
+- Tetris   (O)
+- Tim in Tibet   (X)
+- Wario Land   (X)
+- Xenon 2   (X)
+- Zelda: Link's Awakening   (X)
+
 ---
 
 ### Gameboy Color
+
+- Buzz l'éclair   (X)
+- F-1 World Grand Prix   (O)
+- Gift   (X)
+- Haloween Racer   (O)
+- Pokémon Crystal   (X)
+- Robin Hood   (X)
 
 ---
 
@@ -64,7 +85,9 @@
 
 ### PC
 
+A
 - Adventure Time : The Secret Of The Nameless Kingdom   (X)
+B
 - BattleBlock Theater   (X)
 - Black Book   (X)
 - Blair Witch   (X)
@@ -72,6 +95,7 @@
 - Borderlands: The Pre-Sequel   (X)
 - Brawlhalla   (O)
 - Bulb Boy   (X)
+C
 - Castle Crasher   (X)
 - Century: Age of Ashes   (O)
 - Close Your Eyes   (X)
@@ -82,6 +106,7 @@
 - Counter-Strike: Source   (X)
 - Cry of Fear   (X)
 - Cuphead   (O)
+D
 - Dagon   (X)
 - Darkest Dungeon   (X)
 - Darksider   (X)
@@ -94,13 +119,17 @@
 - Doki Doki Literature Club   (O)
 - Don't Starve   (O)
 - Dota Underlords   (O)
+- Dread Delusion   (X)
 - Dreaming Sarah   (X)
+E
 - The Elder Scrolls V: Skyrim Special Edition   (X)
 - EMPORIUM   (X)
 - ENDLESS Legend   (O)
 - Escape the Backrooms   (X)
 - Everything   (X)
 - The Evil Within   (X)
+F
+- Fear & Hunger   (O)
 - FEZ   (X)
 - Firewatch   (X)
 - For The King   (O)
@@ -108,12 +137,14 @@
 - Fran Bow   (X)
 - Frog Detective 2   (X)
 - FTL: Faster Than Light   (O)
+G
 - Garry's Mod   (O)
 - The Ghost Train   (X)
 - Ghostwire: Tokyo   (X)
 - Gloom   (X)
 - Grimm's Hollow   (X)
 - Guacamelee!   (X)
+H
 - Hacknet   (O)
 - Halo Infinite: Online   (O)
 - Hanako    (X)
@@ -125,6 +156,92 @@
 - Hotline Miami 2: Wrong Number   (X)
 - Hylics   (X)
 - Hyper Light Drifter   (X)
+I
+- Inscryption   (O)
+- INSIDE   (X)
+- Inunaki Tunnel   (X)
+- Iris and the giant   (O)
+J
+- Jet Set Radio   (X)
+- Jisatsu   (X)
+K
+- Killer is Dead   (X)
+- Kind Words   (O)
+- Kingdom: Classic   (X)
+- Kio's Adventure   (X)
+L
+- The Last Door   (X)
+- The Last Door: Season 2   (X)
+- Layers of Fear (2016)   (X)
+- LiEat   (X)
+- LISA   (X)
+- LISA: The First   (X)
+- Lofi Ping Pong   (O)
+- The Long Dark   (https://steamcommunity.com/sharedfiles/filedetails/?id=1901570789) (▲)
+- Loop Hero   (O)
+- Lovely Planet   (X)
+- Lovely Planet 2: April Skies   (X)
+- Lovely Planet Arcade   (X)
+- Lunacid   (X)
+- Lydia   (X)
+M
+- Magic: The Gathering Arena   (O)
+- McPixel   (X)
+- Milk inside a bag of milk inside a bag of milk   (O)
+- Minion Masters   (O)
+- The Miskatonic   (O)
+- Momodora III   (X)
+- The Mooseman   (X)
+- Mothlight   (X)
+- Montain   (O)
+- Murder House   (X)
+N
+- NaissanceE   (X) (interesting infinite map)
+- NARUTO SHIPPUDEN: Ultimate Ninja STORM 4   (X)
+- Neon White   (X)
+- Nidhogg   (O)
+- Night Security   (X)
+- Night in the Woods   (X)
+- A Normal Lost Phone   (X)
+- Northern Journey   (X)
+O
+- Old Man's Journey   (X)
+- OMORI   (X)
+- Only if   (X)
+- Ord.   (X) (Textual cartography)
+- Ori and the Blind Forest   (X)
+- Oxenfree   (X)
+P
+- Phasmophobia   (X)
+- Pilgrims   (X)
+- Pit People   (X)
+- The Plan   (X)
+- Plug & Play   (O)
+- PONCHO   (X)
+- Pony Island   (X)
+- Power Hover   (X)
+R
+- The Radio Station   (X)
+- Rain World   (X)
+- Rakuen   (X)
+- Red Dead Redemption 2   (X)
+- Rental   (X)
+- RE 7 Biohazard   (X)
+- Reveal The Deep   (X)
+- Rocksmith 2014   (O)
+- Rogue Legacy   (O)
+S
+- Samorost 2   (X)
+- Samorost 3   (X)
+- Scorn   (X)
+- SCP: Secret Laboratory   (O)
+- Shattered - Tale of the Forgotten King   (X)
+- A Short Hike   (X)
+- Shrine II   (X)
+- The Silent Age   (X)
+- The Sims 4   (O)
+
+
 ---
 
 ### Occulus quest 2
