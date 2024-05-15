@@ -29,7 +29,7 @@
 - (▲) ___ Tim in Tibet (tintin) ___ (https://www.vgmaps.com/Atlas/GB-GBC/index.htm#T)
 - (▲) ___ Wario Land ___ (https://www.vgmaps.com/Atlas/GB-GBC/index.htm#W)
 - (▲) ___ Xenon 2 ___ (https://www.oldgames.sk/en/game/xenon-2-megablast/download/10513/) 
-- (★) ___ Zelda: Link's Awakening ___ (https://mapgenie.io/zelda-links-awakening/maps/koholint-island)
+- (★) ___ Zelda: Link's Awakening ___ (https://mapgenie.io/zelda-links-awakening/maps/koholint-island) (interactive map)
 
 ---
 ### Gameboy Color
@@ -38,7 +38,7 @@
 - (O) ___ F-1 World Grand Prix
 - (△) ___ Gift
 - (△) ___ Halloween Racer
-- (★) ___ Pokémon Crystal ___ (https://www.reddit.com/r/pokemon/comments/m1waq3/i_made_a_pok%C3%A9mon_goldsilvercrystal_interactive/)
+- (★) ___ Pokémon Crystal ___ (https://www.reddit.com/r/pokemon/comments/m1waq3/i_made_a_pok%C3%A9mon_goldsilvercrystal_interactive/) (interactive map)
 - (△) ___ Robin Hood
 ---
 ### Gameboy Advance
@@ -63,14 +63,13 @@ A
 
 B
 
-- (★) ___ Breath of Fire IV (https://gamefaqs.gamespot.com/ps/196818-breath-of-fire-iv/faqs) (Hand drawn game map)
+- (★) ___ Breath of Fire IV (https://gamefaqs.gamespot.com/ps/196818-breath-of-fire-iv/faqs) (Hand drawn on paper)
 - (O) ___ Bust-A-Move 2
 
 C
 
-- (X) ___ Chrono Cross
-- (X) ___ C-12
-- (X) ___ Chrono Cross
+- (△) ___ Chrono Cross (https://www.deviantart.com/vgcartography/gallery/82496614/chrono-cross-1999) (no full map found)
+- (△) ___ (c-12)
 
 D
 
