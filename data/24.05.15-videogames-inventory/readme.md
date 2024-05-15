@@ -16,8 +16,7 @@
 #### ★ = Interesting Maps !
 
 ---
-
-### Gameboy
+### Gameboy 
 
 - Asteroids ___ (O)
 - DuckTales ___ (https://www.vgmaps.com/Atlas/GB-GBC/index.htm#D) ___ (▲)
@@ -33,71 +32,59 @@
 - Zelda: Link's Awakening ___ (https://mapgenie.io/zelda-links-awakening/maps/koholint-island) ___ (★)
 
 ---
-
 ### Gameboy Color
 
 - Buzz l'éclair ___ (△)
 - F-1 World Grand Prix   (O)
 - Gift ___ (△)
-- Haloween Racer ___ (△)
+- Halloween Racer ___ (△)
 - Pokémon Crystal ___ (https://www.reddit.com/r/pokemon/comments/m1waq3/i_made_a_pok%C3%A9mon_goldsilvercrystal_interactive/) ___ (★)
 - Robin Hood ___ (△)
 
 ---
-
 ### Gameboy Advance
 
 ---
-
 ### DS
 
 ---
-
 ### Wii
 
 ---
-
 ### Switch
 
 ---
-
 ### PS1
 
 ---
-
 ### PS2
 
 ---
-
 ### PS3
 
 ---
-
 ### PSP
 
 ---
-
 ### PS4
 
 ---
-
 ### PS5
 
 ---
-
 ### PC
 
 A
-- Adventure Time : The Secret Of The Nameless Kingdom   (X)
+- Adventure Time : The Secret Of The Nameless Kingdom ___ (https://steamcommunity.com/sharedfiles/filedetails/?id=364720332) ___ (▲)
 
 B
-- BattleBlock Theater   (X)
-- Black Book   (X)
-- Blair Witch   (X)
-- Block'hood   (X)
-- Borderlands: The Pre-Sequel   (X)
-- Brawlhalla   (O)
-- Bulb Boy   (X)
+- BattleBlock Theater ___ (O) (△)
+- Black Book ___ (O)
+- Blair Witch ___ (△) (Walktrough but no maps)
+- Block'hood ___ (O)
+- Borderlands: The Pre-Sequel ___ (https://mapgenie.io/borderlands-tps/maps/world) ___ (★)
+- Brawlhalla ___ (O)
+- Bulb Boy ___ (O) (△) (Walktrough but no maps)
 
 C
 - Castle Crasher   (X)
@@ -265,14 +252,11 @@ T
 
 
 ---
-
 ### Occulus quest 2
 
 
 ---
-
 ### Incoming games Summer 2024
 
 ---
-
 ### Old games that i don't own yet
