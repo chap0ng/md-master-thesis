@@ -16,3 +16,29 @@
 
 ### Bibliography :
 
+
+---
+Problematic :
+
+pourquoi ils font ca ?
+
+participation de ma part
+
+observation participante
+
+observer dynamique collective
+
+choisir une communauté en m'integrant dedans
+
+réaliser des entretiens avant le 30mai
+
+rapidement faire un guide d entretiens
+
+amateurs et experts
+
+que ce que cartographier l espace numérique 
+
+continent numérique
+
+
+
