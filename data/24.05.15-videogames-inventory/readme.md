@@ -19,18 +19,18 @@
 
 ### Gameboy
 
-- Asteroids   (O)
-- DuckTales   (https://www.vgmaps.com/Atlas/GB-GBC/index.htm#D) (▲)
-- JungleBook   (https://gamefaqs.gamespot.com/gameboy/585767-disneys-the-jungle-book/faqs) (▲)
-- Kirby Dreamland   (https://www.vgmaps.com/Atlas/GB-GBC/index.htm#K) (▲)
-- Mortal Kombat 4   (O)
-- Pokémon Silver   (https://www.vgmaps.com/Atlas/GB-GBC/index.htm#P) (▲)
-- Pokémon Pika Yellow   (https://www.vgmaps.com/Atlas/GB-GBC/index.htm#P) (▲)
-- Tetris   (O)
-- Tim in Tibet (tintin)  (https://www.vgmaps.com/Atlas/GB-GBC/index.htm#T) (▲)
-- Wario Land   (https://www.vgmaps.com/Atlas/GB-GBC/index.htm#W) (▲)
-- Xenon 2   (https://www.oldgames.sk/en/game/xenon-2-megablast/download/10513/) (▲)
-- Zelda: Link's Awakening   (https://mapgenie.io/zelda-links-awakening/maps/koholint-island) (★)
+- Asteroids ___ (O)
+- DuckTales ___ (https://www.vgmaps.com/Atlas/GB-GBC/index.htm#D) ___ (▲)
+- JungleBook ___ (https://gamefaqs.gamespot.com/gameboy/585767-disneys-the-jungle-book/faqs) ___ (▲)
+- Kirby Dreamland ___ (https://www.vgmaps.com/Atlas/GB-GBC/index.htm#K) ___ (▲)
+- Mortal Kombat 4 ___ (O)
+- Pokémon Silver ___ (https://www.vgmaps.com/Atlas/GB-GBC/index.htm#P) ___ (▲)
+- Pokémon Pika Yellow ___ (https://www.vgmaps.com/Atlas/GB-GBC/index.htm#P) ___ (▲)
+- Tetris ___ (O)
+- Tim in Tibet (tintin) ___ (https://www.vgmaps.com/Atlas/GB-GBC/index.htm#T) ___ (▲)
+- Wario Land ___ (https://www.vgmaps.com/Atlas/GB-GBC/index.htm#W) ___ (▲)
+- Xenon 2 ___ (https://www.oldgames.sk/en/game/xenon-2-megablast/download/10513/) ___ (▲)
+- Zelda: Link's Awakening ___ (https://mapgenie.io/zelda-links-awakening/maps/koholint-island) ___ (★)
 
 ---
 
