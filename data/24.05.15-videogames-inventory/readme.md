@@ -57,14 +57,14 @@
 
 A
 
-- (X) ___ Akuji
-- (X) ___ Alone in the Dark
-- (X) ___ Arcade's Greatest Hits 2
+- (★) ___ Akuji (https://www.amazon.com.br/Akuji-Heartless-Official-Strategy-Guide/dp/1893102777) (Game map available only in the official guide)
+- (★) ___ Alone in the Dark (https://www.deviantart.com/vgcartography/art/Alone-in-the-Dark-Underground-Maze-Map-927037669) (Maps as digital art pieces)
+- (O) ___ Arcade's Greatest Hits 2
 
 B
 
-- (X) ___ Breath of Fire IV
-- (X) ___ Bust-A-Move 2
+- (★) ___ Breath of Fire IV (https://gamefaqs.gamespot.com/ps/196818-breath-of-fire-iv/faqs) (Hand drawn game map)
+- (O) ___ Bust-A-Move 2
 
 C
 
@@ -192,7 +192,7 @@ B
 
 - (△) ___ BattleBlock Theater
 - (O) ___ Black Book
-- (△) ___ Blair Witch (Walkthrough but no maps)
+- (△) ___ Blair Witch ___ (Walkthrough but no maps)
 - (O) ___ Block'hood
 - (★) ___ Borderlands: The Pre-Sequel ___ ([https://mapgenie.io/borderlands-tps/maps/world](https://mapgenie.io/borderlands-tps/maps/world))
 - (O) ___ Brawlhalla
