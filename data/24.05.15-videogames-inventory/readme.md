@@ -59,25 +59,34 @@ A
 
 - (X) ___ Akuji
 - (X) ___ Alone in the Dark
+- (X) ___ Arcade's Greatest Hits 2
 
 B
 
 - (X) ___ Breath of Fire IV
+- (X) ___ Bust-A-Move 2
 
 C
 
+- (X) ___ Chrono Cross
+- (X) ___ C-12
 - (X) ___ Chrono Cross
 
 D
 
 - (X) ___ D
+- (X) ___ Die Hard Trilogy
 - (X) ___ Dino Crisis 1
 - (X) ___ Dino Crisis 1.2
 - (X) ___ Dino Crisis 2
 - (X) ___ Dracula (ressurection)
+- (X) ___ Driver
+- (X) ___ Driver 2
+- (X) ___ Duke Nukem
 
 F
 
+- (X) ___ Fear Effect
 - (X) ___ Final Fantasy Chronicles
 - (X) ___ Final Fantasy VII
 - (X) ___ Final Fantasy VIII
@@ -87,14 +96,29 @@ G
 - (X) ___ Grandia
 - (X) ___ Grandstream Saga
 
+I
+
+- (X) ___ ISS Pro Evolution
+- (X) ___ ISS Pro Evolution 2
+
 L
 
 - (X) ___ Legacy of Kain: Blood Omen
+- (X) ___ Les Chevaliers de Baphomet
+- (X) ___ Les Chevaliers de Baphomet II
 
 M
 
 - (X) ___ Medal of Honor: Underground
+- (X) ___ MediEvil 1
+- (X) ___ MediEvil 2
 - (X) ___ Metal Gear Solid
+
+N
+
+- (X) ___ NBA: Hang Time
+- (X) ___ Need for Speed III
+- (X) ___ NHL 99
 
 P
 
@@ -102,8 +126,10 @@ P
 
 R
 
+- (X) ___ Rage Racer
 - (X) ___ Resident Evil
 - (X) ___ Resident Evil 3
+- (X) ___ Road Rash
 
 S
 
@@ -111,14 +137,19 @@ S
 - (X) ___ Saga Frontier 2
 - (X) ___ Silent Hill
 - (X) ___ Soul Reaver: Legacy of Kain
+- (X) ___ Spider-Man
 - (X) ___ Star Ocean
 - (X) ___ SwagMan
+- (X) ___ Syphon Filter
 
 T
 
+- (X) ___ Tetris
 - (X) ___ Tomb Raider
 - (X) ___ Tomb Raider III
 - (X) ___ Tomb Raider: la Revelation Finale
+- (X) ___ Tomb Raider: Sur les traces de Lara Croft
+- (X) ___ Tom Clancy's Rainbow Six
 
 V
 
@@ -128,10 +159,11 @@ W
 
 - (X) ___ Wild Arms
 - (X) ___ Wild Arms 2
+- (X) ___ Worms
 
 X
 
-- (X) ___ X Files
+- (O) ___ X Files
 
 
 ---
