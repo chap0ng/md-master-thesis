@@ -41,7 +41,7 @@
 - Gift ___ (△)
 - Haloween Racer ___ (△)
 - Pokémon Crystal ___ (https://www.reddit.com/r/pokemon/comments/m1waq3/i_made_a_pok%C3%A9mon_goldsilvercrystal_interactive/) ___ (★)
-- Robin Hood   (X)
+- Robin Hood ___ (△)
 
 ---
 
