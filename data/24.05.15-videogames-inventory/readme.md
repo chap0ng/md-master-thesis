@@ -96,6 +96,7 @@ B
 - Borderlands: The Pre-Sequel   (X)
 - Brawlhalla   (O)
 - Bulb Boy   (X)
+
 C
 - Castle Crasher   (X)
 - Century: Age of Ashes   (O)
@@ -107,6 +108,7 @@ C
 - Counter-Strike: Source   (X)
 - Cry of Fear   (X)
 - Cuphead   (O)
+
 D
 - Dagon   (X)
 - Darkest Dungeon   (X)
@@ -122,6 +124,7 @@ D
 - Dota Underlords   (O)
 - Dread Delusion   (X)
 - Dreaming Sarah   (X)
+
 E
 - The Elder Scrolls V: Skyrim Special Edition   (X)
 - EMPORIUM   (X)
@@ -129,6 +132,7 @@ E
 - Escape the Backrooms   (X)
 - Everything   (X)
 - The Evil Within   (X)
+
 F
 - Fear & Hunger   (O)
 - FEZ   (X)
@@ -138,6 +142,7 @@ F
 - Fran Bow   (X)
 - Frog Detective 2   (X)
 - FTL: Faster Than Light   (O)
+
 G
 - Garry's Mod   (O)
 - The Ghost Train   (X)
@@ -145,6 +150,7 @@ G
 - Gloom   (X)
 - Grimm's Hollow   (X)
 - Guacamelee!   (X)
+
 H
 - Hacknet   (O)
 - Halo Infinite: Online   (O)
@@ -157,19 +163,23 @@ H
 - Hotline Miami 2: Wrong Number   (X)
 - Hylics   (X)
 - Hyper Light Drifter   (X)
+
 I
 - Inscryption   (O)
 - INSIDE   (X)
 - Inunaki Tunnel   (X)
 - Iris and the giant   (O)
+
 J
 - Jet Set Radio   (X)
 - Jisatsu   (X)
+
 K
 - Killer is Dead   (X)
 - Kind Words   (O)
 - Kingdom: Classic   (X)
 - Kio's Adventure   (X)
+
 L
 - The Last Door   (X)
 - The Last Door: Season 2   (X)
@@ -185,6 +195,7 @@ L
 - Lovely Planet Arcade   (X)
 - Lunacid   (X)
 - Lydia   (X)
+
 M
 - Magic: The Gathering Arena   (O)
 - McPixel   (X)
@@ -196,6 +207,7 @@ M
 - Mothlight   (X)
 - Montain   (O)
 - Murder House   (X)
+
 N
 - NaissanceE   (X) (interesting infinite map)
 - NARUTO SHIPPUDEN: Ultimate Ninja STORM 4   (X)
@@ -205,6 +217,7 @@ N
 - Night in the Woods   (X)
 - A Normal Lost Phone   (X)
 - Northern Journey   (X)
+
 O
 - Old Man's Journey   (X)
 - OMORI   (X)
@@ -212,6 +225,7 @@ O
 - Ord.   (X) (Textual cartography)
 - Ori and the Blind Forest   (X)
 - Oxenfree   (X)
+
 P
 - Phasmophobia   (X)
 - Pilgrims   (X)
@@ -221,6 +235,7 @@ P
 - PONCHO   (X)
 - Pony Island   (X)
 - Power Hover   (X)
+
 R
 - The Radio Station   (X)
 - Rain World   (X)
@@ -231,6 +246,7 @@ R
 - Reveal The Deep   (X)
 - Rocksmith 2014   (O)
 - Rogue Legacy   (O)
+
 S
 - Samorost 2   (X)
 - Samorost 3   (X)
@@ -241,6 +257,9 @@ S
 - Shrine II   (X)
 - The Silent Age   (X)
 - The Sims 4   (O)
+
+T
+- 
 
 
 ---
