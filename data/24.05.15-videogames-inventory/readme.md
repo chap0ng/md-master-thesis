@@ -128,9 +128,9 @@ I
 
 L
 
-- (X) ___ Legacy of Kain: Blood Omen
-- (X) ___ Les Chevaliers de Baphomet
-- (X) ___ Les Chevaliers de Baphomet II
+- (▲) ___ Legacy of Kain: Blood Omen ___ (https://nosgoth.net/bloodomen/maps.html)
+- (O) ___ Les Chevaliers de Baphomet
+- (O) ___ Les Chevaliers de Baphomet II
 
 M
 
