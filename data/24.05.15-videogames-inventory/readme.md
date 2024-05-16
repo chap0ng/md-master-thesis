@@ -43,6 +43,29 @@
 ---
 ### Gameboy Advance
 
+- (X) ___ Batman: Vengeance
+- (X) ___ Castlevania
+- (X) ___ Crouching Tiger Hidden Dragon
+- (X) ___ Duel Masters: Kaijudo Showdown
+- (X) ___ Final Fantasy I & II: Dawn of Souls 
+- (X) ___ Final Fantasy IV
+- (X) ___ Frogger Adventures 2
+- (X) ___ Harry Potter: Philosopher's Stone
+- (O) ___ Harry Potter: Quidditch World Cup
+- (X) ___ Kirby: Amazing Mirror
+- (X) ___ Kirby: Nightmare in Dreamland
+- (X) ___ Metroid: Fusion
+- (X) ___ Oddworld: Munch's Oddysee
+- (X) ___ Pokémon: Ruby
+- (X) ___ Pokémon: Saphir
+- (X) ___ Prince of Persia: the Sand of Time
+- (X) ___ Rayman: Hoodlums' revenge
+- (X) ___ Rayman 3
+- (X) ___ Spyro: Season of Ice
+- (X) ___ Super Mario Advance
+- (X) ___ Sword of Mana
+- (X) ___ Zelda: Four Swords
+
 ---
 ### DS
 
@@ -99,8 +122,8 @@ G
 
 I
 
-- (X) ___ ISS Pro Evolution
-- (X) ___ ISS Pro Evolution 2
+- (O) ___ ISS Pro Evolution
+- (O) ___ ISS Pro Evolution 2
 
 L
 
@@ -127,7 +150,7 @@ P
 
 R
 
-- (X) ___ Rage Racer
+- (O) ___ Rage Racer
 - (X) ___ Resident Evil
 - (X) ___ Resident Evil 3
 - (X) ___ Road Rash
@@ -145,7 +168,7 @@ S
 
 T
 
-- (X) ___ Tetris
+- (O) ___ Tetris
 - (X) ___ Tomb Raider
 - (X) ___ Tomb Raider III
 - (X) ___ Tomb Raider: la Revelation Finale
@@ -375,6 +398,24 @@ S
 - (X) ___ Shrine II
 - (X) ___ The Silent Age
 - (O) ___ The Sims 4
+
+T
+
+- (X) ___ Tamashii
+- (O) ___ Terraria
+- (X) ___ They Bleed Pixels
+- (X) ___ Tiny Echo
+
+U
+
+- (X) ___ Uncanny Valley
+- (X) ___ Undertale
+
+W
+
+- (X) ___ Wizardry 6
+- (X) ___ Wizardry 7
+- (★) ___ Yume Nikki
 
 
 ---
