@@ -57,43 +57,45 @@
 
 A
 
-- (★) ___ Akuji (https://www.amazon.com.br/Akuji-Heartless-Official-Strategy-Guide/dp/1893102777) (Game map available only in the official guide)
-- (★) ___ Alone in the Dark (https://www.deviantart.com/vgcartography/art/Alone-in-the-Dark-Underground-Maze-Map-927037669) (Maps as digital art pieces)
+- (★) ___ Akuji ___ (https://www.amazon.com.br/Akuji-Heartless-Official-Strategy-Guide/dp/1893102777) (Map available only in official guide)
+- (★) ___ Alone in the Dark ___ (https://www.deviantart.com/vgcartography/art/Alone-in-the-Dark-Underground-Maze-Map-927037669) (Maps as digital art pieces)
 - (O) ___ Arcade's Greatest Hits 2
 
 B
 
-- (★) ___ Breath of Fire IV (https://gamefaqs.gamespot.com/ps/196818-breath-of-fire-iv/faqs) (Hand drawn on paper)
+- (★) ___ Breath of Fire IV ___ (https://gamefaqs.gamespot.com/ps/196818-breath-of-fire-iv/faqs) (Hand drawn on paper)
 - (O) ___ Bust-A-Move 2
 
 C
 
-- (△) ___ Chrono Cross (https://www.deviantart.com/vgcartography/gallery/82496614/chrono-cross-1999) (no full map found)
+- (△) ___ Chrono Cross ___ (https://www.deviantart.com/vgcartography/gallery/82496614/chrono-cross-1999) (no full map found)
+- (▲) ___ Chrono Trigger ___ (https://www.neoseeker.com/ffc/faqs/)
 - (△) ___ (c-12)
 
 D
 
-- (X) ___ D
-- (X) ___ Die Hard Trilogy
-- (X) ___ Dino Crisis 1
-- (X) ___ Dino Crisis 1.2
-- (X) ___ Dino Crisis 2
-- (X) ___ Dracula (ressurection)
-- (X) ___ Driver
-- (X) ___ Driver 2
-- (X) ___ Duke Nukem
+- (△) ___ D
+- (▲) ___ Die Hard Trilogy ___ (https://www.reddit.com/r/retrogamingmagazines/comments/jp62zg/die_hard_trilogy_psx_guide_part_1_from_games/)
+- (▲) ___ Dino Crisis 1 ___ (https://gamefaqs.gamespot.com/ps/197128-dino-crisis/faqs)
+- (▲) ___ Dino Crisis 1.2 ___ (https://gamefaqs.gamespot.com/ps/197128-dino-crisis/faqs)
+- (★) ___ Dino Crisis 2 ___ (https://www.ebay.ca/itm/274661525271) (it's an official poster)
+- (△) ___ Dracula (ressurection)
+- (▲) ___ Driver ___ (https://www.deviantart.com/slinkmizotha/art/Driver-1-Map-Miami-remastering-887819296)
+- (▲) ___ Driver 2 ___ (https://www.neoseeker.com/driver2/faqs/)
+- (▲) ___ Duke Nukem ___ (https://www.deviantart.com/slinkmizotha/art/Maps-Duke-Nukem-time-to-kill-759246060)
 
 F
 
-- (X) ___ Fear Effect
-- (X) ___ Final Fantasy Chronicles
-- (X) ___ Final Fantasy VII
-- (X) ___ Final Fantasy VIII
+- (△) ___ Fear Effect
+- (▲) ___ Final Fantasy Chronicles (IV) ___ (https://www.neoseeker.com/ffc/faqs/)
+- (▲) ___ Final Fantasy VI ___ (https://gamefaqs.gamespot.com/gba/930370-final-fantasy-vi-advance/faqs)
+- (▲) ___ Final Fantasy VII ___ (https://www.vgmaps.com/Atlas/PSX/index.htm#F)
+- (▲) ___ Final Fantasy VIII ___ (https://www.vgmaps.com/Atlas/PSX/index.htm#F)
 
 G
 
-- (X) ___ Grandia
-- (X) ___ Grandstream Saga
+- (★) ___ Grandia ___ (https://archive.org/details/grandia-prima-strategy-guide/page/n1/mode/2up) (Official guide)  & (https://i-njoy.net/gd1e_top.html) (Full map guide)
+- (★) ___ Grandstream Saga ___ (https://archive.org/details/TheGranstreamSagaPrimaGuide/page/n45/mode/2up) (Official guide)
 
 I
 
