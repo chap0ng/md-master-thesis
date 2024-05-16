@@ -71,10 +71,12 @@
 ### DS
 
 - (O) ___ Advance Wars: Dual Strike
-- (X) ___ Animal Crossing: Wild World
+- (O) ___ Animal Crossing: Wild World
 - (X) ___ Assassin's Creed
+
 - (O) ___ Blood Bowl
 - (O) ___ Burnout: Legends
+
 - (X) ___ Dragon Ball Z: Attack of the Saiyans
 - (O) ___ Dragon Ball Z: Supersonic
 - (X) ___ Dragon Quest Heroes
@@ -82,28 +84,36 @@
 - (X) ___ Dragon Quest Monsters: Joker
 - (X) ___ Drawn to Life
 - (X) ___ Drawn to Life 2
+
 - (X) ___ Final Fantasy Fables
 - (X) ___ Final Fantasy: Ring of Fates
+
 - (X) ___ Kingdom Hearts: 358/2 Days
 - (X) ___ Kirby: Canvas Curse
 - (X) ___ Kirby: Squeak Squad
 - (X) ___ Kirby: Super Star Ultra
-- (O) ___ Mario & Luigi: Partners in Time
+
+- (X) ___ Mario & Luigi: Partners in Time
 - (O) ___ Mario Kart DS
 - (O) ___ Mario Party DS
 - (O) ___ Mario Slam Basketball
 - (X) ___ Monster Lab
+
 - (X) ___ Pac-Man World 3
 - (X) ___ Pokémon: HeartGold
 - (X) ___ Pokémon: Pearl
 - (X) ___ Pokémon: Platinum
 - (O) ___ Professeur Layton: la Boite de Pandore
+
 - (X) ___ Shaun the Sheep: Off His Head
-- (X) ___ Shrek: Super Slam
+- (O) ___ Shrek: Super Slam
 - (X) ___ Spore: Creatures
+
 - (X) ___ Warhammer 40,000: Squad Command
 - (O) ___ WarioWare: Touched
+
 - (X) ___ Yoshi's Island DS
+
 - (X) ___ Zelda: Spirit Tracks
 
 
