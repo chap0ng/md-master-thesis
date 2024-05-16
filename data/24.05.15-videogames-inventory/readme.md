@@ -55,16 +55,17 @@
 - (▲) ___ Kirby: Amazing Mirror ___ (https://www.vgmaps.com/Atlas/GBA/index.htm#KirbyTheAmazingMirror)
 - (▲) ___ Kirby: Nightmare in Dreamland ___ (https://www.vgmaps.com/Atlas/GBA/index.htm#KirbyNightmareInDreamLand)
 - (▲) ___ Metroid: Fusion ___ (https://www.vgmaps.com/Atlas/GBA/index.htm#MetroidFusion)
-- (X) ___ Oddworld: Munch's Oddysee
-- (X) ___ Pokémon: Ruby
-- (X) ___ Pokémon: Saphir
-- (X) ___ Prince of Persia: the Sand of Time
-- (X) ___ Rayman: Hoodlums' revenge
-- (X) ___ Rayman 3
-- (X) ___ Spyro: Season of Ice
-- (X) ___ Super Mario Advance
-- (X) ___ Sword of Mana
-- (X) ___ Zelda: Four Swords
+- (△) ___ Oddworld: Munch's Oddysee
+- (▲) ___ Pokémon: Ruby ___ (https://www.vgmaps.com/Atlas/GBA/index.htm#PokemonRubyVersion)
+- (▲) ___ Pokémon: Saphir ___ (https://www.vgmaps.com/Atlas/GBA/index.htm#PokemonSapphireVersion)
+- (★) ___ Prince of Persia: the Sand of Time ___ (https://gamefaqs.gamespot.com/gba/915023-prince-of-persia-the-sands-of-time/map/1075-game-map) (One image full map)
+- (▲) ___ Rayman: Hoodlums' revenge ___ (https://raymanpc.com/wiki/en/Rayman:_Hoodlums%27_Revenge)
+- (★) ___ Rayman 3 ___ (https://raymanpc.com/wiki/en/Category:Maps_from_the_Game_Boy_Advance_version_of_Rayman_3) (Rayman games got their own website)
+- (▲) ___ Spyro: Season of Ice ___ (https://gamefaqs.gamespot.com/gba/516703-spyro-season-of-ice/map/3152-locations-map) (Also on Vgmaps as season of flame)
+- (▲) ___ Super Mario Advance ___ (https://www.vgmaps.com/Atlas/NES/index.htm#MarioBros) & (https://www.vgmaps.com/Atlas/NES/index.htm#SuperMarioBros2) (Two remakes in one game)
+- (▲) ___ Sword of Mana ___ (https://www.vgmaps.com/Atlas/GBA/index.htm#SwordOfMana) or (https://www.fantasyanime.com/mana/swordofmana_maps.htm)
+- (▲) ___ Wario Land 4 ___ (https://www.vgmaps.com/Atlas/GBA/index.htm#WarioLand4)
+- (▲) ___ Zelda: Four Swords ___ (https://gamefaqs.gamespot.com/gba/561559-the-legend-of-zelda-a-link-to-the-past-four-swords/faqs)
 
 ---
 ### DS
