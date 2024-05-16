@@ -43,18 +43,18 @@
 ---
 ### Gameboy Advance
 
-- (X) ___ Batman: Vengeance
-- (X) ___ Castlevania
-- (X) ___ Crouching Tiger Hidden Dragon
-- (X) ___ Duel Masters: Kaijudo Showdown
-- (X) ___ Final Fantasy I & II: Dawn of Souls 
-- (X) ___ Final Fantasy IV
-- (X) ___ Frogger Adventures 2
-- (X) ___ Harry Potter: Philosopher's Stone
+- (△) ___ Batman: Vengeance
+- (▲) ___ Castlevania: Circle Of The Moon ___ (https://www.vgmaps.com/Atlas/GBA/index.htm#C)
+- (△) ___ Crouching Tiger Hidden Dragon
+- (△) ___ Duel Masters: Kaijudo Showdown
+- (▲) ___ Final Fantasy I & II: Dawn of Souls ___ (https://www.vgmaps.com/Atlas/GBA/index.htm#FinalFantasyIIIDawnOfSouls)
+- (▲) ___ Final Fantasy IV ___ (https://www.vgmaps.com/Atlas/GBA/index.htm#FinalFantasyIVAdvance)
+- (▲) ___ Frogger Adventures 2 ___ (https://frogger.fandom.com/wiki/Frogger%27s_Adventures_2:_The_Lost_Wand)
+- (▲) ___ Harry Potter: Philosopher's Stone ___ (https://gamefaqs.gamespot.com/gbc/565542-harry-potter-and-the-sorcerers-stone/faqs)
 - (O) ___ Harry Potter: Quidditch World Cup
-- (X) ___ Kirby: Amazing Mirror
-- (X) ___ Kirby: Nightmare in Dreamland
-- (X) ___ Metroid: Fusion
+- (▲) ___ Kirby: Amazing Mirror ___ (https://www.vgmaps.com/Atlas/GBA/index.htm#KirbyTheAmazingMirror)
+- (▲) ___ Kirby: Nightmare in Dreamland ___ (https://www.vgmaps.com/Atlas/GBA/index.htm#KirbyNightmareInDreamLand)
+- (▲) ___ Metroid: Fusion ___ (https://www.vgmaps.com/Atlas/GBA/index.htm#MetroidFusion)
 - (X) ___ Oddworld: Munch's Oddysee
 - (X) ___ Pokémon: Ruby
 - (X) ___ Pokémon: Saphir
