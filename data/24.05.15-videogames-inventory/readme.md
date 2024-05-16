@@ -71,40 +71,40 @@
 ### DS
 
 - (O) ___ Advance Wars: Dual Strike
-- (X) ___ Shrek: Super Slam
-- (O) ___ Burnout: Legends
-- (X) ___ Mario & Luigi: Partners in Time
-- (O) ___ Dragon Ball Z: Supersonic
-- (O) ___ Animal Crossing: Wild World
-- (X) ___ Pac Man World 3
-- (O) ___ Dragon Quest Heroes
-- (X) ___ Yoshi Island DS
-- (O) ___ Mario Slam Basketball
-- (X) ___ Final Fantasy Fables
-- (X) ___ Pokémon: Pearl
-- (X) ___ Drawn to Life
+- (X) ___ Animal Crossing: Wild World
+- (X) ___ Assassin's Creed
 - (O) ___ Blood Bowl
-- (X) ___ Assasin's Ceed
-- (X) ___ Dragon Ball Z: Attack of the Sayans
+- (O) ___ Burnout: Legends
+- (X) ___ Dragon Ball Z: Attack of the Saiyans
+- (O) ___ Dragon Ball Z: Supersonic
+- (X) ___ Dragon Quest Heroes
 - (X) ___ Dragon Quest IX: Sentinels of the Starry Skies
-- (X) ___ Drawn to Life 2
-- (X) ___ Kingdom Hearts: 3582 Days
-- (X) ___ Kirby: Super Star Ultra
-- (O) ___ Mario Party DS
-- (X) ___ Monster Lab
-- (X) ___ Pokémon: Heart Gold
-- (X) ___ Pokémon: Platine
-- (O) ___ Professeur Layton: la Boite de Pandore
-- (O) ___ Mario Kart DS
-- (X) ___ Shaun the Sheep: Off his Head
-- (X) ___ Zelda: Spirit Tracks
-- (X) ___ Kirby: Canvas Curse
-- (O) ___ WarioWare: Touch 
-- (X) ___ Warhammer 40'000: Squad Command
 - (X) ___ Dragon Quest Monsters: Joker
+- (X) ___ Drawn to Life
+- (X) ___ Drawn to Life 2
+- (X) ___ Final Fantasy Fables
 - (X) ___ Final Fantasy: Ring of Fates
-- (X) ___ Spore: Creatures
+- (X) ___ Kingdom Hearts: 358/2 Days
+- (X) ___ Kirby: Canvas Curse
 - (X) ___ Kirby: Squeak Squad
+- (X) ___ Kirby: Super Star Ultra
+- (O) ___ Mario & Luigi: Partners in Time
+- (O) ___ Mario Kart DS
+- (O) ___ Mario Party DS
+- (O) ___ Mario Slam Basketball
+- (X) ___ Monster Lab
+- (X) ___ Pac-Man World 3
+- (X) ___ Pokémon: HeartGold
+- (X) ___ Pokémon: Pearl
+- (X) ___ Pokémon: Platinum
+- (O) ___ Professeur Layton: la Boite de Pandore
+- (X) ___ Shaun the Sheep: Off His Head
+- (X) ___ Shrek: Super Slam
+- (X) ___ Spore: Creatures
+- (X) ___ Warhammer 40,000: Squad Command
+- (O) ___ WarioWare: Touched
+- (X) ___ Yoshi's Island DS
+- (X) ___ Zelda: Spirit Tracks
 
 
 ---
