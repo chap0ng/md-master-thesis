@@ -241,6 +241,75 @@ X
 ---
 ### PS2
 
+- (X) ___ Alien Hominid
+
+- (X) ___ Beyond Good & Evil
+- (X) ___ The Bouncer
+
+- (X) ___ Deus Ex
+- (X) ___ Devil May Cry
+- (X) ___ Devil May Cry 2
+- (X) ___ Devil May Cry 3
+- (X) ___ Dragon Quest: L'Odysée du Roi Maudit
+
+- (X) ___ Final Fantasy VII: Dirge of Cerberus
+- (X) ___ Final Fantasy X
+- (X) ___ Final Fantasy X-2
+- (X) ___ Final Fantasy XII
+- (X) ___ Forbidden Siren
+- (X) ___ Forgotten Realms: Demon Stone
+- (X) ___ Freak Out
+
+- (X) ___ Gregory Horror Show
+
+- (X) ___ Half Life
+
+- (X) ___ Ico
+
+- (X) ___ Jak and Daxter
+
+- (X) ___ Kingdom Hearts
+
+- (X) ___ Manhunt
+- (X) ___ Metal Gear Solid 2: Sons of Liberty
+- (X) ___ MTV: Musicgenerator 2
+
+- (X) ___ Naruto Shippuden: Ultimate Ninja 4
+
+- (X) ___ Obscure
+- (X) ___ Oni
+
+- (X) ___ Prince of Persia 2: L'Ame du Guerrier
+- (X) ___ Prince of Persia 3: Les Deux Royaumes
+- (X) ___ Prince of Persia: Les Sables du Temps
+- (X) ___ Project Zero
+- (X) ___ Project Zero II: Crimson Butterfly
+
+- (X) ___ Ratchet & Clank 2
+- (X) ___ Rayman 3
+- (X) ___ Rayman M
+- (X) ___ Rayman: Revolution
+- (X) ___ Resident Evil: Code Veronica X
+- (X) ___ Ribbit King
+- (X) ___ Rogue Galaxy
+
+- (X) ___ Shadow of the Colossus
+- (X) ___ Silent Hill 2
+- (X) ___ Silent Hill 3
+- (X) ___ Sonic Heroes
+- (X) ___ Spider-Man 2
+- (X) ___ SSX: On Tour
+
+- (X) ___ Tomb Raider: Legend
+
+- (X) ___ Viewtiful Joe
+
+- (X) ___ Worms 4: Mayhem
+
+- (X) ___ Zathura
+- (X) ___ Zone of the Enders
+
+
 ---
 ### PS3
 
