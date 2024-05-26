@@ -18,7 +18,7 @@
 
 
 ---
-Problematic :
+Problematic Digital Cartography :
 
 pourquoi ils font ca ?
 
@@ -36,7 +36,7 @@ rapidement faire un guide d entretiens
 
 amateurs et experts
 
-que ce que cartographier l espace numérique 
+que ce que cartographier l espace numérique ?
 
 continent numérique
 
