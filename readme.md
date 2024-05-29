@@ -4,7 +4,7 @@
 
 ---
 
-Subject : the process & comunity of videogame cartography.
+Subject : the community & process of video-game cartography.
 
 Problematic : " How do community-driven map cartography influence the development, longevity, and player engagement in video games ?  "
 
