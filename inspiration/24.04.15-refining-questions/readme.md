@@ -11,14 +11,11 @@
 #### 2. Videogame cartographers
 
 
-
 ---
 
-### Bibliography :
+##### Notes : 
 
-
----
-Problematic Digital Cartography :
+Problématique Digital Cartography :
 
 pourquoi ils font ca ?
 
