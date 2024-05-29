@@ -120,25 +120,47 @@
 ---
 ### Wii
 
-- (X) ___ 
-- (X) ___ 
-- (X) ___ 
-- (X) ___ 
-- (X) ___ 
-- (X) ___ 
-- (X) ___ 
-- (X) ___ 
-- (X) ___ 
-- (X) ___ 
-- (X) ___ 
-- (X) ___ 
-- (X) ___ 
-- (X) ___ 
-- (X) ___ 
-- (X) ___ 
+- (X) ___ Kid Paddle: Lost in the Game
+- (X) ___ Wario Land: the Shake Dimension
+- (X) ___ Rayman: Contre les Lapins Encore + Crétins
+- (X) ___ One Piece Unlimited Cruise 1: the Treasure Beneth the Waves
+- (X) ___ Monster Hunter: Tri
+- (X) ___ Mario Party 8
+- (X) ___ Rayman: Prod Presente the Lapin Cretins Show
+- (X) ___ Zack & Wiki: le Trésor de Barbaros
+- (X) ___ Wii Fit
+- (X) ___ Wii Sports
+- (X) ___ Super Smash Bros: Brawl
+- (X) ___ Mario Kart Wii
+- (X) ___ Ben 10: Protector of Earth
+- (X) ___ the Legend of Zelda: Twilight Princess
+- (X) ___ Eledees
 
 ---
 ### Switch
+
+- (X) ___ 
+- (X) ___ 
+- (X) ___ 
+- (X) ___ 
+- (X) ___ 
+- (X) ___ 
+- (X) ___ 
+- (X) ___ 
+- (X) ___ 
+- (X) ___ 
+- (X) ___ 
+- (X) ___ 
+- (X) ___ 
+- (X) ___ 
+- (X) ___ 
+- (X) ___ 
+- (X) ___ 
+- (X) ___ 
+- (X) ___ 
+- (X) ___ 
+- (X) ___ 
+- (X) ___ 
 
 ---
 ### PS1
