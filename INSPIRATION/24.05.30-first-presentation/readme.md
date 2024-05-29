@@ -4,7 +4,7 @@
 
 ###
 
-![Videogame atlas katamari damacy](Videogame-atlas-p185-katamari-damacy.jpg)
+![Videogame atlas katamari damacy](img/Videogame-atlas-p185-katamari-damacy.jpg)
 
 ###### Videogame Atlas, p: 185 Katamari Damacy map
 ###
@@ -71,8 +71,10 @@ Taking part myself in the creation of a video-game map guide in a game that inte
 
 Videogames inventory: [Link](https://github.com/chap0ng/md-master-thesis/tree/main/DATA/24.05.15-videogames-inventory)
 
+---
 
 ![breath of fire iv map](img/in-gamefaqs-by-matthew-visyak-for-breath-of-fire-iv-castle-basement-2.jpg)
+
 ###### Gamefaqs, map by matthew visyak for breath of fire iv castle basement 2
 
 ---
