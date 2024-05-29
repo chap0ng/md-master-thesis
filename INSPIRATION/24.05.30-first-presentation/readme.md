@@ -1,17 +1,17 @@
-### Subject :
+# Subject :
 
-#### --- The process & community of video-game cartography ---
+## --- The process & community of video-game cartography ---
 
 ![breath of fire iv map](img/in-gamefaqs-by-matthew-visyak-for-breath-of-fire-iv-castle-basement-2.jpg)
 
 ---
-### Research Question State 1 :
+# Research Question State 1 :
 
-#### - How do community-driven map cartography influence the development, longevity, and player engagement in video games ? -
+## - How do community-driven map cartography influence the development, longevity, and player engagement in video games ? -
 
 The 3 main focal points of this subject : 
 
-Community :
+### Community :
 
 - What motivates players to create and share their own maps?
 - What tools are used in digital cartography as a player ?
@@ -23,7 +23,7 @@ Community :
 - What roles do collaboration and competition play in these communities?
 - How does video game cartography can create art pieces ?
 
-Makers :
+### Makers :
 
 - How are maps thought of ?
 - How to use maps as an immersive tool ?
@@ -33,7 +33,7 @@ Makers :
 - Why does contemporary video-game maps hide less and less secrets in favour of showing everything ?
 - How does map making impact game development ?
 
-Games :
+### Games :
 
 - How can I join a digital cartographer community ?
 - What game should i try to cartograph ?
@@ -42,9 +42,9 @@ Games :
 - The different art form of video-game map making (from modding to hand drawn).
 
 ---
-### Research Plan & Methodology :
+# Research Plan & Methodology :
 
-#### 1. Interviews : 
+### 1. Interviews : 
 Interviews of different people in digital cartography communities & interviews of game creators about the current state of map making.
 
 Interview methodology for digital cartographers: [Link](https://github.com/chap0ng/md-master-thesis/tree/main/METHOD/24.05.26-interview-comunity)
@@ -53,15 +53,15 @@ Interview methodology for game creators:
 
 ##
 
-#### 2. Content Analysis : 
+### 2. Content Analysis : 
 Examination of the different types and themes of maps created by the community & examination of different types of games and what they produces in map making.
 
 ##
-#### 3. Case studies :
+### 3. Case studies :
 Analysing specific games with big communities ( From Software games, Skyrim, Silent Hill or so ...)
 
 ##
-#### 4. Videogame cartography & participative observation: 
+### 4. Videogame cartography & participative observation: 
 Taking part myself in the creation of a video-game map guide in a game that interest me or even better that hasn't been mapped before. Doing it with either the direct help of a community or by chatting with them on methodologies.
 
 Videogames inventory: [Link](https://github.com/chap0ng/md-master-thesis/tree/main/DATA/24.05.15-videogames-inventory)
@@ -69,5 +69,12 @@ Videogames inventory: [Link](https://github.com/chap0ng/md-master-thesis/tree/ma
 
 
 ---
-### Bibliography :
+
+# First Outputs : 
+
+
+
+
+---
+# Bibliography :
 
