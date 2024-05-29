@@ -8,7 +8,7 @@
 ---
 ### Research Question State 1 :
 
-##### --- How do community-driven map cartography influence the development, longevity, and player engagement in video games ? ---
+#### --- How do community-driven map cartography influence the development, longevity, and player engagement in video games ? ---
 
 The 3 main focal points of this subject : 
 
