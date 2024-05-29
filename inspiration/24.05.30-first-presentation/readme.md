@@ -1,8 +1,9 @@
-**<h3 style= "text-align: center;"> Subject : </h3>
+### Subject :
 
 #### --- The process & community of video-game cartography ---
 
-![alt text](img/in-gamefaqs-by-matthew-visyak-for-breath-of-fire-iv-castle-basement-2.jpg)
+![alt text](img/in-gamefaqs-by-matthew-visyak-for-breath-of-fire-iv-castle-basement-2.jpg) 
+
 
 ---
 ### Research Question State 1 :
