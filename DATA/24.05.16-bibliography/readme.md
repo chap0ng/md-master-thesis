@@ -16,7 +16,6 @@
 - « Virtual Cities: An Atlas & Exploration of Video Game Cities ». s. d. Consulté le 29 mai 2024. [https://www.game-cities.com/virtual-cities](https://www.game-cities.com/virtual-cities).
 
 ----
-
 ### ARTICLES :
 
 - Adams, E. 2003. « The Construction of Ludic Space ». In . [https://www.semanticscholar.org/paper/The-Construction-of-Ludic-Space-Adams/c89800458c6e1ec6f1ef308c6b34c3f0339dbd84](https://www.semanticscholar.org/paper/The-Construction-of-Ludic-Space-Adams/c89800458c6e1ec6f1ef308c6b34c3f0339dbd84).
@@ -46,7 +45,6 @@
 - Thorn, Ross. 2019. « How to Play with Maps ». _Abstracts of the ICA_ 1 (juillet):1‑2. [https://doi.org/10.5194/ica-abs-1-365-2019](https://doi.org/10.5194/ica-abs-1-365-2019).
 
 ---
-
 ### VIDEOS :
 
 - « (13) ALT 236 - YouTube ». s. d. Consulté le 26 mai 2024. [https://www.youtube.com/c/alt236](https://www.youtube.com/c/alt236).
@@ -55,8 +53,9 @@
 
 - Steve Aldrich, réal. 2022. _Video Game Cartography (Just Some Examples) -- ENVI172 - Week 13, Friday (Fall 2022)_. [https://www.youtube.com/watch?v=MWybY_2TNho](https://www.youtube.com/watch?v=MWybY_2TNho).
 
+
 ---
-### SOCIAL MEDIA // FORUMS:
+### SOCIAL MEDIA // FORUMS :
 
 - « (1) The VG Cartographer (@CartographerVg) / X ». 2021. X (formerly Twitter). 4 février 2021. [https://x.com/cartographervg](https://x.com/cartographervg).
 
@@ -71,5 +70,5 @@
 - « VGMaps.com: The Video Game Atlas ». s. d. Consulté le 15 mai 2024. [https://www.vgmaps.com/](https://www.vgmaps.com/).
 
 ---
-
 ### PODCASTS :
+
