@@ -33,8 +33,6 @@
 
 - Editor, Adam Smith Former Deputy, et Adam Smith. 2014. « Fantastic Cartography: Why Videogame Maps Matter ». _Rock, Paper, Shotgun_, 9 novembre 2014. [https://www.rockpapershotgun.com/videogame-maps](https://www.rockpapershotgun.com/videogame-maps).
 
-- « GameFAQs - Video Game Cheats, Reviews, FAQs, Message Boards, and More ». s. d. Consulté le 16 mai 2024. [https://gamefaqs.gamespot.com/](https://gamefaqs.gamespot.com/).
-
 - Horbiński, Tymoteusz, et Krzysztof Zagata. 2022. « View of Cartography in Video Games: Literature Review and Examples of Specifc Solutions ». _KN - Journal of Cartography and Geographic Information_ 72 (mars). [https://doi.org/10.1007/s42489-022-00104-8](https://doi.org/10.1007/s42489-022-00104-8).
 
 - Minassian, Hovig Ter. 2018. « Drawing Video Game Mental Maps: From Emotional Games to Emotions of Play ». _Cartographic Perspectives_, no 91 (octobre), 47‑62. [https://doi.org/10.14714/CP91.1435](https://doi.org/10.14714/CP91.1435).
