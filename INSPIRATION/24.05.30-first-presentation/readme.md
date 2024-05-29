@@ -48,7 +48,7 @@ Games :
 #### 1. Interviews : 
 Interviews of different people in digital cartography communities & interviews of game creators about the current state of map making.
 
-Interview methodology for digital cartographers: [Link](https://github.com/chap0ng/Master-Thesis-2024/tree/main/METHOD/24.05.26-interview-comunity)
+Interview methodology for digital cartographers: [Link](https://github.com/chap0ng/md-master-thesis/tree/main/METHOD/24.05.26-interview-comunity)
 
 Interview methodology for game creators: 
 
@@ -61,7 +61,7 @@ Analysing specific games with big communities ( From Software games, Skyrim, Sil
 #### 4. Videogame cartography & participative observation: 
 Taking part myself in the creation of a video-game map guide in a game that interest me or even better that hasn't been mapped before. Doing it with either the direct help of a community or by chatting with them on methodologies.
 
-Videogames inventory: [Link](https://github.com/chap0ng/md-master-thesis/tree/main/data/24.05.15-videogames-inventory)
+Videogames inventory: [Link](https://github.com/chap0ng/md-master-thesis/tree/main/DATA/24.05.15-videogames-inventory)
 
 
 
