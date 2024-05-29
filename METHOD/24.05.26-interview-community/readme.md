@@ -14,6 +14,8 @@
  
 - ##### 5 : How do you start mapping ?
 
-- ##### 6 : What is your main mapping process (do you do it manually or digitally) ?
+- ##### 6 : What is your main mapping process & what are the tools you use to make them (manually or digitally) ?
 
 - ##### 7 : Would you agree to show me some of your maps, if you still have them, and tell me some story about them ?
+
+- ##### 8 : What do you think of the current state of maps in contemporary video-games ?
