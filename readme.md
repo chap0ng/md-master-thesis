@@ -1,4 +1,4 @@
-# md-master-thesis
+# Master-Thesis-2024
 
 --- Media design 2k24 master thesis files ---
 
