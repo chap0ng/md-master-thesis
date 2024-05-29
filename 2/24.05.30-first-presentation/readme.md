@@ -2,7 +2,7 @@
 
 #### --- The process & community of video-game cartography ---
 
-![alt text](img/in-gamefaqs-by-matthew-visyak-for-breath-of-fire-iv-castle-basement-2.jpg) 
+![alt text](in-gamefaqs-by-matthew-visyak-for-breath-of-fire-iv-castle-basement-2.jpg) 
 
 
 ---
