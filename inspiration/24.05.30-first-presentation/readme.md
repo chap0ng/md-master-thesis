@@ -8,7 +8,7 @@
 ---
 ### Research Question State 1 :
 
-#### --- How do community-driven map cartography influence the development, longevity, and player engagement in video games ? ---
+#### - How do community-driven map cartography influence the development, longevity, and player engagement in video games ? -
 
 The 3 main focal points of this subject : 
 
@@ -46,7 +46,11 @@ Games :
 ### Research Plan & Methodology :
 
 ##### 1. Interviews : 
-Interviews of different people in digital cartography communities & interviews of game makers thoughts on the current state of map making.
+Interviews of different people in digital cartography communities & interviews of game creators about the current state of map making.
+
+(https://github.com/chap0ng/md-master-thesis/tree/main/method/24.05.26-interview-comunity " Link for interview methodology for digital cartographers: ")
+
+Link to interview methodology for game creators: 
 
 ##### 2. Content Analysis : 
 Examination of the different types and themes of maps created by the community & examination of different types of games and what they produces in map making.
