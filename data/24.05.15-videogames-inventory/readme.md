@@ -227,8 +227,10 @@ O
 
 P
 
+- (X) ___ Pan-Pan: A Tiny Big Adventure
 - (X) ___ Part Time UFO
 - (X) ___ Penny Punching Princess
+- (X) ___ Pikmin 4
 - (X) ___ Pikuniku
 - (X) ___ PixelJunk: Monsters 2
 - (X) ___ Poison Control
@@ -467,6 +469,29 @@ X
 
 ---
 ### PS3
+
+- (X) ___ 
+- (X) ___
+- (X) ___
+- (X) ___
+- (X) ___
+- (X) ___
+- (X) ___
+- (X) ___
+- (X) ___
+- (X) ___
+- (X) ___
+- (X) ___
+- (X) ___
+- (X) ___
+- (X) ___
+- (X) ___
+- (X) ___
+- (X) ___
+- (X) ___
+- (X) ___
+- (X) ___
+- (X) ___
 
 ---
 ### PSP
