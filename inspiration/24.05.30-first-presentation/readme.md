@@ -45,24 +45,26 @@ Games :
 ---
 ### Research Plan & Methodology :
 
-##### 1. Interviews : 
+#### 1. Interviews : 
 Interviews of different people in digital cartography communities & interviews of game creators about the current state of map making.
 
-[I'm an inline-style link with title] (https://github.com/chap0ng/md-master-thesis/tree/main/method/24.05.26-interview-comunity)
+Interview methodology for digital cartographers: [Link](https://github.com/chap0ng/Master-Thesis-2024/tree/main/METHOD/24.05.26-interview-comunity)
 
-Link to interview methodology for game creators: 
+Interview methodology for game creators: 
 
-##### 2. Content Analysis : 
+#### 2. Content Analysis : 
 Examination of the different types and themes of maps created by the community & examination of different types of games and what they produces in map making.
-
-##### 3. Case studies :
+ 
+#### 3. Case studies :
 Analysing specific games with big communities ( From Software games, Skyrim, Silent Hill or so ...)
 
-##### 4. Videogame cartography : 
-Taking part myself in the creation of a video-game map guide in a game that interest me or even better that hasn't been mapped before.
+#### 4. Videogame cartography & participative observation: 
+Taking part myself in the creation of a video-game map guide in a game that interest me or even better that hasn't been mapped before. Doing it with either the direct help of a community or by chatting with them on methodologies.
+
+Videogames inventory: [Link](https://github.com/chap0ng/md-master-thesis/tree/main/data/24.05.15-videogames-inventory)
+
 
 
 ---
-
 ### Bibliography :
 
