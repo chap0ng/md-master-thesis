@@ -120,47 +120,163 @@
 ---
 ### Wii
 
+- (X) ___ Ben 10: Protector of Earth
+- (X) ___ Eledees
 - (X) ___ Kid Paddle: Lost in the Game
-- (X) ___ Wario Land: the Shake Dimension
-- (X) ___ Rayman: Contre les Lapins Encore + Crétins
-- (X) ___ One Piece Unlimited Cruise 1: the Treasure Beneth the Waves
-- (X) ___ Monster Hunter: Tri
+- (X) ___ Mario Kart Wii
 - (X) ___ Mario Party 8
+- (X) ___ Monster Hunter: Tri
+- (X) ___ One Piece Unlimited Cruise 1: the Treasure Beneath the Waves
+- (X) ___ Rayman: Contre les Lapins Encore + Crétins
 - (X) ___ Rayman: Prod Presente the Lapin Cretins Show
-- (X) ___ Zack & Wiki: le Trésor de Barbaros
+- (X) ___ Super Smash Bros: Brawl
+- (X) ___ the Legend of Zelda: Twilight Princess
+- (X) ___ Wario Land: the Shake Dimension
 - (X) ___ Wii Fit
 - (X) ___ Wii Sports
-- (X) ___ Super Smash Bros: Brawl
-- (X) ___ Mario Kart Wii
-- (X) ___ Ben 10: Protector of Earth
-- (X) ___ the Legend of Zelda: Twilight Princess
-- (X) ___ Eledees
-
+- (X) ___ Zack & Wiki: le Trésor de Barbaros
 ---
 ### Switch
 
-- (X) ___ 
-- (X) ___ 
-- (X) ___ 
-- (X) ___ 
-- (X) ___ 
-- (X) ___ 
-- (X) ___ 
-- (X) ___ 
-- (X) ___ 
-- (X) ___ 
-- (X) ___ 
-- (X) ___ 
-- (X) ___ 
-- (X) ___ 
-- (X) ___ 
-- (X) ___ 
-- (X) ___ 
-- (X) ___ 
-- (X) ___ 
-- (X) ___ 
-- (X) ___ 
-- (X) ___ 
+A
+
+- (X) ___ Abzu
+- (X) ___ Amnesia: Collection
+- (X) ___ Animal Crossing: New Horizons
+- (X) ___ Art Sqool
+- (X) ___ Ashen
+
+B
+
+- (X) ___ Battleloon
+- (X) ___ Blade Strangers
+- (X) ___ Bomb Rush Cyberfunk
+
+C
+
+- (X) ___ Carrion
+
+D
+
+- (X) ___ Darkwood
+- (X) ___ Death Mark
+- (X) ___ Deltarune: Chapter 1&2
+- (X) ___ Dicey Dungeons
+- (X) ___ Dragon Ball Z: FighterZ
+- (X) ___ Dragon's Dogma: Dark Arisen
+- (X) ___ Dusk
+
+E
+
+- (X) ___ Eastward
+- (O) ___ Enter the Gungeon
+
+F
+
+- (X) ___ Fatum Betula
+- (X) ___ Fe
+- (X) ___ Florence
+- (O) ___ Funghi Puzzle Funghi Explosion
+
+G
+
+- (X) ___ Gato Roboto
+- (X) ___ Gris
+
+H
+
+- (X) ___ Happy Birthday
+- (X) ___ Hollow Knight
+- (X) ___ Hotline Miami Collection
+
+I
+
+- (X) ___ I am the Hero
+
+K
+
+- (X) ___ Katamari Damaci
+- (X) ___ Katana Zero
+- (X) ___ Kentucky Route Zero: TV Edition
+- (X) ___ Kirby: le Monde Oublié
+- (X) ___ Kuukiyomi: Consider it
+
+L
+
+- (X) ___ Liar Princess and the Blind Prince
+- (X) ___ Little Misfortune
+- (X) ___ Little Nightmare 2
+
+M
+
+- (X) ___ Minit
+- (X) ___ Monster Hunter: Rise
+- (X) ___ Moon
+- (X) ___ Mundaun
+
+N
+
+- (X) ___ No More Heroes 3
+
+O
+
+- (X) ___ Obakeidoro!
+- (X) ___ Omori
+- (X) ___ Outlast 2
+- (X) ___ Owlboy
+
+P
+
+- (X) ___ Part Time UFO
+- (X) ___ Penny Punching Princess
+- (X) ___ Pikuniku
+- (X) ___ PixelJunk: Monsters 2
+- (X) ___ Poison Control
+- (X) ___ Pokémon: Bouclier
+
+R
+
+- (X) ___ Red Bow
+- (X) ___ River City Girl
+
+S
+
+- (X) ___ Scott Pilgrim
+- (X) ___ Slain
+- (X) ___ Spirit Hunter: NG
+- (X) ___ Super Smash Bros: Ultimate
+
+T
+
+- (X) ___ the Legend of Zelda: Breath of the Wild
+- (X) ___ the Legend of Zelda: Tears of the Kingdom
+- (X) ___ Transistor
+
+U
+
+- (X) ___ Undertale
+- (X) ___ Umihara Kawase: Fresh!
+
+V
+
+- (X) ___ Void tRLM; //Void Terrarium
+
+W
+
+- (X) ___ WarioWare: Get it Together!
+- (X) ___ Wide Ocean Big Jacket
+
+X
+
+- (X) ___ Xenoblade Chronicle 2
+
+Y
+
+- (X) ___ Yomawari: Lost in the Dark
+- (X) ___ Yomawari: the Long Night Collection
+- (X) ___ Yume Nikki: Dream Diary
+
+
 
 ---
 ### PS1
