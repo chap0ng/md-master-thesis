@@ -51,6 +51,7 @@ Interview methodology for digital cartographers: [Link](https://github.com/chap0
 
 Interview methodology for game creators: 
 
+Communities list: [Link](https://github.com/chap0ng/md-master-thesis/tree/main/DATA/24.05.16-communities-list)
 ##
 
 ### 2. Content Analysis : 
