@@ -48,7 +48,7 @@ Games :
 ##### 1. Interviews : 
 Interviews of different people in digital cartography communities & interviews of game creators about the current state of map making.
 
-(https://github.com/chap0ng/md-master-thesis/tree/main/method/24.05.26-interview-comunity " Link for interview methodology for digital cartographers: ")
+[I'm an inline-style link with title] (https://github.com/chap0ng/md-master-thesis/tree/main/method/24.05.26-interview-comunity)
 
 Link to interview methodology for game creators: 
 
