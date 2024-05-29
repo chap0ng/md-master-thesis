@@ -52,12 +52,16 @@ Interview methodology for digital cartographers: [Link](https://github.com/chap0
 
 Interview methodology for game creators: 
 
+##
+
 #### 2. Content Analysis : 
 Examination of the different types and themes of maps created by the community & examination of different types of games and what they produces in map making.
- 
+
+##
 #### 3. Case studies :
 Analysing specific games with big communities ( From Software games, Skyrim, Silent Hill or so ...)
 
+##
 #### 4. Videogame cartography & participative observation: 
 Taking part myself in the creation of a video-game map guide in a game that interest me or even better that hasn't been mapped before. Doing it with either the direct help of a community or by chatting with them on methodologies.
 
