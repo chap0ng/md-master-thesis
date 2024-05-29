@@ -1,4 +1,4 @@
-## ---🗺️ List of digital cartographer community 🗺️---
+## ---🗺️ List of digital cartographer communities 🗺️---
 
 ---
 
