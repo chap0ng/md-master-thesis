@@ -1,6 +1,4 @@
-# Subject :
-
-## --- The process & community of video-game cartography ---
+# -- The community & process of video-game cartography --
 
 ###
 
@@ -45,6 +43,8 @@ The 3 main focal points of this subject :
 
 - How can I join a digital cartographer community ?
 - What game should i try to cartograph ?
+- What is the main process when bulding a video-game map ?
+- What are the different types of video-game maps ?
 - How does From-software games brought back the old school maps ?
 - How can cartography influence the player community ?
 - The different art form of video-game map making (from modding to hand drawn).
@@ -55,6 +55,7 @@ The 3 main focal points of this subject :
 ####
 
 ### 1. Interviews : 
+
 Interviews of different people in digital cartography communities & interviews of game creators about the current state of map making.
 
 Interview methodology for digital cartographers: [Link](https://github.com/chap0ng/md-master-thesis/tree/main/METHOD/24.05.26-interview-comunity)
@@ -65,14 +66,17 @@ Communities list: [Link](https://github.com/chap0ng/md-master-thesis/tree/main/D
 ##
 
 ### 2. Content Analysis : 
+
 Examination of the different types and themes of maps created by the community & examination of different types of games and what they produces in map making.
 
 ##
 ### 3. Case studies :
+
 Analysing specific games with big communities ( From Software games, Skyrim, Silent Hill or so ...)
 
 ##
 ### 4. Videogame cartography & participative observation: 
+
 Taking part myself in the creation of a video-game map guide in a game that interest me or even better that hasn't been mapped before. Doing it with either the direct help of a community or by chatting with them on methodologies.
 
 Videogames inventory: [Link](https://github.com/chap0ng/md-master-thesis/tree/main/DATA/24.05.15-videogames-inventory)
@@ -85,7 +89,6 @@ Videogames inventory: [Link](https://github.com/chap0ng/md-master-thesis/tree/ma
 
 ---
 # First Outputs : 
-
 
 - The video-games inventory !
 
