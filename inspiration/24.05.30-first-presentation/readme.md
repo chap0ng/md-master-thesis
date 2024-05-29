@@ -1,4 +1,4 @@
-**<h3 style= "text-align: center;"> Subject : </h3>
+<h3 style= "text-align: center;"> Subject : </h3>
 
 #### --- The process & community of video-game cartography ---
 
