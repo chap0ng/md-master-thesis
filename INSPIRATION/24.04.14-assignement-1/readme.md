@@ -190,4 +190,4 @@ The visual and cultural style of the late 1990s and early 2000s, characterized b
 
 #### Miro: 
 
-[Link](https://miro.com/app/board/uXjVKbh04AI=/)
+[Link](https://miro.com/welcomeonboard/UmFvNzhRRGVWSU9nQW5CNTF1OXJNS0pVQlU3TXM1TE96N0lPVFIxdGhrWXRLOE4zMjNObzVlUkJtOHM3akxCZnwzNDU4NzY0NTY2OTQxMTg4MTUwfDI=?share_link_id=205976613816)

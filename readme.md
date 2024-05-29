@@ -10,4 +10,4 @@ Problematic : " How do community-driven map cartography influence the developmen
 
 ---
 
-Miro for further mood-board research :  [Link](https://miro.com/app/board/uXjVKbh04AI=/)
+Miro for further mood-board research :  [Link](https://miro.com/welcomeonboard/UmFvNzhRRGVWSU9nQW5CNTF1OXJNS0pVQlU3TXM1TE96N0lPVFIxdGhrWXRLOE4zMjNObzVlUkJtOHM3akxCZnwzNDU4NzY0NTY2OTQxMTg4MTUwfDI=?share_link_id=205976613816)
