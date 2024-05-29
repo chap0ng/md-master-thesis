@@ -13,6 +13,10 @@
 
 ## - How do community-driven map cartography influence the development, longevity, and player engagement in video games ? -
 
+####
+
+---
+
 The 3 main focal points of this subject : 
 
 ### Community :
@@ -48,6 +52,8 @@ The 3 main focal points of this subject :
 ---
 # Research Plan & Methodology :
 
+####
+
 ### 1. Interviews : 
 Interviews of different people in digital cartography communities & interviews of game creators about the current state of map making.
 
@@ -78,12 +84,33 @@ Videogames inventory: [Link](https://github.com/chap0ng/md-master-thesis/tree/ma
 ###### Gamefaqs, map by matthew visyak for breath of fire iv castle basement 2
 
 ---
-
 # First Outputs : 
 
 
+- The video-games inventory !
 
+- Tried reaching my Instagram community -> I got reach by some people that weren't in the field but did gave me contacts that I will be able to reach.
+
+- Got in contact with the game dev [Miller Klitsner](https://millerklitsner.com/) who've sent a general call on his game dev discord server to see if some people are interested in doing tiny interviews.
+
+- Talked to [Plastiboo](https://www.instagram.com/plastiboo/) (amazing artist !) -> Answer, but never did a digital map making, rather an artist and storyteller (they did amazing imaginary game maps for Vermis). Told me to try reaching [Sinclair Lore](https://www.youtube.com/@SinclairLore/featured) that did a huge project on from software maps and wikis.
+
+- Tried reaching [ALT236](https://www.youtube.com/@ALT236) after his last video that had chapters about making a video game cartography -> No answer yet on Instagram, but i'll write to him also on other platform.
+
+---
+# Next Steps :
+
+- Reaching out to the [Spriter Resource](https://www.spriters-resource.com/) community.
+
+- Reaching out [Sinclair Lore](https://www.youtube.com/@SinclairLore/featured) about From Software maps mechanics (for Bloodborn or Elden Ring).
+
+- Choosing a game I will be doing cartography for.
+
+- Video-games inventory completion.
 
 ---
 # Bibliography :
 
+[Link](https://github.com/chap0ng/md-master-thesis/tree/main/DATA/24.05.16-bibliography)
+
+--- 
