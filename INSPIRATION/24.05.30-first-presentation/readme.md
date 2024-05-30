@@ -13,6 +13,12 @@
 
 ####
 
+## Why ? :
+
+Video-game map guides and cartographers are a niche community of passionate. I'm aiming with this thesis to explore their practices, from modding to hand-drawing these maps, in an attempt to better understand their craft and dedication toward virtual worlds.
+
+Modern triple-A games have transformed the nature of in-game maps, often revealing every point of interest and detail to the players. However, this comprehensive approach can actually diminish the sense of discovery within digital worlds, the story telling or even the gameplay itself.
+
 ---
 
 The 3 main focal points of this subject : 
@@ -42,12 +48,19 @@ The 3 main focal points of this subject :
 ### Games :
 
 - How can I join a digital cartographer community ?
-- What game should i try to cartograph ?
-- What is the main process when bulding a video-game map ?
+- What game should I try to cartograph ?
+- What is the main process when building a video-game map ?
 - What are the different types of video-game maps ?
 - How does From-software games brought back the old school maps ?
 - How can cartography influence the player community ?
 - The different art form of video-game map making (from modding to hand drawn).
+
+---
+####
+
+![Video game Atlas Death Stranding](img/Videogame-atlas-p89-death-srtranding.png)
+
+###### Videogame Atlas, p: 89 Death Stranding
 
 ---
 # Research Plan & Methodology :
@@ -57,12 +70,13 @@ The 3 main focal points of this subject :
 ### 1. Interviews : 
 
 Interviews of different people in digital cartography communities & interviews of game creators about the current state of map making.
+Interviews will mostly be online or even on VR-Chat.
 
 Interview methodology for digital cartographers: [Link](https://github.com/chap0ng/md-master-thesis/tree/main/METHOD/24.05.26-interview-comunity)
 
-Interview methodology for game creators: 
+Interview methodology for game creators: [Link](https://github.com/chap0ng/md-master-thesis/tree/main/METHOD/24.05.29-interview-game-dev)
 
-Communities list: [Link](https://github.com/chap0ng/md-master-thesis/tree/main/DATA/24.05.16-communities-list)
+Cartographers communities list: [Link](https://github.com/chap0ng/md-master-thesis/tree/main/DATA/24.05.16-communities-list)
 ##
 
 ### 2. Content Analysis : 
@@ -116,4 +130,11 @@ Videogames inventory: [Link](https://github.com/chap0ng/md-master-thesis/tree/ma
 
 [Link](https://github.com/chap0ng/md-master-thesis/tree/main/DATA/24.05.16-bibliography)
 
+####
 --- 
+####
+
+![Bloodborne map](img/Bloodborne-Map-no-Lanterns-by-Hypn0tyk.jpg)
+
+###### Bloodborn Wiki, Yharnam overall map, by _[Hypn0tyk (@Hypnotyk on X)](https://twitter.com/Hypn0tyk)_
+###
