@@ -15,6 +15,8 @@
 
 ## Why ? :
 
+Interested in the DIY aspect of it, community aspect, storytelling, map layout creation and of course video-games.
+
 Video-game map guides and cartographers are a niche community of passionate. I'm aiming with this thesis to explore their practices, from modding to hand-drawing these maps, in an attempt to better understand their craft and dedication toward virtual worlds.
 
 Modern triple-A games have transformed the nature of in-game maps, often revealing every point of interest and detail to the players. However, this comprehensive approach can actually diminish the sense of discovery within digital worlds, the story telling or even the gameplay itself.
@@ -72,7 +74,7 @@ The 3 main focal points of this subject :
 Interviews of different people in digital cartography communities & interviews of game creators about the current state of map making.
 Interviews will mostly be online or even on VR-Chat.
 
-Interview methodology for digital cartographers: [Link](https://github.com/chap0ng/md-master-thesis/tree/main/METHOD/24.05.26-interview-comunity)
+Interview methodology for digital cartographers: [Link](https://github.com/chap0ng/md-master-thesis/tree/main/METHOD/24.05.26-interview-community)
 
 Interview methodology for game creators: [Link](https://github.com/chap0ng/md-master-thesis/tree/main/METHOD/24.05.29-interview-game-dev)
 
