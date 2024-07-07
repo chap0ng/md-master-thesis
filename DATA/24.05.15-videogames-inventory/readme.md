@@ -351,6 +351,7 @@ N
 
 P
 
+- (X) ___ Parasite Eve 
 - (X) ___ Parasite Eve II
 
 R
@@ -470,37 +471,173 @@ X
 ---
 ### PS3
 
-- (X) ___ 
-- (X) ___
-- (X) ___
-- (X) ___
-- (X) ___
-- (X) ___
-- (X) ___
-- (X) ___
-- (X) ___
-- (X) ___
-- (X) ___
-- (X) ___
-- (X) ___
-- (X) ___
-- (X) ___
-- (X) ___
-- (X) ___
-- (X) ___
-- (X) ___
-- (X) ___
-- (X) ___
-- (X) ___
+- (X) ___ Naughty Bear
+- (X) ___ Enslaved - Odysee to the west
+- (X) ___ The Bureau - Xcom Declassified
+- (X) ___ Brink
+- (X) ___ Dragon Ball Z Ultimate Tenkaichi
+- (X) ___ Super Street Fighter IV
+- (X) ___ Kingdom Hearts - HD 1.5 ReMix
+- (X) ___ Kingdom Hearts - HD 2.5 ReMix
+- (X) ___ Battlefield Bad Company 2 : Ultimate Edition
+- (X) ___ Assasin's Creed IV : Black Flag
+- (X) ___ Assasin's Creed III
+- (X) ___ James Cameron Avatar : The Game
+- (X) ___ Final Fantasy XIII
+- (X) ___ 2010 Fifa World Cup South Africa
+- (X) ___ Marvel vs Capcom 3 Fate of Two Worlds
+- (X) ___ Naruto Shipuden Ultimate Ninja Storm 3
+- (X) ___ Dark Void
+- (X) ___ Castlevania : Lord of Shadow
+- (X) ___ NeverDead
+- (X) ___ Lost Planet Extreme Condition
+- (X) ___ Metal Gear Solid 4 : Guns of The Patriots
+- (X) ___ Skate.
+- (X) ___ Mirror's Edge
+- (X) ___ Gran Tourismo 5 : Academy Edition
+- (X) ___ Ni no Kuni : La Vengeance de la sorcière céleste
+- (X) ___ Rage : Anarchy Edition
+- (X) ___ Dark Souls II
+- (X) ___ Diablo III
+- (X) ___ Asura's Wrath
+- (X) ___ Metal Gear Rising
+- (X) ___ Silent Hill : Homecoming
+- (X) ___ Killzone 2
+- (X) ___ Sacred 2
+- (X) ___ Lord of The Rings Conquest
+- (X) ___ Batman : Arkham Asylum
+- (X) ___ God of War III
+- (X) ___ Mass Effect 2
+- (X) ___ InFamous 
+- (X) ___ InFamous 2
+- (X) ___ The Last of Us
+- (X) ___ Fallout 3
+- (X) ___ The Elder Scrolls 5 : Skyrim
+- (X) ___ Beyond : Two Souls
+- (X) ___ FarCry 4
+- (X) ___ Crysis 2
+- (X) ___ Crysis 3
+- (X) ___ Uncharted : Drake's Fortune
+- (X) ___ Uncharted 2 : Among Thieves
+- (X) ___ Uncharted 3 : Drake's Deception
+- (X) ___ The Elder Scrolls IV : Oblivion
+- (X) ___ Soulcalibur IV 
+- (X) ___ Heavenly Sword
+- (X) ___ Naruto Shippuden Ultimate Ninja Storm 2
+- (X) ___ Dishonored
+- (X) ___ Saints Row IV
+- (X) ___ Darksiders II
+- (X) ___ Fracture
+- (X) ___ FarCry 5
+- (X) ___ Read Dead Redemption
+- (X) ___ Borderland 2
+- (X) ___ Dante's Inferno
+- (X) ___ Call of Duty : Modern Warfare 2
+- (X) ___ Mobile Suit Gundam : Target in Sight
+- (X) ___ The Sly Trilogy
+- (X) ___ Ninja Gaiden Sigma
+- (X) ___ Blaze Blue : Continuum Shift
+- (X) ___ Siren Blood Curse
+- (X) ___ Bioshock 2
+
 
 ---
 ### PSP
 
+- (X) ___ Rachet & Clank : Size Matters
+- (X) ___ Lego Star Wars II : La Trilogie Originale
+- (X) ___ Ultimate Ghost'n Goblins
+- (X) ___ Astonishia Story
+- (X) ___ Harry Potter et la Coupe de Feu
+- (X) ___ Myst
+- (X) ___ Lego Indiana Jones : La Trilogie Originale
+- (X) ___ Gitaroo Man Live
+- (X) ___ Worms Open Warfare 2
+- (X) ___ Star Wars Battlefront : Renegade Squadron
+- (X) ___ Star Wars Battlefront 2
+- (X) ___ Avatar Le Dernier Maitre de l'Air
+- (X) ___ Tekken Dark Resurection
+- (X) ___ Landfeust de Troy
+- (X) ___ Wipeout
+- (X) ___ World Tour Soccer 2
+- (X) ___ F1 Grand Prix
+- (X) ___ LocoRoco
+- (X) ___ Lemmings
+- (X) ___ Yu-Gi-Oh! GX Tag Force
+- (X) ___
+
+
 ---
 ### PS4
 
+- (X) ___ Shining Resonance : Refrain
+- (X) ___ Life is Strange
+- (X) ___ CyberPunk 2077
+- (X) ___ Final Fantasy XV
+- (X) ___ Death Stranding
+- (X) ___ Dark Souls III
+- (X) ___ Prey
+- (X) ___ Destiny
+- (X) ___ Little Nightmare
+- (X) ___ The Last of Us Part II
+- (X) ___ Monster Hunter World
+- (X) ___ Shadow Warrior
+- (X) ___ Call of Duty Black Ops III
+- (X) ___ Grand Theft Auto V
+- (X) ___ Metal Gear Solid V : The Phantom Pain
+- (X) ___ The Order 1886
+- (X) ___ Inside 
+- (X) ___ Limbo
+- (X) ___ InFamous Second Son
+- (X) ___ Kingdom Hearts III
+- (X) ___ Mass Effect Andromeda
+- (X) ___ Immortal Unchained
+- (X) ___ MediEvil
+- (X) ___ Persona 5 Strikers
+- (X) ___ No Man's Sky
+- (X) ___ Wattam
+- (X) ___ Final Fantasy XIV
+- (X) ___ Conan Exiles
+- (X) ___ Uncharted : The Lost Legacy
+- (X) ___ Red Dead Redemption II
+- (X) ___ Puyo Puyo Tetris
+- (X) ___ Dodgeball Academia 
+- (X) ___ Adventure Time : Finn & Jake Menent l'Enquête
+- (X) ___ Onechanbara ZII Chaos
+- (X) ___ The Witcher 3 : Wild Hunt
+- (X) ___ Street Fighter V
+- (X) ___ Guilty Gear Xrd - Revelator -
+- (X) ___ Tom Clancy : The Division
+- (X) ___ For Honor
+- (X) ___ Gundam Versus
+- (X) ___ Digimon Story Cybersleuth Hacker's Memory
+- (X) ___ Neo : The World Ends With You
+- (X) ___ Bloodborne
+- (X) ___ Trover Saves The Universe
+- (X) ___ Elden Ring 
+- (X) ___
+- (X) ___
+- (X) ___
+- (X) ___
+
+
 ---
 ### PS5
+
+- (X) ___ Armored Core : Fire of Rubicon
+- (X) ___ Yuoni 
+- (X) ___ Tiny Tina Wonderlands
+- (X) ___ Godfall
+- (X) ___ System of Souls
+- (X) ___ Helldivers II
+- (X) ___ White Day
+- (X) ___
+- (X) ___
+- (X) ___
+- (X) ___
+- (X) ___
+- (X) ___
+
 
 ---
 ### PC
@@ -721,6 +858,7 @@ W
 
 ---
 ### Incoming games Summer 2024
+
 
 ---
 ### Old games that i don't own yet
