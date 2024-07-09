@@ -72,49 +72,49 @@
 
 - (O) ___ Advance Wars: Dual Strike
 - (O) ___ Animal Crossing: Wild World
-- (X) ___ Assassin's Creed
+- (△) ___ Assassin's Creed
 
 - (O) ___ Blood Bowl
 - (O) ___ Burnout: Legends
 
-- (X) ___ Dragon Ball Z: Attack of the Saiyans
+- (△) ___ Dragon Ball Z: Attack of the Saiyans ___ (https://www.spriters-resource.com/ds_dsi/dragonballzattackofthesaiyans/sheet/50312/)
 - (O) ___ Dragon Ball Z: Supersonic
-- (X) ___ Dragon Quest Heroes
-- (X) ___ Dragon Quest IX: Sentinels of the Starry Skies
-- (X) ___ Dragon Quest Monsters: Joker
-- (X) ___ Drawn to Life
-- (X) ___ Drawn to Life 2
+- (▲) ___ Dragon Quest Heroes : Rocket Slime ___ (https://www.woodus.com/den/games/slimedq2/maps.php?tp=maps_dungeon)
+- (▲) ___ Dragon Quest IX: Sentinels of the Starry Skies ___ (https://www.woodus.com/den/games/dq9ds/maps.php?tp=maps_overworld) ( https://dragonquest.fandom.com/wiki/Map_of_material_locations_in_Dragon_Quest_IX )
+- (▲) ___ Dragon Quest Monsters: Joker ___ ( https://gamefaqs.gamespot.com/ds/933956-dragon-quest-monsters-joker/map/9524-domus-isle-map ) ( https://archive.org/details/DragonQuestMonstersJokerBradygamesGuide/page/n37/mode/2up )
+- (△) ___ Drawn to Life ___ ( https://drawntolife.fandom.com/wiki/Drawn_to_Life:_The_Next_Chapter/List_of_Levels )
+- (★) ___ Drawn to Life 2 ___ (https://www.speedrun.com/dtl/guides/4g89n ) ( https://imgur.com/a/drawn-to-life-level-maps-bZzNJZD ) (speed-run community)
 
-- (X) ___ Final Fantasy Fables
-- (X) ___ Final Fantasy: Ring of Fates
+- (△★) ___ Final Fantasy Fables ___ (https://www.ign.com/wikis/final-fantasy-fables-chocobos-dungeon/Ign:Navigation) ( waiting for someone to do it)
+- (▲) ___ Final Fantasy: Ring of Fates ___ ( https://archive.org/details/final-fantasy-crystal-chronicles-ring-of-fates-bradygames-strategy-guide/page/n27/mode/2up )
 
-- (X) ___ Kingdom Hearts: 358/2 Days
-- (X) ___ Kirby: Canvas Curse
-- (X) ___ Kirby: Squeak Squad
-- (X) ___ Kirby: Super Star Ultra
+- (▲) ___ Kingdom Hearts: 358/2 Days ___ ( https://www.khwiki.com/Kingdom_Hearts_358/2_Days_Signature_Series_Strategy_Guide )
+- (▲) ___ Kirby: Canvas Curse ___ ( https://www.vgmaps.com/Atlas/DS/index.htm#K )
+- (▲) ___ Kirby: Squeak Squad ___ ( https://www.vgmaps.com/Atlas/DS/index.htm#K)
+- (▲) ___ Kirby: Super Star Ultra ___ ( https://www.vgmaps.com/Atlas/DS/index.htm#K)
 
-- (X) ___ Mario & Luigi: Partners in Time
-- (O) ___ Mario Kart DS
-- (O) ___ Mario Party DS
+- (▲) ___ Mario & Luigi: Partners in Time ___ (https://www.vgmaps.com/Atlas/DS/index.htm#M)
+- (▲) ___ Mario Kart DS ___ (https://www.vgmaps.com/Atlas/DS/index.htm#M)
+- (▲) ___ Mario Party DS ___ (https://www.vgmaps.com/Atlas/DS/index.htm#M)
 - (O) ___ Mario Slam Basketball
-- (X) ___ Monster Lab
+- (★) ___ Monster Lab ___ ( https://www.reddit.com/r/battlemaps/comments/jkvzdy/monster_lab_21x35/ ) (DND community ripping video game maps to play on it)
 
-- (X) ___ Pac-Man World 3
-- (X) ___ Pokémon: HeartGold
-- (X) ___ Pokémon: Pearl
-- (X) ___ Pokémon: Platinum
+- (△) ___ Pac-Man World 3
+- (▲) ___ Pokémon: HeartGold ___ ( https://www.mewmaps.org/heart-gold-soul-silver )
+- (▲) ___ Pokémon: Pearl ___ ( https://www.mewmaps.org/diamond-pearl-platinum )
+- (▲) ___ Pokémon: Platinum ___ ( https://www.mewmaps.org/diamond-pearl-platinum )
 - (O) ___ Professeur Layton: la Boite de Pandore
 
-- (X) ___ Shaun the Sheep: Off His Head
+- (O) ___ Shaun the Sheep: Off His Head 
 - (O) ___ Shrek: Super Slam
-- (X) ___ Spore: Creatures
+- (▲) ___ Spore: Creatures ___ ( https://sporecreatures.fandom.com/wiki/Trunkle?file=Tapti_Trunkle_map.png#Environment )( https://sporecreatures.fandom.com/wiki/Special:AllMaps ) ( possible to create interactive map but not too interesting for this game)
 
-- (X) ___ Warhammer 40,000: Squad Command
+- (△) ___ Warhammer 40,000: Squad Command
 - (O) ___ WarioWare: Touched
 
-- (X) ___ Yoshi's Island DS
+- (▲) ___ Yoshi's Island DS ___ ( https://www.suppermariobroth.com/post/145067237200/yoshis-island-ds-maps-from-the-official-nintendo )
 
-- (X) ___ Zelda: Spirit Tracks
+- (▲) ___ Zelda: Spirit Tracks ___ ( https://www.palaiszelda.com/spirittracks/plan.php )
 
 
 ---
