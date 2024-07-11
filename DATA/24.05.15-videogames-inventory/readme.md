@@ -195,28 +195,28 @@ I
 
 K
 
-- (▲) ___ Katamari Damacy ___ (in « Videogame Atlas »)
+- (★) ___ Katamari Damacy ___ (in « Videogame Atlas »)
 - (△) ___ Katana Zero
-- (X) ___ Kentucky Route Zero: TV Edition
-- (X) ___ Kirby: le Monde Oublié
+- (★) ___ Kentucky Route Zero: TV Edition ___ (https://consolidatedpower.co/~donald/zero/index.php?title=Maps&%2FMaps=&mobileaction=toggle_view_desktop)
+- (▲) ___ Kirby: le Monde Oublié ___ (https://www.ebay.com/itm/125558361522)
 - (O) ___ Kuukiyomi: Consider it
 
 L
 
-- (X) ___ Liar Princess and the Blind Prince
-- (X) ___ Little Misfortune
-- (X) ___ Little Nightmare 2
+- (△) ___ Liar Princess and the Blind Prince
+- (△) ___ Little Misfortune
+- (▲) ___ Little Nightmare 2 ___ (https://www.reddit.com/r/LittleNightmares/comments/nnx8sm/i_made_a_simple_map_of_the_hunters_cabin_for_fun/) (https://www.reddit.com/r/LittleNightmares/comments/on59xu/an_overview_of_all_little_nightmares_2_levels_in/)
 
 M
 
-- (X) ___ Minit
-- (X) ___ Monster Hunter: Rise
-- (X) ___ Moon
-- (X) ___ Mundaun
+- (▲) ___ Minit ___ (https://steamcommunity.com/sharedfiles/filedetails/?id=1352958917)
+- (▲) ___ Monster Hunter: Rise ___ (https://gamewith.net/monsterhunter-rise/article/show/24944) (https://www.reddit.com/r/MonsterHunter/comments/mis3pc/upsurge_ore_farming_routes_for_all_5_maps_videos/)
+- (★) ___ Moon ___ (https://archive.org/details/moonofficialbookstrategyguidescanjp/page/n141/mode/2up)
+- (△★) ___ Mundaun
 
 N
 
-- (X) ___ No More Heroes 3
+- (△) ___ No More Heroes 3
 
 O
 
