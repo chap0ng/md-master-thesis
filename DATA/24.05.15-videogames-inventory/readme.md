@@ -120,86 +120,86 @@
 ---
 ### Wii
 
-- (X) ___ Ben 10: Protector of Earth
-- (X) ___ Eledees
-- (X) ___ Kid Paddle: Lost in the Game
-- (X) ___ Mario Kart Wii
-- (X) ___ Mario Party 8
-- (X) ___ Monster Hunter: Tri
-- (X) ___ One Piece Unlimited Cruise 1: the Treasure Beneath the Waves
-- (X) ___ Rayman: Contre les Lapins Encore + Crétins
-- (X) ___ Rayman: Prod Presente the Lapin Cretins Show
-- (X) ___ Super Smash Bros: Brawl
-- (X) ___ the Legend of Zelda: Twilight Princess
-- (X) ___ Wario Land: the Shake Dimension
-- (X) ___ Wii Fit
-- (X) ___ Wii Sports
-- (X) ___ Zack & Wiki: le Trésor de Barbaros
+- (△) ___ Ben 10: Protector of Earth
+- (△) ___ Eledees
+- (△) ___ Kid Paddle: Lost in the Game
+- (▲) ___ Mario Kart Wii ___ (https://tcrf.net/Mario_Kart_Wii/Unused_Course_Elements) (https://archive.org/details/mario-kart-wii-prima-official-game-guide-2008-wii/page/56/mode/2up)
+- (△) ___ Mario Party 8
+- (▲) ___ Monster Hunter: Tri ___ (https://gamefaqs.gamespot.com/wii/943655-monster-hunter-tri/faqs)
+- (▲) ___ One Piece Unlimited Cruise 1: the Treasure Beneath the Waves ___ (https://www.supersoluce.com/soluce/one-piece-unlimited-cruise-2-l-eveil-d-un-heros/72-ile-des-souvenirs)
+- (O) ___ Rayman: Contre les Lapins Encore + Crétins
+- (O) ___ Rayman: Prod Presente the Lapin Cretins Show
+- (▲) ___ Super Smash Bros: Brawl ___ (https://nintendo.fandom.com/wiki/List_of_Super_Smash_Bros._Brawl_stages)
+- (▲) ___ the Legend of Zelda: Twilight Princess ___ (https://www.neoseeker.com/zelda-twilight-princess-hd/faqs/) (https://www.deviantart.com/mada12/art/LoZ-Twilight-Princess-MAP-46786971) (https://gamefaqs.gamespot.com/wii/928519-the-legend-of-zelda-twilight-princess/map/3694-item-locations-map)
+- (△) ___ Wario Land: the Shake Dimension ___ (https://www.vgmaps.com/Atlas/Wii/index.htm#WarioLandShakeIt) (only in game general drawn map)
+- (O) ___ Wii Fit
+- (O) ___ Wii Sports
+- (△) ___ Zack & Wiki: le Trésor de Barbaros
 ---
 ### Switch
 
 A
 
-- (X) ___ Abzu
-- (X) ___ Amnesia: Collection
-- (X) ___ Animal Crossing: New Horizons
-- (X) ___ Art Sqool
-- (X) ___ Ashen
+- (△) ___ Abzu
+- (▲) ___ Amnesia: Collection ___ (https://steamcommunity.com/sharedfiles/filedetails/?id=829150730)
+- (O) ___ Animal Crossing: New Horizons
+- (△) ___ Art Sqool
+- (★) ___ Ashen ___ (https://www.reddit.com/r/AshenTheGame/comments/atnpbk/ashen_complete_item_map/) (proof of collaboration here on reddit by two maps fusion) 
 
 B
 
-- (X) ___ Battleloon
-- (X) ___ Blade Strangers
-- (X) ___ Bomb Rush Cyberfunk
+- (O) ___ Battleloon
+- (O) ___ Blade Strangers
+- (★) ___ Bomb Rush Cyberfunk ___ (https://steamcommunity.com/sharedfiles/filedetails/?id=3023826368) ( again collab with feedback)
 
 C
 
-- (X) ___ Carrion
+- (★) ___ Carrion ___ (https://stevivor.com/guides/carrion-maps-use-handy-guides-find-way-around/) (Very important behind the seen vidéo on mapping process)
 
 D
 
-- (X) ___ Darkwood
-- (X) ___ Death Mark
-- (X) ___ Deltarune: Chapter 1&2
-- (X) ___ Dicey Dungeons
-- (X) ___ Dragon Ball Z: FighterZ
-- (X) ___ Dragon's Dogma: Dark Arisen
-- (X) ___ Dusk
+- (O) ___ Darkwood ___ (https://www.youtube.com/watch?v=uFH83E7DERU&ab_channel=MazyRun)
+- (O) ___ Death Mark
+- (▲) ___ Deltarune: Chapter 1&2 ___ (https://www.reddit.com/user/FriskDreemur5/) (https://www.deviantart.com/ferris1o1/art/Deltarune-Chapter-Predictions-Locations-1007286753)
+- (O) ___ Dicey Dungeons
+- (O) ___ Dragon Ball Z: FighterZ
+- (▲) ___ Dragon's Dogma: Dark Arisen ___ (https://steamcommunity.com/sharedfiles/filedetails/?id=3012647790) (https://frontiernav.net/explore/dragons-dogma/visualisations/maps) (https://steamcommunity.com/sharedfiles/filedetails/?id=1183049659)
+- (★) ___ Dusk ___ (https://www.youtube.com/watch?v=M3_t3kwd_6A&ab_channel=Bunsig%3ATheSecondChannel) (video about the creation of a map)
 
 E
 
-- (X) ___ Eastward
+- (△) ___ Eastward
 - (O) ___ Enter the Gungeon
 
 F
 
-- (X) ___ Fatum Betula
-- (X) ___ Fe
-- (X) ___ Florence
+- (△) ___ Fatum Betula ___ (https://steamcommunity.com/sharedfiles/filedetails/?id=2575022344)
+- (▲) ___ Fe ___ (https://fe.fandom.com/wiki/Map)
+- (O) ___ Florence
 - (O) ___ Funghi Puzzle Funghi Explosion
 
 G
 
-- (X) ___ Gato Roboto
-- (X) ___ Gris
+- (▲) ___ Gato Roboto ___ (https://www.neoseeker.com/gato-roboto/walkthrough)
+- (△) ___ Gris
 
 H
 
-- (X) ___ Happy Birthday
-- (X) ___ Hollow Knight
-- (X) ___ Hotline Miami Collection
+- (O) ___ Happy Birthday
+- (★) ___ Hollow Knight ___ (https://steamcommunity.com/sharedfiles/filedetails/?id=876122772) (https://gamefaqs.gamespot.com/ps4/246240-hollow-knight/map/15391-complete-map) (https://www.hallownest.net/mapping-stats/) (article about the map making process too)
+- (▲) ___ Hotline Miami Collection ___ (https://www.reddit.com/r/HotlineMiami/comments/13x3w8j/whole_maps_in_hm2_act_2_rising_what_was_the/) (one of many you can find)
 
 I
 
-- (X) ___ I am the Hero
+- (O) ___ I am the Hero 
 
 K
 
-- (X) ___ Katamari Damaci
-- (X) ___ Katana Zero
+- (▲) ___ Katamari Damacy ___ (in « Videogame Atlas »)
+- (△) ___ Katana Zero
 - (X) ___ Kentucky Route Zero: TV Edition
 - (X) ___ Kirby: le Monde Oublié
-- (X) ___ Kuukiyomi: Consider it
+- (O) ___ Kuukiyomi: Consider it
 
 L
 
@@ -762,7 +762,7 @@ L
 - (X) ___ Lovely Planet
 - (X) ___ Lovely Planet 2: April Skies
 - (X) ___ Lovely Planet Arcade
-- (X) ___ Lunacid
+- (▲) ___ Lunacid ___ (https://steamcommunity.com/sharedfiles/filedetails/?l=swedish&id=2922297772)
 - (X) ___ Lydia
 
 M
