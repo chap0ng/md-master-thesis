@@ -13,6 +13,8 @@ It could be interesting to merge it with the question of video game archives, as
 
 How do these community perceive their work as a process of helping others but also are they aware of their work being a valuable archiving resource ?
 
+How do their maps add more informations than the main game maps and expand the digital heritage ?
+
 ---
 
 **What is cartography in video games for me ? :**
