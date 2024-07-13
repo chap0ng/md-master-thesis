@@ -121,19 +121,30 @@
 ### Wii
 
 - (△) ___ Ben 10: Protector of Earth
+
 - (△) ___ Eledees
+
 - (△) ___ Kid Paddle: Lost in the Game
+
 - (▲) ___ Mario Kart Wii ___ (https://tcrf.net/Mario_Kart_Wii/Unused_Course_Elements) (https://archive.org/details/mario-kart-wii-prima-official-game-guide-2008-wii/page/56/mode/2up)
+
 - (△) ___ Mario Party 8
+
 - (▲) ___ Monster Hunter: Tri ___ (https://gamefaqs.gamespot.com/wii/943655-monster-hunter-tri/faqs)
+
 - (▲) ___ One Piece Unlimited Cruise 1: the Treasure Beneath the Waves ___ (https://www.supersoluce.com/soluce/one-piece-unlimited-cruise-2-l-eveil-d-un-heros/72-ile-des-souvenirs)
+
 - (O) ___ Rayman: Contre les Lapins Encore + Crétins
 - (O) ___ Rayman: Prod Presente the Lapin Cretins Show
+
 - (▲) ___ Super Smash Bros: Brawl ___ (https://nintendo.fandom.com/wiki/List_of_Super_Smash_Bros._Brawl_stages)
+
 - (▲) ___ the Legend of Zelda: Twilight Princess ___ (https://www.neoseeker.com/zelda-twilight-princess-hd/faqs/) (https://www.deviantart.com/mada12/art/LoZ-Twilight-Princess-MAP-46786971) (https://gamefaqs.gamespot.com/wii/928519-the-legend-of-zelda-twilight-princess/map/3694-item-locations-map)
+
 - (△) ___ Wario Land: the Shake Dimension ___ (https://www.vgmaps.com/Atlas/Wii/index.htm#WarioLandShakeIt) (only in game general drawn map)
 - (O) ___ Wii Fit
 - (O) ___ Wii Sports
+
 - (△) ___ Zack & Wiki: le Trésor de Barbaros
 ---
 ### Switch
@@ -220,63 +231,63 @@ N
 
 O
 
-- (X) ___ Obakeidoro!
-- (X) ___ Omori
-- (X) ___ Outlast 2
-- (X) ___ Owlboy
+- (▲) ___ Obakeidoro! ___ (https://obakeidoro.fandom.com/wiki/Stages#Jump_Warehouse)
+- (▲) ___ Omori ___ (https://steamcommunity.com/sharedfiles/filedetails/?id=2335938575)
+- (△) ___ Outlast 2 
+- (▲) ___ Owlboy ___ (https://steamcommunity.com/sharedfiles/filedetails/?id=1188908822)
 
 P
 
-- (X) ___ Pan-Pan: A Tiny Big Adventure
-- (X) ___ Part Time UFO
-- (X) ___ Penny Punching Princess
-- (X) ___ Pikmin 4
-- (X) ___ Pikuniku
-- (X) ___ PixelJunk: Monsters 2
-- (X) ___ Poison Control
-- (X) ___ Pokémon: Bouclier
+- (△) ___ Pan-Pan: A Tiny Big Adventure
+- (△) ___ Part Time UFO
+- (△) ___ Penny Punching Princess
+- (▲) ___ Pikmin 4 ___ (https://www.pikminwiki.com/Cavern_for_a_King#Sublevel_1)
+- (▲) ___ Pikuniku ___ (https://www.trueachievements.com/game/Pikuniku/walkthrough/3)
+- (△) ___ PixelJunk: Monsters 2 
+- (△) ___ Poison Control 
+- (▲) ___ Pokémon: Bouclier ___ (https://www.mewmaps.org/sword-shield) (https://www.ign.com/maps/pokemon-sword-shield/galar)
 
 R
 
-- (X) ___ Red Bow
-- (X) ___ River City Girl
+- (△) ___ Red Bow 
+- (▲) ___ River City Girl ___ (https://gamefaqs.gamespot.com/ps4/268789-river-city-girls/faqs)
 
 S
 
-- (X) ___ Scott Pilgrim
-- (X) ___ Slain
-- (X) ___ Spirit Hunter: NG
-- (X) ___ Super Smash Bros: Ultimate
+- (△) ___ Scott Pilgrim
+- (△) ___ Slain
+- (O) ___ Spirit Hunter: NG
+- (△) ___ Super Smash Bros: Ultimate
 
 T
 
-- (X) ___ the Legend of Zelda: Breath of the Wild
-- (X) ___ the Legend of Zelda: Tears of the Kingdom
-- (X) ___ Transistor
+- (▲) ___ the Legend of Zelda: Breath of the Wild ___ (https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?z=2&x=-3580&y=-1940)
+- (▲) ___ the Legend of Zelda: Tears of the Kingdom ___ (https://www.zeldadungeon.net/tears-of-the-kingdom-interactive-map/)
+- (△) ___ Transistor
 
 U
 
-- (X) ___ Undertale
-- (X) ___ Umihara Kawase: Fresh!
+- (▲) ___ Undertale ___ (https://www.deviantart.com/papikari/art/Undertale-Complete-Map-The-Ruins-568934668)
+- (▲) ___ Umihara Kawase: Fresh! ___ (https://steamcommunity.com/sharedfiles/filedetails/?id=3045488249)
 
 V
 
-- (X) ___ Void tRLM; //Void Terrarium
+- (△) ___ Void tRLM; //Void Terrarium
 
 W
 
-- (X) ___ WarioWare: Get it Together!
-- (X) ___ Wide Ocean Big Jacket
+- (O) ___ WarioWare: Get it Together!
+- (△) ___ Wide Ocean Big Jacket
 
 X
 
-- (X) ___ Xenoblade Chronicle 2
+- (▲) ___ Xenoblade Chronicle 2 ___ (https://game8.co/games/Xenoblade-Chronicles-Definitive-Edition/archives/290818) 
 
 Y
 
-- (X) ___ Yomawari: Lost in the Dark
-- (X) ___ Yomawari: the Long Night Collection
-- (X) ___ Yume Nikki: Dream Diary
+- (▲) ___ Yomawari: Lost in the Dark ___ (https://steamcommunity.com/sharedfiles/filedetails/?l=thai&id=1135719629)
+- (▲) ___ Yomawari: the Long Night Collection ___ (https://steamcommunity.com/sharedfiles/filedetails/?l=swedish&id=761744358)
+- (▲) ___ Yume Nikki: Dream Diary ___ (https://yumenikki.fandom.com/wiki/List_of_Locations?file=Yumemap.png)
 
 
 
@@ -333,63 +344,63 @@ I
 L
 
 - (▲) ___ Legacy of Kain: Blood Omen ___ (https://nosgoth.net/bloodomen/maps.html)
-- (O) ___ Les Chevaliers de Baphomet
+- (O) ___ Les Chevaliers de Baphomet 
 - (O) ___ Les Chevaliers de Baphomet II
 
 M
 
-- (X) ___ Medal of Honor: Underground
-- (X) ___ MediEvil 1
-- (X) ___ MediEvil 2
-- (X) ___ Metal Gear Solid
+- (▲) ___ Medal of Honor: Underground ___ (https://www.deviantart.com/slinkmizotha/art/Map-Medal-Of-Honor-Underground-Mission-6-1-1058378335)
+- (▲) ___ MediEvil 1 ___ (https://www.deviantart.com/vgcartography/art/MediEvil-Scarecrow-Fields-Map-997684816) (https://gamefaqs.gamespot.com/ps/197892-medievil/faqs)
+- (△) ___ MediEvil 2 
+- (▲) ___ Metal Gear Solid ___ (https://gamefaqs.gamespot.com/gbc/914401-metal-gear-solid/faqs)
 
 N
 
-- (X) ___ NBA: Hang Time
-- (X) ___ Need for Speed III
-- (X) ___ NHL 99
+- (O) ___ NBA: Hang Time
+- (▲) ___ Need for Speed III ___ (https://www.play3.de/wp-content/uploads/2010/09/nfs-hot-pursuit-secreast-county-map-download.jpg)
+- (O) ___ NHL 99
 
 P
 
-- (X) ___ Parasite Eve 
-- (X) ___ Parasite Eve II
+- (▲) ___ Parasite Eve ___ (https://gamefaqs.gamespot.com/ps/198265-parasite-eve/faqs)
+- (▲) ___ Parasite Eve II ___ (https://gamefaqs.gamespot.com/ps/198266-parasite-eve-ii/faqs/74732/treasure-chart-map)
 
 R
 
-- (O) ___ Rage Racer
-- (X) ___ Resident Evil
-- (X) ___ Resident Evil 3
-- (X) ___ Road Rash
+- (O) ___ Ridge Racer
+- (★) ___ Resident Evil ___ (https://horror.dreamdawn.com/?p=81213) (With a consequent map analysis)
+- (★) ___ Resident Evil 3 ___ (https://www.evilresource.com/resident-evil-3-nemesis/maps/uptown-and-downtown#uptown) (interesting interactive home made map)
+- (O) ___ Road Rash
 
 S
 
-- (X) ___ Saga Frontier
-- (X) ___ Saga Frontier 2
-- (X) ___ Silent Hill
-- (X) ___ Soul Reaver: Legacy of Kain
-- (X) ___ Spider-Man
-- (X) ___ Star Ocean
-- (X) ___ SwagMan
-- (X) ___ Syphon Filter
+- (▲) ___ Saga Frontier ___ (https://fantasyanime.com/saga/sagamaps.htm)
+- (△) ___ Saga Frontier 2 ___ (https://www.ebay.com/p/1695125?iid=186458069673)
+- (★) ___ Silent Hill ___ (https://silenthillheaven.com/sh1/sh1_maps/?age-verified=d961aa30a2) (https://gamefaqs.gamespot.com/ps/198641-silent-hill/faqs)
+- (▲) ___ Soul Reaver: Legacy of Kain ___ (https://legacyofkain.fandom.com/wiki/Overland_(Soul_Reaver))
+- (▲) ___ Spider-Man ___ (https://archive.org/details/sm00-osg/page/n51/mode/2up)
+- (▲) ___ Star Ocean ___ (https://gamefaqs.gamespot.com/ps4/146575-star-ocean-integrity-and-faithlessness/map/12821-world-map)
+- (△) ___ SwagMan
+- (▲) ___ Syphon Filter ___ (https://syphonfilter.fandom.com/wiki/Rhoemer%27s_Base?file=Syphon_filter.png) (https://syphonfilter.fandom.com/wiki/Stronghold_Catacombs?file=Stronglold_catacombs.png)
 
 T
 
 - (O) ___ Tetris
-- (X) ___ Tomb Raider
-- (X) ___ Tomb Raider III
-- (X) ___ Tomb Raider: la Revelation Finale
-- (X) ___ Tomb Raider: Sur les traces de Lara Croft
-- (X) ___ Tom Clancy's Rainbow Six
+- (★) ___ Tomb Raider ___ (https://www.deviantart.com/vgcartography/gallery/79359338/tomb-raider-1996) (interesting cartograph)
+- (▲) ___ Tomb Raider III ___ (https://www.deviantart.com/vgcartography/gallery/84768671/tomb-raider-iii-1998)
+- (▲) ___ Tomb Raider IV: la Revelation Finale ___ (https://tombraiders.net/stella/walks/TR4walk/level-select.html)
+- (▲) ___ Tomb Raider V: Sur les traces de Lara Croft ___ (https://tombraiders.net/stella/walks/TR5walk/submarine.html)
+- (△) ___ Tom Clancy's Rainbow Six 
 
 V
 
-- (X) ___ Valkyrie Profile
+- (▲) ___ Valkyrie Profile ___ (https://archive.org/details/valkyrie-profile-prima-strategy-guide) (https://archive.org/details/valkyrie-profile-prima-strategy-guide/page/n45/mode/2up)
 
 W
 
-- (X) ___ Wild Arms
-- (X) ___ Wild Arms 2
-- (X) ___ Worms
+- (▲) ___ Wild Arms ___ (https://www.reddit.com/r/wildarms/comments/sepvdr/stitched_a_world_map_together_from_screenshots/) (https://www.deviantart.com/vgcartography/art/Wild-Arms-Surf-Village-Map-962265705)
+- (▲) ___ Wild Arms 2 ___ (https://gamefaqs.gamespot.com/ps/913703-wild-arms-2/map/307-world-map)
+- (★) ___ Worms ___ (https://steamcommunity.com/sharedfiles/filedetails/?id=898531744) (generative map Seeds)
 
 X
 
