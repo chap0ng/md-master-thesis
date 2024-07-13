@@ -15,3 +15,6 @@
 - « MewMaps Home Page ». s. d. Consulté le 9 juillet 2024. [https://www.mewmaps.org/mewmaps-home-page](https://www.mewmaps.org/mewmaps-home-page). 
 
 - https://www.youtube.com/demajen (seems like an awesome resource !!!)
+- https://www.demajen.co.uk/
+- https://www.fantasyanime.com/
+- https://www.ign.com/maps
