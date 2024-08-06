@@ -21,4 +21,3 @@
 - ##### 8 : What do you think of the current state of maps in contemporary video-games ?
 
 - ##### 9 : Ajout (mapping amateur / ajout communauté / engagement / leurs inspirations / ce que cela signifie pour l'engagment du jeux / game design / mehcaniques de jeux / verifier si les cartes influent la durée de vie d'un jeux(monde) ) 
-- 

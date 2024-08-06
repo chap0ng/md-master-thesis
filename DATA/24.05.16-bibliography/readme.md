@@ -38,6 +38,8 @@
 
 - Rogers, Richard. 2013. « Mapping Public Web Space with the Issuecrawler ». In _Digital Cognitive Technologies_, 89‑99. John Wiley & Sons, Ltd. [https://doi.org/10.1002/9781118599761.ch6](https://doi.org/10.1002/9781118599761.ch6).
 
+- Richard Garfield. 2000. « Metagames ». Worldpress. Consulté le 3 août 2024. https://edt210gamestechsociety.files.wordpress.com/2013/09/2000-garfield-metagame.pdf . 
+
 - Stuart, Keith. 2010. « The Lost Art of Video Game Cartography ». _The Guardian_, 19 octobre 2010, sect. Technology. [https://www.theguardian.com/technology/gamesblog/2010/oct/19/mapping-video-games](https://www.theguardian.com/technology/gamesblog/2010/oct/19/mapping-video-games).
 
 - « The Ohio State University Press ». s. d. Consulté le 16 mai 2024. [https://ohiostatepress.org](https://ohiostatepress.org).
