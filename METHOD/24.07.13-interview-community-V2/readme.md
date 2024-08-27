@@ -15,7 +15,7 @@
 
 - **3 : How many maps have you worked on so far?**
     
-    - Could you provide an overview of the types of maps you’ve created?
+    - Could you provide an overview of maps you’ve created?
 
 - **4 : What motivates you when working on these maps?**
     
