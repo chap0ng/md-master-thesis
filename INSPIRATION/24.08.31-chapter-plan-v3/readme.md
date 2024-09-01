@@ -1,5 +1,5 @@
 
-## **How does community-driven cartography contribute to the archiving of digital game worlds ?
+## **How does community-driven cartography contribute to the archiving of digital game worlds ?** 
 
 
 ### **Chapter 1: Introduction (Why?)** 
