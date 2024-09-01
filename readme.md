@@ -6,7 +6,7 @@
 
 Subject : the community & process of video-game cartography.
 
-Problematic : " How do community-driven map cartography influence the development, longevity, and player engagement in video games ?  "
+Problematic : " How does community-driven cartography contribute to the archiving of digital game worlds ?  "
 
 ---
 
