@@ -625,7 +625,7 @@ X
 - (X) ___ Neo : The World Ends With You
 - (X) ___ Bloodborne
 - (X) ___ Trover Saves The Universe
-- (X) ___ Elden Ring 
+- (X) ___ Elden Ring ( + DLC )
 - (X) ___
 - (X) ___
 - (X) ___
@@ -868,8 +868,7 @@ W
 
 
 ---
-### Incoming games Summer 2024
+### Incoming games 2024 
 
 
 ---
-### Old games that i don't own yet
