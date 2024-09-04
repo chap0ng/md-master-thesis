@@ -110,8 +110,52 @@ Most of the cosmetics blends fantasy and realistic visuals.
 
 ### Chapter 3 : Dark Souls
 
-(readed )
+(readed 24.09.04 )
 
+###### 3.1
+
+Souls series are often cited for their environmental communication, with architecture playing a key role in explaining it's opaque lore.
+
+Lordan, the map of the first Dark souls, is a carefully crafted and interconnected world.
+(like in the other opus of the saga and other From soft games)
+
+The firs dark souls take inspiration in the 18th and 19th century "Picturesque" architectural design.
+
+Everything in this world communicate a symbolism of deep time and mythologies.
+
+It is also taking visually a lot from the romantic era of art.
+
+Despite being an European type of structures, From soft understanding of ruins also come from a deeper fascination with such object in Japanese culture.
+
+These comes in many forms, poems, buddhist imagery etc..
+
+P:60 - fig 1 - Lordan world map (hidden in game)
+
+P:62 - fig 2 - Lordan Bonefire (save points) map
+
+###### 3.2 
+
+Talk about bonefire as rest place, these bonefire shelter and protect us like architecture should.
+
+Lordan is a place where we experience death as something that can be observed and that we can learn from.
+
+44 bonefire in DS1
+
+Fog doors in these games serves as temporary place shifter and limitation.
+
+###### 3.3
+
+They used a color analysis software to get the area tones of the game. P:65
+
+Most of the tones are greyish and highlight the importance of lighting in the game to create scenic views.
+
+Myazaki (the game and art directore now CEO of from soft) is inspired by many European monuments, combining them into new forms. 
+
+Players have been active online to find these references and so.
+
+P66-67 - fig 4 - real life inspiration mapping
+
+###### 3.4
 
 
 
@@ -131,4 +175,4 @@ P27, Giant Bomb, " Concept: Chest high walls", giantbomb.com
 
 P41, Daniel G. Lobo, "Playing With Urban Life : How Sim City Influences Planning Culture", Space Time Play: 208, 2007.
 
-
+P65, L.Jegou, "color proportions of an image" tool, geotest.net (...)
