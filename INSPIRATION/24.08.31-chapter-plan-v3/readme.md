@@ -82,9 +82,9 @@
 
 ---
 
-### **Chapter 3: FromSoftware's Elden Ring's Meta Game Case Study (Maybe something else that is a result on amateur maps, because of the changes some game did or not ) (Results ?)**
+### **Chapter 3: FromSoftware's "Meta Game" Case Study (Maybe something else that is a result on amateur maps, because of the changes some game did or not ) (Results ?)**
 
-#### 3.1 Influence of Elden Ring on Map Perception
+#### 3.1 Influence of FromSoftware's games on Map Perception
 
 - Analysis of how Elden Ring’s map design has influenced player expectations and experiences.
 - Role of community-driven maps in shaping the understanding of the game’s world.
