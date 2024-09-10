@@ -74,3 +74,27 @@
 ---
 ### PODCASTS :
 
+
+
+---
+### more to list & read : 
+
+Lowood, Henry. (2009). "Before It's Too Late: The Digital Game Preservation Problem." _Library Trends,_ 57(3).
+
+McDonough, Jerome, et al. (2010). "Preserving Virtual Worlds: Final Report." _Library of Congress._
+
+Newman, James. (2012). "Best Before: Videogames, Supersession and Obsolescence." _Routledge._
+
+NDIIPP. (2010). "Game Preservation: Issues, Strategies, and Best Practices." _Library of Congress._
+
+Monnens, David, & Anderson, Andrew. (2009). "Archiving Digital Games: A Historical Context and Overview of Current Strategies." _ACM SIGGRAPH 2009 Games Preservation._
+
+Sköld, Olle. _Documenting Videogame Communities_. Uppsala University, Disciplinary Domain of Humanities and Social Sciences, Faculty of Arts, Department of ALM, 2023.
+
+Game Preservation Society. _Preserving Play: The Game Preservation Society’s Report_. 2020. https://www.gamepres.org/en/media/contents/docs-public/
+
+Brown, Kathryn, and Christopher K. R. Lee, eds. _The Routledge Companion to Digital Humanities and Art History_. Routledge, 2020. https://www.routledge.com/The-Routledge-Companion-to-Digital-Humanities-and-Art-History/Brown/p/book/9781032336398?srsltid=AfmBOopE3bOan3d5IpHtyr7dBnbu6y3Y9rUdL-UCd71FRh9sOb6hJjMY
+
+International Game Developers Association, 2024. https://igda.org/resourcelibrary/
+
+Sköld, Olle. 2018. « Documenting Videogame Communities : A Study of Community Production of Information in Social-Media Environments and Its Implications for Videogame Preservation ». [link](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-336748).
