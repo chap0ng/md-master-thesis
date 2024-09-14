@@ -157,7 +157,47 @@ P66-67 - fig 4 - real life inspiration mapping
 
 ###### 3.4
 
+Players are constently offered points in the distance that require a tortuous route to reach them.
 
+p68 (fig 5) : route analysis
+
+The route to reach the next point is full of traps, ladders to climb, gates and so on.
+
+Myazaki the creator call them unexpected pathways.
+
+Direct view and indirect circulation, making the player traverse twice or more what he sees to reach it.
+
+Shakkei, Japanese garden philosophy to incorporate distant views into design.
+
+This chapter tackles how views are framed to create scenic atmospheres.
+
+p72-73 (fig,7,8,9)
+
+###### 3.5
+
+relationship between view and circulation define other aspect in dark souls architectural approach.
+
+Intricate spaces like corridors, staircases or even small rooms make it difficult for the players to swing swords and fight back ennemies.
+
+The spaces are counted as ennemies too.
+
+As seen on p74(fig 10) : Plans of small scale spaces.
+
+Other areas like many of the bosses ones are too larges making the player tiny and insignificant against the gigantic bosses.
+
+P76 (fig 11) : Bosses arena design
+
+P77 (fig12) : Bosses arena analysis (how they help or trap players)
+
+###### 3.6
+
+Dark soul social spaces.
+
+Notable study of these online in game messages left by players on the ground, Driftltem Twitter.
+
+Data Scraping tools to obtain multiplayer informations. 
+
+players find beauty, meaning and motivation to play in these lethal landscapes and architectures.
 
 ---
 
@@ -176,3 +216,5 @@ P27, Giant Bomb, " Concept: Chest high walls", giantbomb.com
 P41, Daniel G. Lobo, "Playing With Urban Life : How Sim City Influences Planning Culture", Space Time Play: 208, 2007.
 
 P65, L.Jegou, "color proportions of an image" tool, geotest.net (...)
+
+P75, Brent Ables, " Dark souls remasered", heterotopiaszine.
