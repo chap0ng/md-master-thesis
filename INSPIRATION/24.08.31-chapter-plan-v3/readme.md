@@ -14,30 +14,48 @@
 - Statement of the central research question.
 - Specific objectives of the study.
 
-#### 1.3 Structure of the Thesis
+#### 1.3 Process (how did i worked)
+
+
+#### 1.4 Structure of the Thesis
 
 - Outline of the chapters and their focus.
 
 ---
 
-### **Chapter 2: The Role of Community-Driven Cartography as a part of meta-game // Motivations, Methodologies, and Impact of Amateur Cartographers (How?)**
+### **Chapter 2: FromSoftware's "Meta Game" Case Study (Maybe something else that is a result on amateur maps, because of the changes some game did or not ) (Results ?) (presentation du case study ) (peut aussi être synthèse/ résumé dans le point 1.4 dans ma méthode qui est un impulse ) ( matière brute / donnée brut )**
 
-#### 2.1 Digital worlds Preservation
+**2.1 Influence of FromSoftware's games on Map Perception**
+
+- Analysis of how Elden Ring’s map design has influenced player expectations and experiences.
+- Role of community-driven maps in shaping the understanding of the game’s world.
+- How the meta game of Elden Ring bring back old school external gameplay.
+
+**2.2 Implications for video-game archives**
+
+- How From Software's game map designs contribute to the broader understanding of archiving digital games.
+- The role of innovative mapping techniques in preserving the significance of video game worlds.
+
+---
+
+### **Chapter 3: The Role of Community-Driven Cartography as a part of meta-game // Motivations, Methodologies, and Impact of Amateur Cartographers (How?)**
+
+#### 3.1 Digital worlds Preservation
 
 - Challenges in preserving digital content, especially video-games.
 
-#### 2.2 Cartography in Video Games ( & in real life ?)
+#### 3.2 Cartography in Video Games ( & in real life ?)
 
 - Role of maps in video games.
 - Context of amateur contributions to digital content.
 - Parallel evolution of in-game and amateur (external) video-game maps.
 
-#### 2.3 Overview of Community-Driven Cartography
+#### 3.3 Overview of Community-Driven Cartography
 
 - Definition and examples of community-driven maps and their forums.
 - Comparison with official game maps.
 
-#### 2.4 Interviews insight (Community Perceptions and Engagement)
+#### 3.4 Interviews insight (Community Perceptions and Engagement)
 
 - Methodology and selection criteria for interviewing digital cartographers.
 - Key insights from interviews with amateur and professional map creators.
@@ -50,7 +68,7 @@
 - Influence of map creation on community involvement and engagement.
 - Insights from interviews on how map creation affects community dynamics.
 
-#### 2.5 Processes and Techniques With Case Studies
+#### 3.5 Processes and Techniques With Case Studies
 
 - Common methods and tools used in amateur map making.
 - Differences in techniques across various game genres.
@@ -72,7 +90,7 @@
     - Combination of traditional and digital techniques.
     - Case studies and their impact.
 
-#### 2.6 Impact on Archiving and Documentation
+#### 3.6 Impact on Archiving and Documentation
 
 - How community-created maps contribute to digital archiving efforts.
 - Integration of maps into existing archival frameworks.
@@ -80,40 +98,10 @@
 - Long-term impact on the historical record of video games.
 - Strategies for preserving community-driven maps and their role in preserving ephemeral digital content.
 
----
-
-### **Chapter 3: FromSoftware's "Meta Game" Case Study (Maybe something else that is a result on amateur maps, because of the changes some game did or not ) (Results ?)**
-
-#### 3.1 Influence of FromSoftware's games on Map Perception
-
-- Analysis of how Elden Ring’s map design has influenced player expectations and experiences.
-- Role of community-driven maps in shaping the understanding of the game’s world.
-- How the meta game of Elden Ring bring back old school external gameplay.
-
-#### 3.2 Implications for video-game archives
-
-- How From Software's game map designs contribute to the broader understanding of archiving digital games.
-- The role of innovative mapping techniques in preserving the significance of video game worlds.
-
 
 ---
 
-### **Chapter 4: Conclusion ( & Practical Experience in Digital Map Creation if time allows)**
-
-#### (4.1 Involvement in a Mapping Project)
-
-- Description of personal involvement in creating a digital map for a video game.
-- Goals and objectives of the mapping project.
-
-#### (4.2 Methodologies Applied)
-
-- Techniques and processes used during the map creation.
-- Tools and software employed.
-
-#### (4.3 Reflection and Insights)
-
-- Personal experiences and challenges faced during the mapping process.
-- Lessons learned and insights gained.
+### **Chapter 4: Conclusion
 
 #### 4.4 Summary of Findings
 
@@ -130,3 +118,23 @@
 #### 4.5 Final Thoughts
 
 - Reflections on the significance of community-driven cartography in the context of digital archiving.
+
+
+### **Annexe ? ou where i come from et importance of préservation (entre les bullet point du 1.1 et .2 ) ( & Practical Experience in Digital Map Creation if time allows ) (work in progress comme 3 eme outils d’étude) (peut devenir projet pratique pour plus tard)**
+
+**(5.1 Involvement in a Mapping Project)**
+
+- Description of personal involvement in creating a digital map for a video game.
+- Goals and objectives of the mapping project.
+
+**(5.2 Methodologies Applied)**
+
+- Techniques and processes used during the map creation.
+- Tools and software employed.
+
+**(5.3 Reflection and Insights)**
+
+- Personal experiences and challenges faced during the mapping process.
+- Lessons learned and insights gained.
+
+**(5.4 Videogame list etc)**
