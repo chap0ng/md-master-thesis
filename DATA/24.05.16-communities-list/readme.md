@@ -16,5 +16,7 @@
 
 - https://www.youtube.com/demajen (seems like an awesome resource !!!)
 - https://www.demajen.co.uk/
+
 - https://www.fantasyanime.com/
+
 - https://www.ign.com/maps
