@@ -98,3 +98,4 @@ Brown, Kathryn, and Christopher K. R. Lee, eds. _The Routledge Companion to Digi
 International Game Developers Association, 2024. https://igda.org/resourcelibrary/
 
 Sköld, Olle. 2018. « Documenting Videogame Communities : A Study of Community Production of Information in Social-Media Environments and Its Implications for Videogame Preservation ». [link](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-336748).
+
