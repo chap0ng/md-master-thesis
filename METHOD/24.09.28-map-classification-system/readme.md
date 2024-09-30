@@ -64,6 +64,49 @@ This Category involves environments that are digitally created that envelopes th
 In a way, Lopes explain that computer art can often be hybrid, combining different types of making processes and viewers interactions. This makes computer art flexible and adaptable in the field of art creation.
 
 ---
-### How could Meta-Gaming fits inside Lopes Classification ? :
+### How could Meta-Gaming and Guide maps fits inside Lopes Classification ? :
+
+In a way Meta-Gaming is part of the games but does it make it important to archive for further research ? Do we need to focus mainly on game preservation ? or should we also archive these in an attempt to understand how these where played and loved ?
+
+These questions comes in mind;
+
+**Can a map be algorithmic ? :** 
+
+Might not but there's a way to link this in a way. Some games like no man sky or minecraft are based on algorithmic and generative maps. This category could be used to know how maps work in a static or procedural system.
+
+**Are they Interactive ? :**
+
+Are the maps selected interactive ? Can you add to them through your computer ? 
+
+or
+
+How does the maps bring more interactivity with the game or in the opposite side constrain the players perspective ?
+
+**and how do user engage with them ?:**
+
+Is the purpose of the map exploration ? Speed run ? enhancing game mechanics ? abstract ? or just pure layout of the game ?
+
+---
+
+Maps would also need to be categorised trough their **purpose** and **how** **they've been crafted**. For exemple some are hand-made, some delivers info on items, some on lore and even some are just a collage of multiple screenshot making it more understandable to navigate these virtual worlds.
+
+I also need to know if these are for sharing purpose/ **community based** ? or are they **personal** ? 
 
 
+##### With these in mind here's my first attempt at creating my base guide maps categories : 
+
+1. Explicit maps : Maps used as a basic world reference. (ex: Copy of in game maps / collages)
+
+2. Maps that are used as a broader mechanic purpose. (ex: for speed runs or for lore )
+
+3. Maps that are personal, that has been made for someone's own puzzle or game journey. (ex: hand drawn maps with notes or so)
+
+4. Maps that are interactive and community based. ( ex: these are the work of many people online building it together with different tools)
+
+##### Questions i need to ask myself :
+
+-What tools did they used ?
+
+-For what purpose ?
+
+-How can these be related to computer art or gameplay ?
