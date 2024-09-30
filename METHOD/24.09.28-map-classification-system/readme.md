@@ -66,11 +66,13 @@ In a way, Lopes explain that computer art can often be hybrid, combining differe
 ---
 ### How could Meta-Gaming and Guide maps fits inside Lopes Classification ? :
 
-In a way Meta-Gaming is part of the games but does it make it important to archive for further research ? Do we need to focus mainly on game preservation ? or should we also archive these in an attempt to understand how these where played and loved ?
+In a way Meta-Gaming is part of the games but does it make it important to archive for further research ? Do we need to focus mainly on game preservation ? or should we also archive these in an attempt to understand how these where played and loved ? 
+
+Aren't these maps like a picture or a specific rediffusion of a performance, making it linked to it's base materials as much as being it's own "art" ? So are these creators digital artists too ? How does performance art rediffusion is seen in the field of galleries ?
 
 These questions comes in mind;
 
-**Can a map be algorithmic ? :** 
+**Can a guide maps be algorithmic ? :** 
 
 Might not but there's a way to link this in a way. Some games like no man sky or minecraft are based on algorithmic and generative maps. This category could be used to know how maps work in a static or procedural system.
 
@@ -95,13 +97,15 @@ I also need to know if these are for sharing purpose/ **community based** ? or a
 
 ##### With these in mind here's my first attempt at creating my base guide maps categories : 
 
-1. Explicit maps : Maps used as a basic world reference. (ex: Copy of in game maps / collages)
+1. "Explicit maps" : Maps used as a basic world reference. No annotation or extra work (ex: Copy of in game maps / collages)
 
 2. Maps that are used as a broader mechanic purpose. (ex: for speed runs or for lore )
 
 3. Maps that are personal, that has been made for someone's own puzzle or game journey. (ex: hand drawn maps with notes or so)
 
-4. Maps that are interactive and community based. ( ex: these are the work of many people online building it together with different tools)
+4. Road maps, showing a narrative path and to complete a game 100%. 
+
+5. Maps that are interactive and community based. ( ex: these are the work of many people online building it together with different tools)
 
 ##### Questions i need to ask myself :
 
