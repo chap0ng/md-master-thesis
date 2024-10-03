@@ -21,3 +21,8 @@
 
 - https://www.ign.com/maps
 - https://fextralife.com/ (joined their discord to find cartographers)
+
+---
+
+Write to Demajen & Game maps.com
+Write to Sabrina
