@@ -74,7 +74,7 @@ These questions comes in mind;
 
 **Can a guide maps be algorithmic ? :** 
 
-Might not but there's a way to link this in a way. Some games like no man sky or minecraft are based on algorithmic and generative maps. This category could be used to know how maps work in a static or procedural system.
+Might not but there's a way to link this in a way. Some games like no man sky or Minecraft are based on algorithmic and generative maps. This category could be used to know how maps work in a static or procedural system.
 
 **Are they Interactive ? :**
 
