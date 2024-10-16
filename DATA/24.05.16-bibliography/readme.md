@@ -231,3 +231,12 @@ Triclot, Mathieu. 2011. _Philosophie des jeux vidéo_. Paris: Zones.
 « Videogame Atlas ». s. d. Consulté le 29 mai 2024. [https://thamesandhudson.com/videogame-atlas-mapping-interactive-worlds-9780500024232](https://thamesandhudson.com/videogame-atlas-mapping-interactive-worlds-9780500024232).
 
 « Virtual Cities: An Atlas & Exploration of Video Game Cities ». s. d. Consulté le 29 mai 2024. [https://www.game-cities.com/virtual-cities](https://www.game-cities.com/virtual-cities).
+
+---
+
+Dates de lectures et consultations :
+
+-Ekphasis et supplément (15.10.2024)
+-Mehdi Derfoufi, Décoloniser jeux vidéo (15.10.2024)
+-https://stamen.com/cartographers-play-video-games-a-review-of-the-map-in-elden-ring/ (15.10.2024)
+-
