@@ -1,5 +1,5 @@
 
-Discussion with Princess DoomKitty3000
+Discussion with Princess DoomKitty3000 
 
 ![[Capture d'écran 2024-10-03 094200.png]]
 
