@@ -66,6 +66,16 @@
     - Combination of traditional and digital techniques.
     - Case studies and their impact.
 
+1. "Explicit maps" : Maps used as a basic world reference. No annotation or extra work (ex: Copy of in game maps / collages)
+
+2. Optimization Maps : that are used as a broader mechanic purpose. (ex: for speed runs or ressources farming)
+
+3. Personal/ hand drawn maps : that has been made for someone's own puzzle or game journey, that could be found in paper sheets or in notebooks. (ex: hand drawn maps with notes or so)
+
+4. Road maps/ Explorations maps : showing a narrative path and how to complete a game 100%. Help finding all the nooks and cranny.
+
+5. Maps that are interactive and community based : ( ex: these are the work of many people online building it together with different tools)
+
 #### 3.4 Interviews insight (Community Perceptions and Engagement)
 
 - Methodology and selection criteria for interviewing digital cartographers.
