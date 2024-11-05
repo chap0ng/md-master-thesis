@@ -575,8 +575,6 @@ X
 - (X) ___ LocoRoco
 - (X) ___ Lemmings
 - (X) ___ Yu-Gi-Oh! GX Tag Force
-- (X) ___
-
 
 ---
 ### PS4
