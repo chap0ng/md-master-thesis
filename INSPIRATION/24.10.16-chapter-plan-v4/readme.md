@@ -1,6 +1,9 @@
 
 ## **How does community-driven cartography contribute to the archiving of digital game worlds ?** 
 
+## OR
+
+## **community-driven cartography: Meta-gaming as a digital art form ?** 
 
 ### **Chapter 1: Introduction (Why?)** 
 
