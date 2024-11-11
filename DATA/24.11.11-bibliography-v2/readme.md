@@ -56,7 +56,6 @@
 ---
 ### SOCIAL MEDIA // FORUMS :
 
-- « (1) The VG Cartographer (@CartographerVg) / X ». 2021. X (formerly Twitter). 4 février 2021. [https://x.com/cartographervg](https://x.com/cartographervg).
 
 - « ——— ». 2022. X (formerly Twitter). 10 juin 2022. [https://x.com/cartographervg](https://x.com/cartographervg).
 
@@ -229,6 +228,7 @@ Dates de lectures et consultations :
 -Ekphasis et supplément (15.10.2024)
 -Mehdi Derfoufi, Décoloniser jeux vidéo (15.10.2024)
 -https://stamen.com/cartographers-play-video-games-a-review-of-the-map-in-elden-ring/ (15.10.2024)
+
 -
 
 ---
@@ -241,23 +241,16 @@ SinclairLore. _⭐Maps and Development ⭐ Bloodborne ⭐Dark Souls ⭐ Demon’
 
 Max Frequency. _My Journey to Becoming a Map Maker – A Video Essay._ YouTube. [online]. 15 July 2024. https://www.youtube.com/watch?v=UY7wuxd5qT0&ab_channel=MaxFrequency (Accessed 18 September 2024).
 
-The VG Cartographer (@CartographerVg). X. _X (formerly Twitter)_. [online]. 4 February 2021.
+The VG Cartographer (@CartographerVg). X. [online]. 4 February 2021.
 [https://x.com/cartographervg](https://x.com/cartographervg) (Accessed 29 May 2024).
 
+Vapor Cephalopod. _#MetalGearSolid Shadow Moses complete map_. X. [online]. 22 August 2021. [https://x.com/mcghee_nick/status/1429572996071665667](https://x.com/mcghee_nick/status/1429572996071665667) (Accessed 29 May 2024).
 
-Vapor Cephalopod. _#MetalGearSolid Shadow Moses complete map_. X. _X (formerly Twitter)_. [online]. 22 August 2021. [https://x.com/mcghee_nick/status/1429572996071665667](https://x.com/mcghee_nick/status/1429572996071665667) (Accessed 29 May 2024).
+The Nomads of Fantasy. _Video Game Maps: A Digital Cartography Discussion._ YouTube. [online]. 21 nov 2023. [https://www.youtube.com/watch?v=KiDV5HvXhUg&ab_channel=TheNomadsofFantasy](https://www.youtube.com/watch?v=KiDV5HvXhUg&ab_channel=TheNomadsofFantasy)(Accessed 18 September 2024).
 
-6.
+ALT 236. _ALT236 ∞ AU COEUR DES RUINES NUMERIQUES_. YouTube [online]. 16 October 2024. [https://www.youtube.com/watch?v=PMB5aVD1UJg](https://www.youtube.com/watch?v=PMB5aVD1UJg) (Accessed 11 November 2024).
 
-The Nomads of Fantasy. _Video Game Maps: A Digital Cartography Discussion._ YouTube. [online]. [Accessed 18 September 2024]. Available from: [https://www.youtube.com/watch?v=KiDV5HvXhUg&ab_channel=TheNomadsofFantasy](https://www.youtube.com/watch?v=KiDV5HvXhUg&ab_channel=TheNomadsofFantasy)
-
-7.
-
-ALT 236. YouTube. Online. [Accessed 26 May 2024]. Available from: [https://www.youtube.com/c/alt236](https://www.youtube.com/c/alt236)
-
-8.
-
-A (brief) history of game studies - YouTube. Online. [Accessed 11 November 2024]. Available from: [https://www.youtube.com/watch?v=PAr0tiEHyYE&ab_channel=Psychgeist](https://www.youtube.com/watch?v=PAr0tiEHyYE&ab_channel=Psychgeist)
+Psychgeist. _A (brief) history of game studies._ YouTube. [online]. 14 September 2022. [https://www.youtube.com/watch?v=PAr0tiEHyYE&ab_channel=Psychgeist](https://www.youtube.com/watch?v=PAr0tiEHyYE&ab_channel=Psychgeist)(Accessed 1 November 2024). 
 
 9.
 
@@ -273,7 +266,6 @@ A Philosophy of Computer Art | PDF | Doctor Of Philosophy | Postgraduate Educati
 
 WRITER, Kiera Mills Guides and MILLS, Kiera. All Elden Ring: Shadow Of The Erdtree Map Fragment locations. _Rock, Paper, Shotgun_. Online. 20 June 2024. [Accessed 11 November 2024]. Available from: [https://www.rockpapershotgun.com/elden-ring-shadow-of-the-erdtree-map-fragment-locations](https://www.rockpapershotgun.com/elden-ring-shadow-of-the-erdtree-map-fragment-locations)
 
-Read here for all Map Fragment locations in Elden Ring Shadow Of The Erdtree and learn how to find each region in the DLC. There are a total of 5 to get.
 
 12.
 
