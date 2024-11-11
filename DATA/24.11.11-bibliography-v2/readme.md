@@ -237,209 +237,91 @@ Books :
 
 Online :
 
-SinclairLore. _⭐Maps and Development ⭐ Bloodborne ⭐Dark Souls ⭐ Demon’s Souls ⭐ Soulsborne Lore Podcast ⭐_. YouTube. [online]. 3 July 2020. [https://www.youtube.com/watch?v=-ac-ad3TxVE](https://www.youtube.com/watch?v=-ac-ad3TxVE) (Accessed 29 May 2024).
+SinclairLore. _⭐__Maps and Development_ _⭐_ _Bloodborne_ _⭐__Dark Souls_ _⭐_ _Demon’s Souls_ _⭐_ _Soulsborne Lore Podcast_ _⭐__._ YouTube. [online]. 3 July 2020. [https://www.youtube.com/watch?v=-ac-ad3TxVE](https://www.youtube.com/watch?v=-ac-ad3TxVE) (Accessed 29.05.2024).
 
-Max Frequency. _My Journey to Becoming a Map Maker – A Video Essay._ YouTube. [online]. 15 July 2024. https://www.youtube.com/watch?v=UY7wuxd5qT0&ab_channel=MaxFrequency (Accessed 18 September 2024).
+Max Frequency. _My Journey to Becoming a Map Maker – A Video Essay._ YouTube. [online]. 15 July 2024. [https://www.youtube.com/watch?v=UY7wuxd5qT0&ab_channel=MaxFrequency](https://www.youtube.com/watch?v=UY7wuxd5qT0&ab_channel=MaxFrequency) (Accessed 18.09.2024).
 
-The VG Cartographer (@CartographerVg). X. [online]. 4 February 2021.
-[https://x.com/cartographervg](https://x.com/cartographervg) (Accessed 29 May 2024).
+The VG Cartographer (@CartographerVg). X. [online]. 4 February 2021. [https://x.com/cartographervg](https://x.com/cartographervg) (Accessed 29.05.2024).
 
-Vapor Cephalopod. _#MetalGearSolid Shadow Moses complete map_. X. [online]. 22 August 2021. [https://x.com/mcghee_nick/status/1429572996071665667](https://x.com/mcghee_nick/status/1429572996071665667) (Accessed 29 May 2024).
+Vapor Cephalopod. _#MetalGearSolid Shadow Moses complete map._ X. [online]. 22 August 2021. [https://x.com/mcghee_nick/status/1429572996071665667](https://x.com/mcghee_nick/status/1429572996071665667) (Accessed 29.05.2024).
 
-The Nomads of Fantasy. _Video Game Maps: A Digital Cartography Discussion._ YouTube. [online]. 21 nov 2023. [https://www.youtube.com/watch?v=KiDV5HvXhUg&ab_channel=TheNomadsofFantasy](https://www.youtube.com/watch?v=KiDV5HvXhUg&ab_channel=TheNomadsofFantasy)(Accessed 18 September 2024).
+The Nomads of Fantasy. _Video Game Maps: A Digital Cartography Discussion._ YouTube. [online]. 21 November 2023. [https://www.youtube.com/watch?v=KiDV5HvXhUg&ab_channel=TheNomadsofFantasy](https://www.youtube.com/watch?v=KiDV5HvXhUg&ab_channel=TheNomadsofFantasy) (Accessed 18.09.2024).
 
-ALT 236. _ALT236 ∞ AU COEUR DES RUINES NUMERIQUES_. YouTube [online]. 16 October 2024. [https://www.youtube.com/watch?v=PMB5aVD1UJg](https://www.youtube.com/watch?v=PMB5aVD1UJg) (Accessed 11 November 2024).
+ALT 236. _ALT236 ∞ AU COEUR DES RUINES NUMERIQUES._ YouTube. [online]. 16 October 2024. [https://www.youtube.com/watch?v=PMB5aVD1UJg](https://www.youtube.com/watch?v=PMB5aVD1UJg) (Accessed 11.11.2024).
 
-Psychgeist. _A (brief) history of game studies._ YouTube. [online]. 14 September 2022. [https://www.youtube.com/watch?v=PAr0tiEHyYE&ab_channel=Psychgeist](https://www.youtube.com/watch?v=PAr0tiEHyYE&ab_channel=Psychgeist)(Accessed 1 November 2024). 
+Psychgeist. _A (brief) history of game studies._ YouTube. [online]. 14 September 2022. [https://www.youtube.com/watch?v=PAr0tiEHyYE&ab_channel=Psychgeist](https://www.youtube.com/watch?v=PAr0tiEHyYE&ab_channel=Psychgeist) (Accessed 01.11.2024).
 
-9.
+Lopes, Dominic McIver. _A Philosophy of Computer Art._ Illustrated edition. London; New York: Routledge, 2009. ISBN 978-0-415-54762-8.
 
-LOPES, Dominic McIver. _A Philosophy of Computer Art_. . Illustrated edition. London ; New York : Routledge, 2009. ISBN 978-0-415-54762-8.
+A Philosophy of Computer Art | PDF | Doctor Of Philosophy | Postgraduate Education. Scribd. [online]. [Accessed 02.07.2024]. Available from: [https://www.scribd.com/document/126412624/A-Philosophy-of-Computer-Art](https://www.scribd.com/document/126412624/A-Philosophy-of-Computer-Art).
 
+Mills, Kiera. _All Elden Ring: Shadow Of The Erdtree Map Fragment Locations._ Rock, Paper, Shotgun. [online]. 20 June 2024. [https://www.rockpapershotgun.com/elden-ring-shadow-of-the-erdtree-map-fragment-locations](https://www.rockpapershotgun.com/elden-ring-shadow-of-the-erdtree-map-fragment-locations) (Accessed 11.11.2024).
 
-10.
+/// _An Alarming 87 Percent Of Retro Games Are Being Lost To Time._ Kotaku. [online]. 10 July 2023. [https://kotaku.com/classic-games-history-foundation-preservation-yakuza-1850623857](https://kotaku.com/classic-games-history-foundation-preservation-yakuza-1850623857) (Accessed 09.09.2024).
 
-A Philosophy of Computer Art | PDF | Doctor Of Philosophy | Postgraduate Education. _Scribd_. Online. [Accessed 2 July 2024]. Available from: [https://www.scribd.com/document/126412624/A-Philosophy-of-Computer-Art](https://www.scribd.com/document/126412624/A-Philosophy-of-Computer-Art)
+/// _AtariAge - Have You Played Atari Today?_ [online]. [https://atariage.com/](https://atariage.com/) (Accessed 11.11.2024).
 
+/// _Atlas of Cyberspace._ [online]. [https://kitchin.org/atlas/](https://kitchin.org/atlas/) (Accessed 16.05.2024).
 
-11.
+François, Wim, Soen, Violet, Dupont, Anthony, and Robiglio, Andrea Aldo (eds.). _Authority Revisited: Towards Thomas More and Erasmus in 1516._ Online. Turnhout, Belgium: Brepols Publishers, 2020. Lectio. ISBN 978-2-503-59061-5 (Accessed 20.09.2024).
 
-WRITER, Kiera Mills Guides and MILLS, Kiera. All Elden Ring: Shadow Of The Erdtree Map Fragment locations. _Rock, Paper, Shotgun_. Online. 20 June 2024. [Accessed 11 November 2024]. Available from: [https://www.rockpapershotgun.com/elden-ring-shadow-of-the-erdtree-map-fragment-locations](https://www.rockpapershotgun.com/elden-ring-shadow-of-the-erdtree-map-fragment-locations)
+Mahardy, Mike. _Back to the Future: Preserving the History of Video Games._ Polygon. [online]. 25 June 2013. [https://www.polygon.com/features/2013/6/25/4452894/the-strong-preserving-the-history-of-video-games](https://www.polygon.com/features/2013/6/25/4452894/the-strong-preserving-the-history-of-video-games) (Accessed 09.09.2024).
 
+/// _Bloodborne Exhibition at Victoria and Albert Museum._ [online]. [https://www.bloodborne-wiki.com/2018/12/bloodborne-exhibition-in-victoria-and.html](https://www.bloodborne-wiki.com/2018/12/bloodborne-exhibition-in-victoria-and.html) (Accessed 11.11.2024).
 
-12.
+/// _Can You See Me Now? | Blast Theory._ [online]. [https://ddd.uab.cat/pub/disturbis/disturbis_a2011n9/disturbis_a2011n9a6/work_cysmn.html](https://ddd.uab.cat/pub/disturbis/disturbis_a2011n9/disturbis_a2011n9a6/work_cysmn.html) (Accessed 02.07.2024).
 
-An Alarming 87 Percent Of Retro Games Are Being Lost To Time. _Kotaku_. Online. 10 July 2023. [Accessed 9 September 2024]. Available from: [https://kotaku.com/classic-games-history-foundation-preservation-yakuza-1850623857](https://kotaku.com/classic-games-history-foundation-preservation-yakuza-1850623857)
+Chartier, Roger. _Cartes et fictions (XVIe-XVIIIe siècle)_. Paris: Collège de France, 2022. ISBN 978-2-7226-0585-5 (Accessed 20.09.2024).
 
-In the first study on the commercial availability of classic games, only 13 percent have been preserved as of now
+_///. Cartographers Play Video Games - A Review of the Map in Elden Ring_. Stamen. [online]. 25 March 2022. [https://stamen.com/cartographers-play-video-games-a-review-of-the-map-in-elden-ring/](https://stamen.com/cartographers-play-video-games-a-review-of-the-map-in-elden-ring/) (Accessed 29.05.2024).
 
-13.
+///. _Cartographers Play Video Games - A Review of the Map in The Legend of Zelda: Breath of the Wild._ Stamen. [online]. 8 May 2023. [https://stamen.com/cartographers-play-video-games-a-review-of-the-map-in-the-legend-of-zelda-breath-of-the-wild/](https://stamen.com/cartographers-play-video-games-a-review-of-the-map-in-the-legend-of-zelda-breath-of-the-wild/) (Accessed 29.05.2024).
 
-AtariAge - Have You Played Atari Today? Online. [Accessed 11 November 2024]. Available from: [https://atariage.com/](https://atariage.com/)
+///. _Cartographers Play Video Games – A Review of the Map in The Legend of Zelda: Tears of the Kingdom._ Stamen. [online]. [https://stamen.com/cartographers-play-video-games-a-review-of-the-map-in-the-legend-of-zelda-tears-of-the-kingdom/](https://stamen.com/cartographers-play-video-games-a-review-of-the-map-in-the-legend-of-zelda-tears-of-the-kingdom/) (Accessed 29.05.2024).
 
-AtariAge - News, message boards, rarity guides, game database, manuals, pictures, articles, links, and much more
+Giant Bomb. Cartography Games. [online]. [https://www.giantbomb.com/cartography/3015-4197/games/](https://www.giantbomb.com/cartography/3015-4197/games/) (Accessed 29.05.2024).
 
-14.
+///. _Cartography in the Metaverse: The Power of Mapping in Video Games._ ArchDaily. [online]. 26 November 2021. [https://www.archdaily.com/782818/cartography-in-the-metaverse-the-power-of-mapping-in-video-games](https://www.archdaily.com/782818/cartography-in-the-metaverse-the-power-of-mapping-in-video-games) (Accessed 29.05.2024).
 
-Atlas of Cyberspace. Online. [Accessed 16 May 2024]. Available from: [https://kitchin.org/atlas/](https://kitchin.org/atlas/)
+crash magazine hand drawn maps - Recherche Google. [online]. [https://www.google.com/search?q=crash+magazine+hand+drawn+maps&sca_esv=8d08fdb92d3dc4d4&sca_upv=1&rlz=1C1ONGR_frCH1026CH1026&udm=2&biw=1707&bih=838&sxsrf=ADLYWIKq-vow2w07cZV-pjbEZqFWZx9SAg%3A1727168941912&ei=rYHyZrakN-yri-gP66DNyQo&ved=0ahUKEwj2rv_ZnduIAxXs1QIHHWtQM6kQ4dUDCBA&uact=5&oq=crash+magazine+hand+drawn+maps&gs_lp=Egxnd3Mtd2l6LXNlcnAiHmNyYXNoIG1hZ2F6aW5lIGhhbmQgZHJhd24gbWFwc0jHKFCQBFiBJ3ABeACQAQGYAZYEoAHMJKoBDDcuMTAuMi4yLjIuMbgBA8gBAPgBAZgCBaACuwfCAgQQIxgnwgIHEAAYgAQYE8ICBhAAGBMYHsICCBAAGBMYBRgewgIIEAAYExgIGB6YAwCIBgGSBwkyLjEuMS4wLjGgB8cd&sclient=gws-wiz-serp#vhid=f8sWrRQxkljuDM&vssid=mosaic](https://www.google.com/search?q=crash+magazine+hand+drawn+maps&sca_esv=8d08fdb92d3dc4d4&sca_upv=1&rlz=1C1ONGR_frCH1026CH1026&udm=2&biw=1707&bih=838&sxsrf=ADLYWIKq-vow2w07cZV-pjbEZqFWZx9SAg%3A1727168941912&ei=rYHyZrakN-yri-gP66DNyQo&ved=0ahUKEwj2rv_ZnduIAxXs1QIHHWtQM6kQ4dUDCBA&uact=5&oq=crash+magazine+hand+drawn+maps&gs_lp=Egxnd3Mtd2l6LXNlcnAiHmNyYXNoIG1hZ2F6aW5lIGhhbmQgZHJhd24gbWFwc0jHKFCQBFiBJ3ABeACQAQGYAZYEoAHMJKoBDDcuMTAuMi4yLjIuMbgBA8gBAPgBAZgCBaACuwfCAgQQIxgnwgIHEAAYgAQYE8ICBhAAGBMYHsICCBAAGBMYBRgewgIIEAAYExgIGB6YAwCIBgGSBwkyLjEuMS4wLjGgB8cd&sclient=gws-wiz-serp#vhid=f8sWrRQxkljuDM&vssid=mosaic)
 
-15.
+Crash Magazine. Issue 17. [online]. 1985. [http://archive.org/details/crash-magazine-17](http://archive.org/details/crash-magazine-17) (Accessed 11.11.2024).
 
-FRANÇOIS, Wim, SOEN, Violet, DUPONT, Anthony and ROBIGLIO, Andrea Aldo (eds.). _Authority Revisited: Towards Thomas More and Erasmus in 1516_. Online. Turnhout, Belgium : Brepols Publishers, 2020. [Accessed 20 September 2024]. Lectio. ISBN 978-2-503-59061-5.
+GameMaps. _Custom Maps and Mods for Games._ [online]. 3 November 2024. [https://www.gamemaps.com/](https://www.gamemaps.com/) (Accessed 11.11.2024).
 
-16.
+Demajen. _Metroidvania Maps._ [online]. [https://www.demajen.co.uk/](https://www.demajen.co.uk/) (Accessed 11.07.2024).
 
-MAHARDY, Mike. Back to the future: Preserving the history of video games. _Polygon_. Online. 25 June 2013. [Accessed 9 September 2024]. Available from: [https://www.polygon.com/features/2013/6/25/4452894/the-strong-preserving-the-history-of-video-games](https://www.polygon.com/features/2013/6/25/4452894/the-strong-preserving-the-history-of-video-games)
+_Digital Art Conservation (français)_ | 9783990435373. _ZKM_. [online]. [https://webshop.zkm.de/Digital-Art-Conservation-francais](https://webshop.zkm.de/Digital-Art-Conservation-francais) (Accessed 11.11.2024).
 
-In an industry constantly focused on where it’s going, one group set out to preserve where it’s been.
+SKÖLD, Olle. _Documenting Videogame Communities: A Study of Community Production of Information in Social-Media Environments and its Implications for Videogame Preservation_. [online]. 2018. [https://urn.kb.se/resolve?urn=urn:nbn:se:uu](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-336748)
 
-17.
+(Accessed 09.09.2024).
 
-Bloodborne Exhibition at Victoria and Albert Museum. Online. [Accessed 11 November 2024]. Available from: [https://www.bloodborne-wiki.com/2018/12/bloodborne-exhibition-in-victoria-and.html](https://www.bloodborne-wiki.com/2018/12/bloodborne-exhibition-in-victoria-and.html)
+Documents - _Les presses du réel_ (livre). [online]. [https://www.lespressesdureel.com/ouvrage.php?id=6914&menu=0](https://www.lespressesdureel.com/ouvrage.php?id=6914&menu=0) (Accessed 11.11.2024).
 
-Bloodborne Exhibition at Victoria and Albert Museum Bloodborne Wiki  » Art of Bloodborne  » Bloodborne Exhibition at Victoria and Albert Mu...
+MINASSIAN, Hovig Ter. _Drawing Video Game Mental Maps: From Emotional Games to Emotions of Play_. _Cartographic Perspectives_. [online]. 8 October 2018, No. 91, p. 47–62. DOI [10.14714/CP91.1435](https://doi.org/10.14714/CP91.1435).
 
-18.
+Dust 1:333 – _Aram Bartholl_. [online]. [https://arambartholl.com/dust-1-333/](https://arambartholl.com/dust-1-333/) (Accessed 02.07.2024).
 
-Can You See Me Now? | Blast Theory. Online. [Accessed 2 July 2024]. Available from: [https://ddd.uab.cat/pub/disturbis/disturbis_a2011n9/disturbis_a2011n9a6/work_cysmn.html](https://ddd.uab.cat/pub/disturbis/disturbis_a2011n9/disturbis_a2011n9a6/work_cysmn.html)
+CHARTIER, Roger. _Ekphrasis et supplément_. In: _Cartes et fictions (XVIe-XVIIIe siècle)_. [online]. Paris: Collège de France, 2022. p. 109–110. Faire savoir. ISBN 978-2-7226-0586-2 (Accessed 11.11.2024).
 
-19.
+STAFF, Polygon. _Elden Ring DLC interactive map for Shadow of the Erdtree_. _Polygon_. [online]. 20 June 2024. [https://www.polygon.com/c/elden-ring-shadow-erdtree-guide/24182329/interactive-map-dlc-sote-shadow-realm](https://www.polygon.com/c/elden-ring-shadow-erdtree-guide/24182329/interactive-map-dlc-sote-shadow-realm) (Accessed 11.11.2024).
 
-CHARTIER, Roger. _Cartes et fictions (XVIe-XVIIIe siècle)_. Online. Paris : Collège de France, 2022. [Accessed 20 September 2024]. ISBN 978-2-7226-0585-5.
+_Elden Ring Map - Upscaled - Coloring Pack_. _Nexus Mods :: Elden Ring_. [online]. 31 March 2022. [https://www.nexusmods.com/eldenring/mods/500](https://www.nexusmods.com/eldenring/mods/500) (Accessed 11.11.2024).
 
+_Elden Ring Map: Interactive_. _Elden Ring Wiki_. [online]. 23 June 2024. [https://eldenring.wiki.fextralife.com/Interactive+Map](https://eldenring.wiki.fextralife.com/Interactive+Map) (Accessed 11.11.2024).
 
-20.
+HUNT, Kevin. _Else/Where Mapping: New Cartographies of Networks and Territories_. _Material Culture_. [online]. 10 April 2010, Vol. 43, p. 122–125.
 
-Cartographers Play Video Games - A Review of the Map in Elden Ring. _Stamen_. Online. 25 March 2022. [Accessed 29 May 2024]. Available from: [https://stamen.com/cartographers-play-video-games-a-review-of-the-map-in-elden-ring/](https://stamen.com/cartographers-play-video-games-a-review-of-the-map-in-elden-ring/)
+PINCHBECK, Dan. _Emulation as a strategy for the preservation of games: the KEEP project_. [online]. 1 January 2009. [https://www.academia.edu/6721407/Emulation_as_a_strategy_for_the_preservation_of_games_the_KEEP_project](https://www.academia.edu/6721407/Emulation_as_a_strategy_for_the_preservation_of_games_the_KEEP_project) (Accessed 09.09.2024).
 
-Elden Ring is the first of the Souls games to have a map! Here’s what professional cartographers have to say about it...
+EDITOR, Adam Smith Former Deputy and SMITH, Adam. _Fantastic Cartography: Why Videogame Maps Matter_. _Rock, Paper, Shotgun_. [online]. 9 November 2014. [https://www.rockpapershotgun.com/videogame-maps](https://www.rockpapershotgun.com/videogame-maps) (Accessed 29.05.2024).
 
-21.
+Found this hand-drawn Zelda map while sorting through my old strategy guides! _Store inside_. : r/gaming. [online]. [https://www.reddit.com/r/gaming/comments/331d5d/found_this_handdrawn_zelda_map_while_sorting/](https://www.reddit.com/r/gaming/comments/331d5d/found_this_handdrawn_zelda_map_while_sorting/) (Accessed 11.11.2024).
 
-Cartographers Play Video Games - A Review of the Map in Elden Ring. _Stamen_. Online. 25 March 2022. [Accessed 11 November 2024]. Available from: [https://stamen.com/cartographers-play-video-games-a-review-of-the-map-in-elden-ring/](https://stamen.com/cartographers-play-video-games-a-review-of-the-map-in-elden-ring/)
+---
 
-Elden Ring is the first of the Souls games to have a map! Here’s what professional cartographers have to say about it...
-
-22.
-
-Cartographers Play Video Games - A Review of the Map in The Legend of Zelda: Breath of the Wild. _Stamen_. Online. 8 May 2023. [Accessed 29 May 2024]. Available from: [https://stamen.com/cartographers-play-video-games-a-review-of-the-map-in-the-legend-of-zelda-breath-of-the-wild/](https://stamen.com/cartographers-play-video-games-a-review-of-the-map-in-the-legend-of-zelda-breath-of-the-wild/)
-
-At Stamen, our appreciation and opinions of maps go beyond just our professional work here and often bleed over into our personal interests as well. Our eye for interactivity, color palettes, contour lines, and labels doesn’t stop once we log off at the end of the day. As we covered in a previous post by...
-
-23.
-
-Cartographers Play Video Games - A Review of the Map in The Legend of Zelda: Breath of the Wild. _Stamen_. Online. 8 May 2023. [Accessed 11 November 2024]. Available from: [https://stamen.com/cartographers-play-video-games-a-review-of-the-map-in-the-legend-of-zelda-breath-of-the-wild/](https://stamen.com/cartographers-play-video-games-a-review-of-the-map-in-the-legend-of-zelda-breath-of-the-wild/)
-
-At Stamen, our appreciation and opinions of maps go beyond just our professional work here and often bleed over into our personal interests as well. Our eye for interactivity, color palettes, contour lines, and labels doesn’t stop once we log off at the end of the day. As we covered in a previous post by...
-
-24.
-
-Cartographers Play Video Games – A Review of the Map in The Legend of Zelda: Tears of the Kingdom. _Stamen_. Online. 22 May 2024. [Accessed 11 November 2024]. Available from: [https://stamen.com/cartographers-play-video-games-a-review-of-the-map-in-the-legend-of-zelda-tears-of-the-kingdom/](https://stamen.com/cartographers-play-video-games-a-review-of-the-map-in-the-legend-of-zelda-tears-of-the-kingdom/)
-
-It’s been a year of ups and downs—quite literally if you’ve been playing The Legend of Zelda: Tears of the Kingdom (TotK) like we have. The long-awaited sequel to Breath of the Wild (BotW) was one of the top-rated games to release in 2023 and surpassed the seemingly impossible standard set by its predecessor. Last...
-
-25.
-
-Cartographers Play Video Games – A Review of the Map in The Legend of Zelda: Tears of the Kingdom | Stamen. Online. [Accessed 29 May 2024]. Available from: [https://stamen.com/cartographers-play-video-games-a-review-of-the-map-in-the-legend-of-zelda-tears-of-the-kingdom/](https://stamen.com/cartographers-play-video-games-a-review-of-the-map-in-the-legend-of-zelda-tears-of-the-kingdom/)
-
-26.
-
-Cartography Games. _Giant Bomb_. Online. [Accessed 29 May 2024]. Available from: [https://www.giantbomb.com/cartography/3015-4197/games/](https://www.giantbomb.com/cartography/3015-4197/games/)
-
-Cartography is the is the study and practice of crafting geographical maps.  Some games allow players to create and/or edit the maps of the game world.
-
-27.
-
-Cartography in the Metaverse: The Power of Mapping in Video Games. _ArchDaily_. Online. 26 November 2021. [Accessed 29 May 2024]. Available from: [https://www.archdaily.com/782818/cartography-in-the-metaverse-the-power-of-mapping-in-video-games](https://www.archdaily.com/782818/cartography-in-the-metaverse-the-power-of-mapping-in-video-games)
-
-Enrique Parra and Manuel Saga explore the potential of mapping in video games.
-
-28.
-
-crash magazine hand drawn maps - Recherche Google. Online. [Accessed 24 September 2024]. Available from: [https://www.google.com/search?q=crash+magazine+hand+drawn+maps&sca_esv=8d08fdb92d3dc4d4&sca_upv=1&rlz=1C1ONGR_frCH1026CH1026&udm=2&biw=1707&bih=838&sxsrf=ADLYWIKq-vow2w07cZV-pjbEZqFWZx9SAg%3A1727168941912&ei=rYHyZrakN-yri-gP66DNyQo&ved=0ahUKEwj2rv_ZnduIAxXs1QIHHWtQM6kQ4dUDCBA&uact=5&oq=crash+magazine+hand+drawn+maps&gs_lp=Egxnd3Mtd2l6LXNlcnAiHmNyYXNoIG1hZ2F6aW5lIGhhbmQgZHJhd24gbWFwc0jHKFCQBFiBJ3ABeACQAQGYAZYEoAHMJKoBDDcuMTAuMi4yLjIuMbgBA8gBAPgBAZgCBaACuwfCAgQQIxgnwgIHEAAYgAQYE8ICBhAAGBMYHsICCBAAGBMYBRgewgIIEAAYExgIGB6YAwCIBgGSBwkyLjEuMS4wLjGgB8cd&sclient=gws-wiz-serp#vhid=f8sWrRQxkljuDM&vssid=mosaic](https://www.google.com/search?q=crash+magazine+hand+drawn+maps&sca_esv=8d08fdb92d3dc4d4&sca_upv=1&rlz=1C1ONGR_frCH1026CH1026&udm=2&biw=1707&bih=838&sxsrf=ADLYWIKq-vow2w07cZV-pjbEZqFWZx9SAg%3A1727168941912&ei=rYHyZrakN-yri-gP66DNyQo&ved=0ahUKEwj2rv_ZnduIAxXs1QIHHWtQM6kQ4dUDCBA&uact=5&oq=crash+magazine+hand+drawn+maps&gs_lp=Egxnd3Mtd2l6LXNlcnAiHmNyYXNoIG1hZ2F6aW5lIGhhbmQgZHJhd24gbWFwc0jHKFCQBFiBJ3ABeACQAQGYAZYEoAHMJKoBDDcuMTAuMi4yLjIuMbgBA8gBAPgBAZgCBaACuwfCAgQQIxgnwgIHEAAYgAQYE8ICBhAAGBMYHsICCBAAGBMYBRgewgIIEAAYExgIGB6YAwCIBgGSBwkyLjEuMS4wLjGgB8cd&sclient=gws-wiz-serp#vhid=f8sWrRQxkljuDM&vssid=mosaic)
-
-29.
-
-_Crash Magazine Issue 17_. Online. 1985. [Accessed 11 November 2024]. Available from: [http://archive.org/details/crash-magazine-17](http://archive.org/details/crash-magazine-17)
-
-30.
-
-Custom Maps and Mods for Games. _GameMaps.com_. Online. 3 November 2024. [Accessed 11 November 2024]. Available from: [https://www.gamemaps.com/](https://www.gamemaps.com/)
-
-Download custom maps and mods for your favorite games! All by independent developers!
-
-31.
-
-Demajen’s Metroidvania Maps. Online. [Accessed 11 July 2024]. Available from: [https://www.demajen.co.uk/](https://www.demajen.co.uk/)
-
-32.
-
-Digital Art Conservation (français) | 9783990435373. _ZKM_. Online. [Accessed 11 November 2024]. Available from: [https://webshop.zkm.de/Digital-Art-Conservation-francais](https://webshop.zkm.de/Digital-Art-Conservation-francais)
-
-33.
-
-SKÖLD, Olle. Documenting Videogame Communities : A Study of Community Production of Information in Social-Media Environments and its Implications for Videogame Preservation. Online. 2018. [Accessed 9 September 2024]. Available from: [https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-336748](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-336748)
-
-DiVA portal is a finding tool for research publications and student theses written at the following 50 universities and research institutions.
-
-34.
-
-Documents - Les presses du réel (livre). Online. [Accessed 11 November 2024]. Available from: [https://www.lespressesdureel.com/ouvrage.php?id=6914&menu=0](https://www.lespressesdureel.com/ouvrage.php?id=6914&menu=0)
-
-35.
-
-MINASSIAN, Hovig Ter. Drawing Video Game Mental Maps: From Emotional Games to Emotions of Play. _Cartographic Perspectives_. 8 October 2018. No. 91, p. 47–62. DOI [10.14714/CP91.1435](https://doi.org/10.14714/CP91.1435).
-
-
-36.
-
-Dust 1:333 – Aram Bartholl. Online. [Accessed 2 July 2024]. Available from: [https://arambartholl.com/dust-1-333/](https://arambartholl.com/dust-1-333/)
-
-37.
-
-CHARTIER, Roger. Ekphrasis et supplément. In : _Cartes et fictions (XVIe-XVIIIe siècle)_. Online. Paris : Collège de France, 2022. p. 109–110. Faire savoir. [Accessed 11 November 2024]. ISBN 978-2-7226-0586-2.
-
-container-title: Cartes et fictions (XVIe-XVIIIe siècle)
-
-38.
-
-STAFF, Polygon. Elden Ring DLC interactive map for Shadow of the Erdtree. _Polygon_. Online. 20 June 2024. [Accessed 11 November 2024]. Available from: [https://www.polygon.com/c/elden-ring-shadow-erdtree-guide/24182329/interactive-map-dlc-sote-shadow-realm](https://www.polygon.com/c/elden-ring-shadow-erdtree-guide/24182329/interactive-map-dlc-sote-shadow-realm)
-
-Every point of interest in the Shadow Realm
-
-39.
-
-Elden Ring Map - Upscaled - Coloring Pack. _Nexus Mods :: Elden Ring_. Online. 31 March 2022. [Accessed 11 November 2024]. Available from: [https://www.nexusmods.com/eldenring/mods/500](https://www.nexusmods.com/eldenring/mods/500)
-
-Print and Play Coloring Pack of the Elden Ring map for the Lands Between.Black and White, adaptations of jamut69’s upscaled map, split into easy to print, consistently sized pages.
-
-40.
-
-Elden Ring Map: Interactive. _Elden Ring Wiki_. Online. 23 June 2024. [Accessed 11 November 2024]. Available from: [https://eldenring.wiki.fextralife.com/Interactive+Map](https://eldenring.wiki.fextralife.com/Interactive+Map)
-
-Elden Ring Map: Find all Locations, Armor, Weapons, Bosses, Keys and NPCs with an easy interactive map search. Links to strategies and item details!
-
-41.
-
-HUNT, Kevin. Else/Where Mapping: New Cartographies of Networks and Territories. _Material culture_. 10 April 2010. Vol. 43, p. 122–125.
-
-Two quotations within the opening pages of Else/Where: Mapping capture the essence of this intriguing book. The first, taken from Chapter Twelve of Moby Dick (1851), states: “It is not down in any map; true places never are” (pp. 2-9). In a work commissioned by Else/Where: Mapping, artist Jeremy Wood recreates Herman Melville’s provocative line through a personal journey. Wood travelled the shape of each letter on a walk through London, thereby constructing the complete sentence with each additional step. Using a Global Positioning System (GPS) device, he recorded this journey and projected the results onto aerial photographs that map the area. As Wood explains in his essay, “Can’t Be Elsewhere When GPS Drawing” (pp. 274-275), our personal navigation is evolving from looking up at the stars to looking down at handheld devices mediating information from satellites.
-
-42.
-
-PINCHBECK, Dan. Emulation as a strategy for the preservation of games: the KEEP project. Online. 1 January 2009. [Accessed 9 September 2024]. Available from: [https://www.academia.edu/6721407/Emulation_as_a_strategy_for_the_preservation_of_games_the_KEEP_project](https://www.academia.edu/6721407/Emulation_as_a_strategy_for_the_preservation_of_games_the_KEEP_project)
-
-Emulation as a strategy for the preservation of games: the KEEP project
-
-43.
-
-EDITOR, Adam Smith Former Deputy and SMITH, Adam. Fantastic Cartography: Why Videogame Maps Matter. _Rock, Paper, Shotgun_. Online. 9 November 2014. [Accessed 29 May 2024]. Available from: [https://www.rockpapershotgun.com/videogame-maps](https://www.rockpapershotgun.com/videogame-maps)
-
-Every Sunday, we reach deep into Rock, Paper, Shotgun’s 141-year history to pull out one of the best moments from the a…
-
-44.
-
-Found this hand-drawn Zelda map while sorting through my old strategy guides! Store inside. : r/gaming. Online. [Accessed 11 November 2024]. Available from: [https://www.reddit.com/r/gaming/comments/331d5d/found_this_handdrawn_zelda_map_while_sorting/](https://www.reddit.com/r/gaming/comments/331d5d/found_this_handdrawn_zelda_map_while_sorting/)
+Still need to order those: 
 
 45.
 
