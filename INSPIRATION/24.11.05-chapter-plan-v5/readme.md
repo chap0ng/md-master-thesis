@@ -2,6 +2,7 @@
 
 ### **Exploring the Impact of Fan-Made Video Game Maps and Metagaming on Today’s Video Games*** 
 
+
 ### **Introduction 
 
 **Background
@@ -14,11 +15,11 @@
 - Statement of the central research question.
 - Specific objectives of the study.
 
-**Process (how did i worked)
+**Process (how did i worked) & **Structure of the Thesis
 
-**Structure of the Thesis
-
+- Talk about interviews and glossaire
 - Outline of the chapters and their focus.
+- Parler methodologies et comment j'en viens à ma conclusion ...
 
 ---
 
