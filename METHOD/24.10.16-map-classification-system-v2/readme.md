@@ -50,7 +50,7 @@ I also need to know if these are for sharing purpose/ **community based** ? or a
 
 1. "Explicit maps" : Maps used as a basic world reference. No annotation or extra work (ex: Copy of in game maps / collages)
 
-2. Optimization Maps : that are used as a broader mechanic purpose. (ex: for speed runs or ressources farming)
+2. Optimisation Maps : that are used as a broader mechanic purpose. (ex: for speed runs or ressources farming)
 
 3. Personal/ hand drawn maps : that has been made for someone's own puzzle or game journey, that could be found in paper sheets or in notebooks. (ex: hand drawn maps with notes or so)
 
