@@ -23,6 +23,12 @@
 
 - https://fextralife.com/ (joined their discord to find cartographers)
 
+- https://www.facebook.com/groups/647234496722337/ C64 MAPS
+- https://ofp-faguss.com/blog/my-maps-for-games/#the-elder-scrolls-morrowind
+- https://mapstalgia.tumblr.com/
+- https://fusionretrobooks.com/
+- https://download.file-hunter.com/Games/Maps/
+
 ---
 
 Write to Demajen & Game maps.com
