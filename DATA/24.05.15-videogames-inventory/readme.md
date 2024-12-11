@@ -4,6 +4,8 @@
 
 ###### I'll also include some old games and incoming games i would be interested in.
 
+-- Unfinished state --
+
 ---
 #### △ = No cartography found online
 
@@ -24,12 +26,12 @@
 - (▲) ___ Kirby Dreamland ___ (https://www.vgmaps.com/Atlas/GB-GBC/index.htm#K)
 - (O) ___ Mortal Kombat 4
 - (▲) ___ Pokémon Silver ___ (https://www.vgmaps.com/Atlas/GB-GBC/index.htm#P)
-- (▲) ___ Pokémon Pika Yellow ___ (https://www.vgmaps.com/Atlas/GB-GBC/index.htm#P)
+- (▲) ___ Pokémon Pika Yellow ___ (https://www.vgmaps.com/Atlas/GB-GBC/index.htm#P) (https://scripterswar.com/pokemon/completion/Yellow?reddit) (interactive)
 - (O) ___ Tetris
 - (▲) ___ Tim in Tibet (tintin) ___ (https://www.vgmaps.com/Atlas/GB-GBC/index.htm#T)
 - (▲) ___ Wario Land ___ (https://www.vgmaps.com/Atlas/GB-GBC/index.htm#W)
 - (▲) ___ Xenon 2 ___ (https://www.oldgames.sk/en/game/xenon-2-megablast/download/10513/) 
-- (★) ___ Zelda: Link's Awakening ___ (https://mapgenie.io/zelda-links-awakening/maps/koholint-island) (interactive map)
+- (★) ___ Zelda: Link's Awakening ___ (https://mapgenie.io/zelda-links-awakening/maps/koholint-island) (interactive map) (https://www.vgmaps.com/Atlas/GB-GBC/index.htm#L)
 
 ---
 ### Gameboy Color
@@ -197,7 +199,7 @@ G
 H
 
 - (O) ___ Happy Birthday
-- (★) ___ Hollow Knight ___ (https://steamcommunity.com/sharedfiles/filedetails/?id=876122772) (https://gamefaqs.gamespot.com/ps4/246240-hollow-knight/map/15391-complete-map) (https://www.hallownest.net/mapping-stats/) (article about the map making process too)
+- (★) ___ Hollow Knight ___ (https://steamcommunity.com/sharedfiles/filedetails/?id=876122772) (https://gamefaqs.gamespot.com/ps4/246240-hollow-knight/map/15391-complete-map) (https://www.hallownest.net/mapping-stats/) (article about the map making process too) (https://demajen.co.uk/)
 - (▲) ___ Hotline Miami Collection ___ (https://www.reddit.com/r/HotlineMiami/comments/13x3w8j/whole_maps_in_hm2_act_2_rising_what_was_the/) (one of many you can find)
 
 I
@@ -459,11 +461,11 @@ X
 - (X) ___ Rayman M
 - (X) ___ Rayman: Revolution
 - (X) ___ Resident Evil: Code Veronica X
-- (X) ___ Ribbit King
+- (X) ___ Ribbit King 
 - (X) ___ Rogue Galaxy
 
 - (X) ___ Shadow of the Colossus
-- (X) ___ Silent Hill 2
+- (X) ___ Silent Hill 2 : https://www.deviantart.com/vgcartography/art/Silent-Hill-2-Lake-View-Hotel-Map-977719347
 - (X) ___ Silent Hill 3
 - (X) ___ Sonic Heroes
 - (X) ___ Spider-Man 2
@@ -584,7 +586,7 @@ X
 - (X) ___ CyberPunk 2077
 - (X) ___ Final Fantasy XV
 - (X) ___ Death Stranding
-- (X) ___ Dark Souls III
+- (X) ___ Dark Souls III : https://darksouls3.wiki.fextralife.com/Maps
 - (X) ___ Prey
 - (X) ___ Destiny
 - (X) ___ Little Nightmare
@@ -621,7 +623,7 @@ X
 - (X) ___ Gundam Versus
 - (X) ___ Digimon Story Cybersleuth Hacker's Memory
 - (X) ___ Neo : The World Ends With You
-- (X) ___ Bloodborne
+- (X) ___ Bloodborne: https://bloodborne.wiki.fextralife.com/Maps 
 - (X) ___ Trover Saves The Universe
 - (X) ___ Elden Ring ( + DLC )
 - (X) ___
@@ -676,7 +678,7 @@ C
 - (X) ___ Counter-Strike 2
 - (X) ___ Counter-Strike: Source
 - (X) ___ Cry of Fear
-- (O) ___ Cuphead
+- (O) ___ Cuphead : 
 
 D
 
@@ -741,7 +743,7 @@ H
 I
 
 - (O) ___ Inscryption
-- (X) ___ INSIDE
+- (▲) ___ INSIDE: (https://www.reddit.com/r/PlaydeadsInside/comments/8lsbe7/insides_world_map_all_the_levels_in_a_single/)
 - (X) ___ Inunaki Tunnel
 - (O) ___ Iris and the Giant
 
